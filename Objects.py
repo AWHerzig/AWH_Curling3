@@ -102,38 +102,38 @@ class Player:
     def ageup(self):
         self.age += 1
         if self.age <= 3:
-            self.yacc += adjustDraw(15, 20)
-            self.xacc += adjustDraw(15, 20)
-            self.curl += adjustDraw(15, 20)
-            self.sweep += adjustDraw(15, 20)
+            self.yacc += adjustDraw(15, 30)
+            self.xacc += adjustDraw(15, 30)
+            self.curl += adjustDraw(15, 30)
+            self.sweep += adjustDraw(15, 30)
             if random.uniform(0, 100) < 10:
                 self.twowaycurl = True
         elif self.age <= 5:
-            self.yacc += adjustDraw(10, 15)
-            self.xacc += adjustDraw(10, 15)
-            self.curl += adjustDraw(10, 15)
-            self.sweep += adjustDraw(10, 15)
+            self.yacc += adjustDraw(10, 25)
+            self.xacc += adjustDraw(10, 25)
+            self.curl += adjustDraw(10, 25)
+            self.sweep += adjustDraw(10, 25)
             if random.uniform(0, 100) < 20:
                 self.twowaycurl = True
         elif self.age <= 7:
-            self.yacc += adjustDraw(0, 15)
-            self.xacc += adjustDraw(0, 15)
-            self.curl += adjustDraw(0, 15)
-            self.sweep += adjustDraw(0, 15)
+            self.yacc += adjustDraw(0, 20)
+            self.xacc += adjustDraw(0, 20)
+            self.curl += adjustDraw(0, 20)
+            self.sweep += adjustDraw(0, 20)
             if random.uniform(0, 100) < 40:
                 self.twowaycurl = True
         elif self.age <= 10:
-            self.yacc += adjustDraw(-10, 15)
-            self.xacc += adjustDraw(-10, 15)
-            self.curl += adjustDraw(-10, 15)
-            self.sweep += adjustDraw(-10, 15)
+            self.yacc += adjustDraw(-10, 20)
+            self.xacc += adjustDraw(-10, 20)
+            self.curl += adjustDraw(-10, 20)
+            self.sweep += adjustDraw(-10, 20)
             if random.uniform(0, 100) < 80:
                 self.twowaycurl = True
         else:
-            self.yacc += adjustDraw(-20, 15)
-            self.xacc += adjustDraw(-20, 15)
-            self.curl += adjustDraw(-20, 15)
-            self.sweep += adjustDraw(-20, 15)
+            self.yacc += adjustDraw(-20, 20)
+            self.xacc += adjustDraw(-20, 20)
+            self.curl += adjustDraw(-20, 20)
+            self.sweep += adjustDraw(-20, 20)
             if random.uniform(0, 100) < 105:
                 self.twowaycurl = True
         self.yacc = clamp(self.yacc, 0, 100)
