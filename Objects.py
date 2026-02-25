@@ -18,7 +18,7 @@ class Sheet:
     def getScoring(self):
         DISTS = self.df[['x', 'y', 'team']].copy()
         DISTS['Distance'] = [distanceFormula(0, BUTTON[1], DISTS.loc[i, 'x'], DISTS.loc[i, 'y']) for i in DISTS.index]
-        DISTS = DISTS[DISTS.Distance < 15.5]
+        DISTS = DISTS[DISTS.Distance < 16]
         if len(DISTS) == 0:
             return 'BLANK', 0
         if len(DISTS.team.unique()) == 1:
@@ -71,15 +71,16 @@ class Sheet:
 class Player:
     def __init__(self, name, country, value = None):
         self.name = name if name is not None else names.get_full_name()
+        self.age = 1
         self.controlled = False
         self.country = country
         self.risk = random.randint(1, 100)
         # self.attributes
-        self.yacc = adjustDraw(30, 20)
-        self.xacc = adjustDraw(30, 20)
-        self.curl = adjustDraw(30, 20)
-        self.twowaycurl = np.random.choice([True, False], p=[.2, .8])
-        self.sweep = adjustDraw(30, 20)
+        self.yacc = adjustDraw(20, 30)
+        self.xacc = adjustDraw(20, 30)
+        self.curl = adjustDraw(20, 30)
+        self.twowaycurl = np.random.choice([True, False], p=[.1, .9])
+        self.sweep = adjustDraw(20, 30)
         # Values
         self.values = {
             'Contract': .4,
@@ -101,40 +102,44 @@ class Player:
     def ageup(self):
         self.age += 1
         if self.age <= 3:
-            self.yacc += adjustDraw(10, 10)
-            self.xacc += adjustDraw(10, 10)
-            self.curl += adjustDraw(10, 10)
-            self.sweep += adjustDraw(10, 10)
+            self.yacc += adjustDraw(15, 20)
+            self.xacc += adjustDraw(15, 20)
+            self.curl += adjustDraw(15, 20)
+            self.sweep += adjustDraw(15, 20)
             if random.uniform(0, 100) < 10:
                 self.twowaycurl = True
         elif self.age <= 5:
-            self.yacc += adjustDraw(5, 5)
-            self.xacc += adjustDraw(5, 5)
-            self.curl += adjustDraw(5, 5)
-            self.sweep += adjustDraw(5, 5)
+            self.yacc += adjustDraw(10, 15)
+            self.xacc += adjustDraw(10, 15)
+            self.curl += adjustDraw(10, 15)
+            self.sweep += adjustDraw(10, 15)
             if random.uniform(0, 100) < 20:
                 self.twowaycurl = True
         elif self.age <= 7:
-            self.yacc += adjustDraw(0, 5)
-            self.xacc += adjustDraw(0, 5)
-            self.curl += adjustDraw(0, 5)
-            self.sweep += adjustDraw(0, 5)
+            self.yacc += adjustDraw(0, 15)
+            self.xacc += adjustDraw(0, 15)
+            self.curl += adjustDraw(0, 15)
+            self.sweep += adjustDraw(0, 15)
             if random.uniform(0, 100) < 40:
                 self.twowaycurl = True
         elif self.age <= 10:
-            self.yacc += adjustDraw(-5, 5)
-            self.xacc += adjustDraw(-5, 5)
-            self.curl += adjustDraw(-5, 5)
-            self.sweep += adjustDraw(-5, 5)
+            self.yacc += adjustDraw(-10, 15)
+            self.xacc += adjustDraw(-10, 15)
+            self.curl += adjustDraw(-10, 15)
+            self.sweep += adjustDraw(-10, 15)
             if random.uniform(0, 100) < 80:
                 self.twowaycurl = True
         else:
-            self.yacc += adjustDraw(-10, 10)
-            self.xacc += adjustDraw(-10, 10)
-            self.curl += adjustDraw(-10, 10)
-            self.sweep += adjustDraw(-10, 10)
+            self.yacc += adjustDraw(-20, 15)
+            self.xacc += adjustDraw(-20, 15)
+            self.curl += adjustDraw(-20, 15)
+            self.sweep += adjustDraw(-20, 15)
             if random.uniform(0, 100) < 105:
                 self.twowaycurl = True
+        self.yacc = clamp(self.yacc, 0, 100)
+        self.xacc = clamp(self.xacc, 0, 100)
+        self.curl = clamp(self.curl, 0, 100)
+        self.sweep = clamp(self.sweep, 0, 100)
 
 class Team:
     def __init__(self, name, ABR):
@@ -146,6 +151,9 @@ class Team:
         self.second = None
         self.third = None
         self.skip = None
+
+    def __str__(self):
+        return self.name
 
     def setRoster(self, InputPlayers):
         x = pd.DataFrame(index = InputPlayers)

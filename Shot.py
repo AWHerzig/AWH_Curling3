@@ -341,13 +341,13 @@ def amIScoring(scoreDF, stoneid):
         print('not scoring because not in index')
         return False
     Ranked = scoreDF.sort_values('Distance')
-    return Ranked.loc[stoneid, 'Distance'] < 15.5 and len(Ranked.iloc[:(Ranked.index.to_list().index(stoneid)+1), 2].unique()) == 1
+    return Ranked.loc[stoneid, 'Distance'] < 16 and len(Ranked.iloc[:(Ranked.index.to_list().index(stoneid)+1), 2].unique()) == 1
 def amIGuarded(scoreDF, stoneid):
-    if scoreDF.loc[stoneid, 'Distance'] > 15.5:
+    if scoreDF.loc[stoneid, 'Distance'] > 16:
         return 0
     return len(scoreDF[np.isclose(scoreDF.x, scoreDF.loc[stoneid, 'x'], rtol = 0, atol = 2) & (scoreDF.y < scoreDF.loc[stoneid, 'y'])])
 def amIGuarding(scoreDF, stoneid):
-    scoreDF2 = scoreDF[scoreDF.Distance < 15.5]
+    scoreDF2 = scoreDF[scoreDF.Distance < 16]
     return len(scoreDF2[np.isclose(scoreDF2.x, scoreDF.loc[stoneid, 'x'], rtol = 0, atol = 2) & (scoreDF2.y > scoreDF.loc[stoneid, 'y'])])
 def countGuardsX(scoreDF, x, y = BUTTON[1]):
     if(len(scoreDF) == 0):
@@ -358,7 +358,7 @@ def ShotScoring(SCORINGDF, stonesleft, ShotTeam, returnDF = False):
     SCORINGDF['MyTeam'] = SCORINGDF.team.apply(lambda x: 1 if x == ShotTeam else -1)
     # Scoring
     SCORINGDF['Showing'] = [amIScoring(SCORINGDF, x) for x in SCORINGDF.index]
-    SCORINGDF['InHouseNotShowing'] = [not amIScoring(SCORINGDF, x) and SCORINGDF.loc[x, 'Distance'] < 15.5 for x in SCORINGDF.index]
+    SCORINGDF['InHouseNotShowing'] = [not amIScoring(SCORINGDF, x) and SCORINGDF.loc[x, 'Distance'] < 16 for x in SCORINGDF.index]
     SCORINGDF['Guarded'] = [amIGuarded(SCORINGDF, x) for x in SCORINGDF.index]
     SCORINGDF['Guarding'] = [amIGuarding(SCORINGDF, x) for x in SCORINGDF.index]
     SCORINGDF['Score'] = SCORINGDF.MyTeam*((SCORINGDF.Showing+.5*SCORINGDF.InHouseNotShowing)*(SCORINGDF.Guarded+1)+(.5*SCORINGDF.Guarding) if stonesleft > 1 else SCORINGDF.Showing)
@@ -387,13 +387,13 @@ def getShotSpecs(SHEET, ShotTeam, Shooter, returnDF = False): # tar x, type, spi
     # GUARD ANY OF YOURS
     GuardOptions = SHEET.df.copy()
     GuardOptions['Distance'] = [distanceFormula(0, BUTTON[1], GuardOptions.loc[i, 'x'], GuardOptions.loc[i, 'y']) for i in GuardOptions.index]
-    GuardOptions = GuardOptions[(GuardOptions.team == ShotTeam) & (GuardOptions.Distance < 15.5)]
+    GuardOptions = GuardOptions[(GuardOptions.team == ShotTeam) & (GuardOptions.Distance < 16)]
     for gOP in GuardOptions.index:
         options.loc[f'Guard_{gOP}'] =  GuardOptions.loc[gOP, 'x'], .1, 'guard', ShotScoring(testShotDF(SHEET, GuardOptions.loc[gOP, 'x'], 5, ShotTeam), SHEET.shotsleft, ShotTeam), 0, None # countGuardsX(SHEET.df, GuardOptions.loc[gOP, 'x'])
     # HIT ANY OF THEIRS
     HitOptions = SHEET.df.copy()
     HitOptions['Distance'] = [distanceFormula(0, BUTTON[1], HitOptions.loc[i, 'x'], HitOptions.loc[i, 'y']) for i in HitOptions.index]
-    HitOptions = HitOptions[(HitOptions.team != ShotTeam) & (HitOptions.Distance < 15.5)]
+    HitOptions = HitOptions[(HitOptions.team != ShotTeam) & (HitOptions.Distance < 16)]
     for hOP in HitOptions.index:
         ## Hit and stay
         options.loc[f'Hit_{hOP}'] = HitOptions.loc[hOP, 'x'], HitOptions.loc[hOP, 'y']-1, 'firm', ShotScoring(testShotDF(SHEET, HitOptions.loc[hOP, 'x'], HitOptions.loc[hOP, 'y']-1, ShotTeam, hOP), SHEET.shotsleft, ShotTeam), \

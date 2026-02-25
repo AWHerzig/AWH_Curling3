@@ -1,0 +1,1281 @@
+,Country,TIER,LeaguePrestige,TeamPrestige,TotalBudget
+London,United Kingdom,TIERA,90,50,806
+Tokyo,Japan,TIERA,90,50,544
+Paris,France,TIERA,90,50,463
+Rome,Italy,TIERA,90,50,423
+New York,United States,TIERA,90,50,391
+Berlin,Germany,TIERA,90,50,362
+Delhi,India,TIERA,90,50,337
+Bangkok,Thailand,TIERC,50,50,274
+Moscow,Russia,TIERB,70,50,267
+Singapore,Singapore,TIERC,50,50,258
+Mexico City,Mexico,TIERB,70,50,242
+Seoul,South Korea,TIERB,70,50,231
+Dublin,Ireland,TIERC,50,50,231
+Vienna,Austria,TIERC,50,50,230
+Madrid,Spain,TIERB,70,50,218
+Jakarta,Indonesia,TIERB,70,50,216
+Sydney,Australia,TIERB,70,50,212
+Mumbai,India,TIERA,90,50,211
+Melbourne,Australia,TIERB,70,50,203
+Sao Paulo,Brazil,TIERB,70,50,202
+Milan,Italy,TIERA,90,50,199
+Chongqing,China,TIERA,90,50,195
+Marseille,France,TIERA,90,50,187
+Los Angeles,United States,TIERA,90,50,186
+Hamburg,Germany,TIERA,90,50,182
+Oslo,Norway,TIERC,50,50,152
+Kolkata,India,TIERA,90,50,152
+Istanbul,Turkey,TIERC,50,50,152
+Shanghai,China,TIERA,90,50,152
+Munich,Germany,TIERA,90,50,147
+Lagos,Nigeria,TIERC,50,50,147
+Yokohama,Japan,TIERA,90,50,146
+Toronto,Canada,TIERB,70,50,143
+Naples,Italy,TIERA,90,50,141
+Dubai,United Arab Emirates,TIERC,50,50,139
+Bangalore,India,TIERA,90,50,135
+Brussels,Belgium,TIERC,50,50,134
+Beijing,China,TIERA,90,50,134
+Riyadh,Saudi Arabia,TIERC,50,50,133
+Turin,Italy,TIERA,90,50,128
+Chicago,United States,TIERA,90,50,126
+Dhaka,Bangladesh,TIERD,30,50,116
+Lima,Peru,TIERD,30,50,116
+Saint Petersburg,Russia,TIERB,70,50,115
+Cairo,Egypt,TIERD,30,50,115
+Lyon,France,TIERA,90,50,112
+Rio de Janeiro,Brazil,TIERB,70,50,111
+Montreal,Canada,TIERB,70,50,110
+Barcelona,Spain,TIERB,70,50,109
+Houston,United States,TIERA,90,50,108
+Hyderabad,India,TIERA,90,50,108
+Osaka,Japan,TIERA,90,50,107
+Chennai,India,TIERA,90,50,107
+Shenzhen,China,TIERA,90,50,107
+Cologne,Germany,TIERA,90,50,107
+Toulouse,France,TIERA,90,50,106
+Santiago,Chile,TIERD,30,50,105
+Birmingham,United Kingdom,TIERA,90,50,102
+Brisbane,Australia,TIERB,70,50,102
+Hong Kong,Hong Kong,TIERD,30,50,100
+Guangzhou,China,TIERA,90,50,98
+Palermo,Italy,TIERA,90,50,98
+Stockholm,Sweden,TIERC,50,50,96
+Zurich,Switzerland,TIERC,50,50,93
+Auckland,New Zealand,TIERD,30,50,92
+Nagoya,Japan,TIERA,90,50,91
+Jerusalem,Israel,TIERC,50,50,87
+Ahmedabad,India,TIERA,90,50,86
+Genoa,Italy,TIERA,90,50,85
+Tianjin,China,TIERA,90,50,85
+Warsaw,Poland,TIERC,50,50,85
+Buenos Aires,Argentina,TIERC,50,50,83
+Perth,Australia,TIERB,70,50,83
+Busan,South Korea,TIERB,70,50,81
+Jeddah,Saudi Arabia,TIERC,50,50,81
+Surat,India,TIERA,90,50,80
+Prague,Czech Republic,TIERD,30,50,80
+Xi'an,China,TIERA,90,50,79
+Pune,India,TIERA,90,50,79
+Zhengzhou,China,TIERA,90,50,77
+Sapporo,Japan,TIERA,90,50,77
+Phoenix,United States,TIERA,90,50,75
+Philadelphia,United States,TIERA,90,50,75
+Frankfurt,Germany,TIERA,90,50,74
+Hangzhou,China,TIERA,90,50,73
+Nice,France,TIERA,90,50,73
+Leeds,United Kingdom,TIERA,90,50,71
+Amsterdam,Netherlands,TIERC,50,50,71
+Incheon,South Korea,TIERB,70,50,70
+Nantes,France,TIERA,90,50,69
+Calgary,Canada,TIERB,70,50,69
+Wuhan,China,TIERA,90,50,68
+San Antonio,United States,TIERA,90,50,67
+Suzhou,China,TIERA,90,50,66
+Ho Chi Minh City,Vietnam,TIERD,30,50,66
+Luanda,Angola,TIERE,10,50,65
+Bucharest,Romania,TIERD,30,50,65
+San Diego,United States,TIERA,90,50,65
+Karachi,Pakistan,TIERD,30,50,64
+Fukuoka,Japan,TIERA,90,50,63
+Stuttgart,Germany,TIERA,90,50,63
+Montpellier,France,TIERA,90,50,62
+Abu Dhabi,United Arab Emirates,TIERC,50,50,62
+Dallas,United States,TIERA,90,50,61
+Strasbourg,France,TIERA,90,50,61
+Dusseldorf,Germany,TIERA,90,50,61
+Hanoi,Vietnam,TIERD,30,50,60
+Kobe,Japan,TIERA,90,50,60
+Harbin,China,TIERA,90,50,60
+Kawasaki,Japan,TIERA,90,50,60
+Surabaya,Indonesia,TIERB,70,50,59
+Bologna,Italy,TIERA,90,50,59
+Leipzig,Germany,TIERA,90,50,59
+Dortmund,Germany,TIERA,90,50,58
+Doha,Qatar,TIERE,10,50,58
+Antwerp,Belgium,TIERC,50,50,58
+Daegu,South Korea,TIERB,70,50,57
+Essen,Germany,TIERA,90,50,57
+Glasgow,United Kingdom,TIERA,90,50,57
+Gothenburg,Sweden,TIERC,50,50,57
+Ankara,Turkey,TIERC,50,50,57
+Kyoto,Japan,TIERA,90,50,57
+Copenhagen,Denmark,TIERD,30,50,56
+Bremen,Germany,TIERA,90,50,56
+Qingdao,China,TIERA,90,50,56
+Florence,Italy,TIERA,90,50,56
+Jinan,China,TIERA,90,50,55
+Chengdu,China,TIERA,90,50,55
+Dresden,Germany,TIERA,90,50,55
+Adelaide,Australia,TIERB,70,50,55
+Bordeaux,France,TIERA,90,50,55
+Bandung,Indonesia,TIERB,70,50,53
+Valencia,Spain,TIERB,70,50,53
+Sharjah,United Arab Emirates,TIERC,50,50,53
+Nanjing,China,TIERA,90,50,52
+Hanover,Germany,TIERA,90,50,52
+Ottawa,Canada,TIERB,70,50,52
+Sheffield,United Kingdom,TIERA,90,50,52
+Lahore,Pakistan,TIERD,30,50,52
+Bekasi,Indonesia,TIERB,70,50,52
+Saitama,Japan,TIERA,90,50,52
+Shenyang,China,TIERA,90,50,51
+Athens,Greece,TIERE,10,50,51
+Nuremberg,Germany,TIERA,90,50,51
+Edmonton,Canada,TIERB,70,50,50
+Brasilia,Brazil,TIERB,70,50,50
+Rotterdam,Netherlands,TIERC,50,50,50
+Manchester,United Kingdom,TIERA,90,50,50
+Lille,France,TIERA,90,50,50
+Medan,Indonesia,TIERB,70,50,50
+Muscat,Oman,TIERE,10,50,50
+Changsha,China,TIERA,90,50,49
+Duisburg,Germany,TIERA,90,50,49
+Budapest,Hungary,TIERE,10,50,48
+Salvador,Brazil,TIERB,70,50,48
+Depok,Indonesia,TIERB,70,50,48
+Bari,Italy,TIERA,90,50,48
+Bradford,United Kingdom,TIERA,90,50,48
+Edinburgh,United Kingdom,TIERA,90,50,47
+San Jose,United States,TIERA,90,50,47
+Catania,Italy,TIERA,90,50,47
+Rennes,France,TIERA,90,50,47
+Hiroshima,Japan,TIERA,90,50,47
+Addis Ababa,Ethiopia,TIERE,10,50,46
+Seville,Spain,TIERB,70,50,46
+Austin,United States,TIERA,90,50,46
+Helsinki,Finland,TIERD,30,50,45
+Zaragoza,Spain,TIERB,70,50,45
+Liverpool,United Kingdom,TIERA,90,50,45
+Dalian,China,TIERA,90,50,45
+Kuwait City,Kuwait,TIERE,10,50,44
+Nairobi,Kenya,TIERE,10,50,44
+Kunming,China,TIERA,90,50,44
+Geneva,Switzerland,TIERC,50,50,44
+Cork,Ireland,TIERC,50,50,44
+Puebla,Mexico,TIERB,70,50,44
+Fortaleza,Brazil,TIERB,70,50,44
+Jacksonville,United States,TIERA,90,50,43
+Ecatepec,Mexico,TIERB,70,50,43
+Tel Aviv,Israel,TIERC,50,50,43
+Bergen,Norway,TIERC,50,50,43
+Tangerang,Indonesia,TIERB,70,50,43
+Fort Worth,United States,TIERA,90,50,43
+Tijuana,Mexico,TIERB,70,50,43
+Sendai,Japan,TIERA,90,50,42
+Jaipur,India,TIERA,90,50,42
+Bristol,United Kingdom,TIERA,90,50,42
+The Hague,Netherlands,TIERC,50,50,42
+Columbus,United States,TIERA,90,50,42
+Charlotte,United States,TIERA,90,50,41
+Indianapolis,United States,TIERA,90,50,41
+San Francisco,United States,TIERA,90,50,41
+Belo Horizonte,Brazil,TIERB,70,50,41
+Leon,Mexico,TIERB,70,50,41
+Johannesburg,South Africa,TIERD,30,50,40
+Lucknow,India,TIERA,90,50,40
+Juarez,Mexico,TIERB,70,50,40
+Guadalajara,Mexico,TIERB,70,50,39
+Cordoba,Argentina,TIERC,50,50,39
+Malaga,Spain,TIERB,70,50,39
+Reims,France,TIERA,90,50,39
+Basel,Switzerland,TIERC,50,50,38
+Kano,Nigeria,TIERC,50,50,38
+Chiba,Japan,TIERA,90,50,38
+Winnipeg,Canada,TIERB,70,50,38
+Lisbon,Portugal,TIERD,30,50,38
+Venice,Italy,TIERA,90,50,38
+Verona,Italy,TIERA,90,50,38
+Le Havre,France,TIERA,90,50,37
+Toulon,France,TIERA,90,50,37
+Manaus,Brazil,TIERB,70,50,37
+Saint-Etienne,France,TIERA,90,50,37
+Kitakyushu,Japan,TIERA,90,50,37
+Krakow,Poland,TIERC,50,50,37
+Mississauga,Canada,TIERB,70,50,37
+Bochum,Germany,TIERA,90,50,36
+Ibadan,Nigeria,TIERC,50,50,36
+Daejeon,South Korea,TIERB,70,50,35
+Vancouver,Canada,TIERB,70,50,35
+Graz,Austria,TIERC,50,50,35
+Mecca,Saudi Arabia,TIERC,50,50,35
+Novosibirsk,Russia,TIERB,70,50,35
+Algiers,Algeria,TIERE,10,50,35
+Wuppertal,Germany,TIERA,90,50,35
+Seattle,United States,TIERA,90,50,35
+Malmo,Sweden,TIERC,50,50,34
+Semarang,Indonesia,TIERB,70,50,34
+Messina,Italy,TIERA,90,50,34
+Brampton,Canada,TIERB,70,50,34
+Grenoble,France,TIERA,90,50,34
+Gwangju,South Korea,TIERB,70,50,34
+Baghdad,Iraq,TIERE,10,50,34
+Denver,United States,TIERA,90,50,34
+Abuja,Nigeria,TIERC,50,50,34
+Stavanger,Norway,TIERC,50,50,33
+Dijon,France,TIERA,90,50,33
+Coventry,United Kingdom,TIERA,90,50,33
+Indore,India,TIERA,90,50,33
+Angers,France,TIERA,90,50,33
+Sakai,Japan,TIERA,90,50,33
+Bonn,Germany,TIERA,90,50,33
+Bielefeld,Germany,TIERA,90,50,33
+Zapopan,Mexico,TIERB,70,50,33
+Bogota,Colombia,TIERE,10,50,33
+Curitiba,Brazil,TIERB,70,50,32
+Lodz,Poland,TIERC,50,50,32
+Nashville,United States,TIERA,90,50,32
+Leicester,United Kingdom,TIERA,90,50,32
+Al Ain,United Arab Emirates,TIERC,50,50,32
+Cape Town,South Africa,TIERD,30,50,32
+Villeurbanne,France,TIERA,90,50,32
+Padua,Italy,TIERA,90,50,32
+Guayaquil,Ecuador,TIERE,10,50,32
+Yekaterinburg,Russia,TIERB,70,50,32
+Nimes,France,TIERA,90,50,32
+Rosario,Argentina,TIERC,50,50,32
+Cardiff,United Kingdom,TIERA,90,50,32
+Kowloon,Hong Kong,TIERD,30,50,31
+Belfast,United Kingdom,TIERA,90,50,31
+Hamamatsu,Japan,TIERA,90,50,31
+Trondheim,Norway,TIERC,50,50,31
+Niigata,Japan,TIERA,90,50,31
+Kanpur,India,TIERA,90,50,31
+Murcia,Spain,TIERB,70,50,31
+Kuala Lumpur,Malaysia,TIERD,30,50,31
+Makassar,Indonesia,TIERB,70,50,31
+Mannheim,Germany,TIERA,90,50,31
+Taranto,Italy,TIERA,90,50,30
+Lausanne,Switzerland,TIERC,50,50,30
+Nagpur,India,TIERA,90,50,30
+Hamilton,Canada,TIERB,70,50,30
+Quezon City,Philippines,TIERD,30,50,30
+Wroclaw,Poland,TIERC,50,50,30
+Monterrey,Mexico,TIERB,70,50,30
+Trieste,Italy,TIERA,90,50,30
+Suwon,South Korea,TIERB,70,50,29
+Bratislava,Slovakia,TIERE,10,50,29
+Palembang,Indonesia,TIERB,70,50,29
+Brescia,Italy,TIERA,90,50,29
+Nezahualcoyotl,Mexico,TIERB,70,50,29
+Nottingham,United Kingdom,TIERA,90,50,29
+Deira,United Arab Emirates,TIERC,50,50,29
+Surrey,Canada,TIERB,70,50,29
+Ghent,Belgium,TIERC,50,50,29
+Chittagong,Bangladesh,TIERD,30,50,29
+Izmir,Turkey,TIERC,50,50,29
+Bern,Switzerland,TIERC,50,50,29
+Parma,Italy,TIERA,90,50,29
+Palma,Spain,TIERB,70,50,28
+Utrecht,Netherlands,TIERC,50,50,28
+Sagamihara,Japan,TIERA,90,50,28
+Okayama,Japan,TIERA,90,50,28
+Quebec City,Canada,TIERB,70,50,28
+Nizhny Novgorod,Russia,TIERB,70,50,27
+Newcastle,United Kingdom,TIERA,90,50,27
+Alexandria,Egypt,TIERD,30,50,27
+Gold Coast,Australia,TIERB,70,50,27
+Shizuoka,Japan,TIERA,90,50,27
+Recife,Brazil,TIERB,70,50,27
+Mendoza,Argentina,TIERC,50,50,27
+Reggio Calabria,Italy,TIERA,90,50,27
+Modena,Italy,TIERA,90,50,27
+Kazan,Russia,TIERB,70,50,27
+Ulsan,South Korea,TIERB,70,50,27
+Medina,Saudi Arabia,TIERC,50,50,26
+Casablanca,Morocco,TIERE,10,50,26
+Brighton,United Kingdom,TIERA,90,50,26
+Haifa,Israel,TIERC,50,50,26
+Poznan,Poland,TIERC,50,50,26
+Durban,South Africa,TIERD,30,50,26
+Samut Prakan,Thailand,TIERC,50,50,26
+Winterthur,Switzerland,TIERC,50,50,25
+Las Palmas,Spain,TIERB,70,50,25
+Linz,Austria,TIERC,50,50,25
+Chelyabinsk,Russia,TIERB,70,50,25
+Samara,Russia,TIERB,70,50,25
+Goiania,Brazil,TIERB,70,50,25
+Thane,India,TIERA,90,50,25
+Aarhus,Denmark,TIERD,30,50,25
+Belem,Brazil,TIERB,70,50,25
+Omsk,Russia,TIERB,70,50,25
+Changwon,South Korea,TIERB,70,50,25
+Yongin,South Korea,TIERB,70,50,25
+Goyang,South Korea,TIERB,70,50,25
+Wellington,New Zealand,TIERD,30,50,24
+Plymouth,United Kingdom,TIERA,90,50,24
+Porto Alegre,Brazil,TIERB,70,50,24
+Bhopal,India,TIERA,90,50,24
+Petah Tikva,Israel,TIERC,50,50,24
+Chihuahua,Mexico,TIERB,70,50,24
+Ufa,Russia,TIERB,70,50,24
+Rostov-on-Don,Russia,TIERB,70,50,24
+Batam,Indonesia,TIERB,70,50,24
+Bilbao,Spain,TIERB,70,50,24
+Quito,Ecuador,TIERE,10,50,24
+Ekurhuleni,South Africa,TIERD,30,50,24
+Hull,United Kingdom,TIERA,90,50,23
+Rishon LeZion,Israel,TIERC,50,50,23
+Culiacan,Mexico,TIERB,70,50,23
+Uppsala,Sweden,TIERC,50,50,23
+Brno,Czech Republic,TIERD,30,50,23
+Halifax,Canada,TIERB,70,50,23
+Stoke,United Kingdom,TIERA,90,50,23
+Nonthaburi,Thailand,TIERC,50,50,23
+Naucalpan,Mexico,TIERB,70,50,23
+Almaty,Kazakhstan,TIERE,10,50,23
+Vila Nova de Gaia,Portugal,TIERD,30,50,23
+Voronezh,Russia,TIERB,70,50,23
+Perm,Russia,TIERB,70,50,23
+Merida,Mexico,TIERB,70,50,23
+Laval,Canada,TIERB,70,50,23
+Krasnoyarsk,Russia,TIERB,70,50,23
+Guarulhos,Brazil,TIERB,70,50,23
+Hermosillo,Mexico,TIERB,70,50,23
+Alicante,Spain,TIERB,70,50,22
+Kyiv,Ukraine,TIERE,10,50,22
+Tucuman,Argentina,TIERC,50,50,22
+Gdansk,Poland,TIERC,50,50,22
+Cordoba,Spain,TIERB,70,50,22
+Bogor,Indonesia,TIERB,70,50,22
+Patna,India,TIERA,90,50,22
+Pekanbaru,Indonesia,TIERB,70,50,22
+London,Canada,TIERB,70,50,22
+San Luis Potosi,Mexico,TIERB,70,50,22
+Charleroi,Belgium,TIERC,50,50,22
+Seongnam,South Korea,TIERB,70,50,22
+Volgograd,Russia,TIERB,70,50,22
+Liege,Belgium,TIERC,50,50,22
+Krasnodar,Russia,TIERB,70,50,21
+Christchurch,New Zealand,TIERD,30,50,21
+Vadodara,India,TIERA,90,50,21
+Gaziantep,Turkey,TIERC,50,50,21
+Saltillo,Mexico,TIERB,70,50,21
+Bursa,Turkey,TIERC,50,50,21
+Visakhapatnam,India,TIERA,90,50,21
+Aguascalientes,Mexico,TIERB,70,50,21
+Ajman,United Arab Emirates,TIERC,50,50,21
+Pretoria,South Africa,TIERD,30,50,21
+La Plata,Argentina,TIERC,50,50,21
+Ashdod,Israel,TIERC,50,50,21
+Campinas,Brazil,TIERB,70,50,20
+Valladolid,Spain,TIERB,70,50,20
+Vigo,Spain,TIERB,70,50,20
+Netanya,Israel,TIERC,50,50,20
+Cheongju,South Korea,TIERB,70,50,20
+Bandar Lampung,Indonesia,TIERB,70,50,20
+Espoo,Finland,TIERD,30,50,20
+Giza,Egypt,TIERD,30,50,19
+Beer Sheva,Israel,TIERC,50,50,19
+Limerick,Ireland,TIERC,50,50,19
+Manila,Philippines,TIERD,30,50,19
+Szczecin,Poland,TIERC,50,50,19
+Salzburg,Austria,TIERC,50,50,19
+Padang,Indonesia,TIERB,70,50,19
+Hwaseong,South Korea,TIERB,70,50,19
+Bucheon,South Korea,TIERB,70,50,19
+Davao,Philippines,TIERD,30,50,18
+Benin City,Nigeria,TIERC,50,50,18
+Canberra,Australia,TIERB,70,50,18
+Saratov,Russia,TIERB,70,50,18
+Ghaziabad,India,TIERA,90,50,18
+Acapulco,Mexico,TIERB,70,50,18
+Groningen,Netherlands,TIERC,50,50,18
+Lucerne,Switzerland,TIERC,50,50,18
+Malang,Indonesia,TIERB,70,50,18
+Gijon,Spain,TIERB,70,50,18
+Eindhoven,Netherlands,TIERC,50,50,18
+Mexicali,Mexico,TIERB,70,50,18
+Bnei Brak,Israel,TIERC,50,50,18
+Port Harcourt,Nigeria,TIERC,50,50,18
+Holon,Israel,TIERC,50,50,18
+Mar del Plata,Argentina,TIERC,50,50,18
+Dammam,Saudi Arabia,TIERC,50,50,18
+Sao Luis,Brazil,TIERB,70,50,18
+Markham,Canada,TIERB,70,50,17
+Adana,Turkey,TIERC,50,50,17
+Taif,Saudi Arabia,TIERC,50,50,17
+Ostrava,Czech Republic,TIERD,30,50,17
+Ansan,South Korea,TIERB,70,50,17
+Porto,Portugal,TIERD,30,50,17
+Bydgoszcz,Poland,TIERC,50,50,17
+Salta,Argentina,TIERC,50,50,17
+St. Gallen,Switzerland,TIERC,50,50,17
+Kristiansand,Norway,TIERC,50,50,17
+Bur Dubai,United Arab Emirates,TIERC,50,50,17
+Tyumen,Russia,TIERB,70,50,17
+Vaughan,Canada,TIERB,70,50,17
+Caloocan,Philippines,TIERD,30,50,17
+Vitoria,Spain,TIERB,70,50,17
+Tilburg,Netherlands,TIERC,50,50,17
+Tampere,Finland,TIERD,30,50,17
+Samarinda,Indonesia,TIERB,70,50,17
+Maceio,Brazil,TIERB,70,50,17
+Concepcion,Chile,TIERD,30,50,17
+Hospitalet,Spain,TIERB,70,50,17
+Kaduna,Nigeria,TIERC,50,50,16
+Innsbruck,Austria,TIERC,50,50,16
+La Coruna,Spain,TIERB,70,50,16
+Linkoping,Sweden,TIERC,50,50,16
+Saskatoon,Canada,TIERB,70,50,16
+Lublin,Poland,TIERC,50,50,16
+Almere,Netherlands,TIERC,50,50,16
+Vantaa,Finland,TIERD,30,50,16
+Khobar,Saudi Arabia,TIERC,50,50,16
+Namyangju,South Korea,TIERB,70,50,16
+Quilmes,Argentina,TIERC,50,50,16
+Galway,Ireland,TIERC,50,50,16
+Cheonan,South Korea,TIERB,70,50,16
+Orebro,Sweden,TIERC,50,50,15
+Jeonju,South Korea,TIERB,70,50,15
+Gatineau,Canada,TIERB,70,50,15
+Campo Grande,Brazil,TIERB,70,50,15
+Helsingborg,Sweden,TIERC,50,50,15
+Elche,Spain,TIERB,70,50,15
+Oran,Algeria,TIERE,10,50,15
+Drammen,Norway,TIERC,50,50,15
+Almirante Brown,Argentina,TIERC,50,50,15
+Natal,Brazil,TIERB,70,50,15
+Rabat,Morocco,TIERE,10,50,15
+Valparaiso,Chile,TIERD,30,50,15
+Tolyatti,Russia,TIERB,70,50,15
+Granada,Spain,TIERB,70,50,15
+Al Rayyan,Qatar,TIERE,10,50,15
+Tasikmalaya,Indonesia,TIERB,70,50,15
+Aalborg,Denmark,TIERD,30,50,15
+Anyang,South Korea,TIERB,70,50,15
+Haiphong,Vietnam,TIERD,30,50,15
+Jonkoping,Sweden,TIERC,50,50,14
+Breda,Netherlands,TIERC,50,50,14
+Nijmegen,Netherlands,TIERC,50,50,14
+Izhevsk,Russia,TIERB,70,50,14
+Oulu,Finland,TIERD,30,50,14
+Banjarmasin,Indonesia,TIERB,70,50,14
+Faisalabad,Pakistan,TIERD,30,50,14
+Teresina,Brazil,TIERB,70,50,14
+Klang,Malaysia,TIERD,30,50,14
+Bialystok,Poland,TIERC,50,50,14
+Katowice,Poland,TIERC,50,50,14
+Astana,Kazakhstan,TIERE,10,50,14
+Santa Fe,Argentina,TIERC,50,50,14
+Shymkent,Kazakhstan,TIERE,10,50,14
+Ramat Gan,Israel,TIERC,50,50,14
+Norrkoping,Sweden,TIERC,50,50,14
+Braga,Portugal,TIERD,30,50,14
+Kosice,Slovakia,TIERE,10,50,14
+Rehovot,Israel,TIERC,50,50,13
+Thessaloniki,Greece,TIERE,10,50,13
+Basra,Iraq,TIERE,10,50,13
+Antalya,Turkey,TIERC,50,50,13
+Turku,Finland,TIERD,30,50,13
+Odense,Denmark,TIERD,30,50,13
+Pontianak,Indonesia,TIERB,70,50,13
+Hawalli,Kuwait,TIERE,10,50,13
+Al Farwaniyah,Kuwait,TIERE,10,50,13
+Umea,Sweden,TIERC,50,50,13
+Lanus,Argentina,TIERC,50,50,13
+Lugano,Switzerland,TIERC,50,50,13
+Bat Yam,Israel,TIERC,50,50,13
+Ashkelon,Israel,TIERC,50,50,13
+Sunshine Coast,Australia,TIERB,70,50,13
+Hat Yai,Thailand,TIERC,50,50,13
+Amadora,Portugal,TIERD,30,50,13
+Newcastle,Australia,TIERB,70,50,13
+Almada,Portugal,TIERD,30,50,13
+Seeb,Oman,TIERE,10,50,13
+Bruges,Belgium,TIERC,50,50,13
+Joao Pessoa,Brazil,TIERB,70,50,13
+Longueuil,Canada,TIERB,70,50,13
+Ipoh,Malaysia,TIERD,30,50,12
+Johor Bahru,Malaysia,TIERD,30,50,12
+Penang,Malaysia,TIERD,30,50,12
+Callao,Peru,TIERD,30,50,12
+Wollongong,Australia,TIERB,70,50,12
+Lund,Sweden,TIERC,50,50,12
+Apeldoorn,Netherlands,TIERC,50,50,12
+Florencio Varela,Argentina,TIERC,50,50,12
+Cluj-Napoca,Romania,TIERD,30,50,12
+Moreno,Argentina,TIERC,50,50,12
+Jurong West,Singapore,TIERC,50,50,12
+Konya,Turkey,TIERC,50,50,12
+Gdynia,Poland,TIERC,50,50,12
+Vasteras,Sweden,TIERC,50,50,12
+San Juan,Argentina,TIERC,50,50,12
+Skien,Norway,TIERC,50,50,12
+Biel,Switzerland,TIERC,50,50,12
+Soweto,South Africa,TIERD,30,50,12
+Sandnes,Norway,TIERC,50,50,12
+Fredrikstad,Norway,TIERC,50,50,12
+Namur,Belgium,TIERC,50,50,12
+Bedok,Singapore,TIERC,50,50,12
+Subang Jaya,Malaysia,TIERD,30,50,12
+Haarlem,Netherlands,TIERC,50,50,12
+Tabuk,Saudi Arabia,TIERC,50,50,12
+Haarlemmermeer,Netherlands,TIERC,50,50,12
+Enschede,Netherlands,TIERC,50,50,12
+Amersfoort,Netherlands,TIERC,50,50,12
+Zaanstad,Netherlands,TIERC,50,50,12
+Arnhem,Netherlands,TIERC,50,50,12
+Mombasa,Kenya,TIERE,10,50,12
+Klagenfurt,Austria,TIERC,50,50,12
+Medellín,Colombia,TIERE,10,50,12
+Geelong,Australia,TIERB,70,50,11
+Kuching,Malaysia,TIERD,30,50,11
+Mons,Belgium,TIERC,50,50,11
+Waterford,Ireland,TIERC,50,50,11
+Czestochowa,Poland,TIERC,50,50,11
+Bien Hoa,Vietnam,TIERD,30,50,11
+Tampines,Singapore,TIERC,50,50,11
+Cali,Colombia,TIERE,10,50,11
+Kharkiv,Ukraine,TIERE,10,50,11
+Woodlands,Singapore,TIERC,50,50,11
+Sengkang,Singapore,TIERC,50,50,11
+Resistencia,Argentina,TIERC,50,50,11
+Corrientes,Argentina,TIERC,50,50,11
+Maiduguri,Nigeria,TIERC,50,50,11
+Leuven,Belgium,TIERC,50,50,11
+Arequipa,Peru,TIERD,30,50,11
+Boras,Sweden,TIERC,50,50,11
+Timisoara,Romania,TIERD,30,50,11
+Petaling Jaya,Malaysia,TIERD,30,50,10
+Shah Alam,Malaysia,TIERD,30,50,10
+Zamboanga,Philippines,TIERD,30,50,10
+Hougang,Singapore,TIERC,50,50,10
+Torun,Poland,TIERC,50,50,10
+Radom,Poland,TIERC,50,50,10
+Nacka,Sweden,TIERC,50,50,10
+Ampang Jaya,Malaysia,TIERD,30,50,10
+Aalst,Belgium,TIERC,50,50,10
+Udon Thani,Thailand,TIERC,50,50,10
+Sintra,Portugal,TIERD,30,50,10
+Iasi,Romania,TIERD,30,50,10
+Trujillo,Peru,TIERD,30,50,10
+Plzen,Czech Republic,TIERD,30,50,10
+Yishun,Singapore,TIERC,50,50,10
+Constanta,Romania,TIERD,30,50,10
+Craiova,Romania,TIERD,30,50,10
+Sundsvall,Sweden,TIERC,50,50,10
+Huddinge,Sweden,TIERC,50,50,10
+Asker,Norway,TIERC,50,50,10
+General Pueyrredon,Argentina,TIERC,50,50,10
+Gavle,Sweden,TIERC,50,50,10
+Zaria,Nigeria,TIERC,50,50,10
+Sodertalje,Sweden,TIERC,50,50,10
+Eskilstuna,Sweden,TIERC,50,50,10
+Gujranwala,Pakistan,TIERD,30,50,10
+Constantine,Algeria,TIERE,10,50,10
+Mersin,Turkey,TIERC,50,50,10
+Diyarbakir,Turkey,TIERC,50,50,10
+Mosul,Iraq,TIERE,10,50,10
+Ras Al Khaimah,United Arab Emirates,TIERC,50,50,10
+Zwolle,Netherlands,TIERC,50,50,10
+Kayseri,Turkey,TIERC,50,50,10
+Cebu City,Philippines,TIERD,30,50,10
+Jyvaskyla,Finland,TIERD,30,50,10
+Seremban,Malaysia,TIERD,30,50,9
+Modi'in,Israel,TIERC,50,50,9
+Kajang,Malaysia,TIERD,30,50,9
+Rawalpindi,Pakistan,TIERD,30,50,9
+Fujairah,United Arab Emirates,TIERC,50,50,9
+Kfar Saba,Israel,TIERC,50,50,9
+Sosnowiec,Poland,TIERC,50,50,9
+Can Tho,Vietnam,TIERD,30,50,9
+La Louviere,Belgium,TIERC,50,50,9
+Mechelen,Belgium,TIERC,50,50,9
+Punggol,Singapore,TIERC,50,50,9
+Setúbal,Portugal,TIERD,30,50,9
+Sha Tin,Hong Kong,TIERD,30,50,9
+Hamilton,New Zealand,TIERD,30,50,9
+Hobart,Australia,TIERB,70,50,9
+Sandefjord,Norway,TIERC,50,50,9
+Galati,Romania,TIERD,30,50,9
+Brasov,Romania,TIERD,30,50,9
+Herzliya,Israel,TIERC,50,50,9
+Neuchatel,Switzerland,TIERC,50,50,9
+Neuquen,Argentina,TIERC,50,50,9
+Antipolo,Philippines,TIERD,30,50,9
+Leiden,Netherlands,TIERC,50,50,9
+Esenyurt,Turkey,TIERC,50,50,9
+Dordrecht,Netherlands,TIERC,50,50,9
+Thun,Switzerland,TIERC,50,50,9
+Al Ahmadi,Kuwait,TIERE,10,50,9
+Jos,Nigeria,TIERC,50,50,9
+Aba,Nigeria,TIERC,50,50,9
+Gazipur,Bangladesh,TIERD,30,50,9
+Karlstad,Sweden,TIERC,50,50,9
+Gliwice,Poland,TIERC,50,50,9
+Kielce,Poland,TIERC,50,50,9
+Rzeszow,Poland,TIERC,50,50,9
+Koniz,Switzerland,TIERC,50,50,9
+Peshawar,Pakistan,TIERD,30,50,8
+Lahti,Finland,TIERD,30,50,8
+Al Quoz,United Arab Emirates,TIERC,50,50,8
+Multan,Pakistan,TIERD,30,50,8
+Malacca,Malaysia,TIERD,30,50,8
+Wels,Austria,TIERC,50,50,8
+Villach,Austria,TIERC,50,50,8
+Kuopio,Finland,TIERD,30,50,8
+Copenhagen S,Denmark,TIERD,30,50,8
+Esbjerg,Denmark,TIERD,30,50,8
+Vejle,Denmark,TIERD,30,50,8
+Kota Bharu,Malaysia,TIERD,30,50,8
+Cuenca,Ecuador,TIERE,10,50,8
+Tauranga,New Zealand,TIERD,30,50,8
+Sarpsborg,Norway,TIERC,50,50,8
+Tonsberg,Norway,TIERC,50,50,8
+Choa Chu Kang,Singapore,TIERC,50,50,8
+Da Nang,Vietnam,TIERD,30,50,8
+Yuen Long,Hong Kong,TIERD,30,50,8
+Khon Kaen,Thailand,TIERC,50,50,8
+Sint-Niklaas,Belgium,TIERC,50,50,8
+Ostend,Belgium,TIERC,50,50,8
+Hasselt,Belgium,TIERC,50,50,8
+Kortrijk,Belgium,TIERC,50,50,8
+Nakhon Ratchasima,Thailand,TIERC,50,50,8
+Chon Buri,Thailand,TIERC,50,50,8
+Swords,Ireland,TIERC,50,50,8
+Ploiesti,Romania,TIERD,30,50,8
+Dundalk,Ireland,TIERC,50,50,8
+Drogheda,Ireland,TIERC,50,50,8
+Coimbra,Portugal,TIERD,30,50,8
+Funchal,Portugal,TIERD,30,50,8
+Bodø,Norway,TIERC,50,50,8
+Santiago del Estero,Argentina,TIERC,50,50,8
+Taguig,Philippines,TIERD,30,50,8
+Pasig,Philippines,TIERD,30,50,8
+Ilorin,Nigeria,TIERC,50,50,8
+Khulna,Bangladesh,TIERD,30,50,8
+Narayanganj,Bangladesh,TIERD,30,50,8
+Port Elizabeth,South Africa,TIERD,30,50,8
+La Chaux-de-Fonds,Switzerland,TIERC,50,50,8
+Schaffhausen,Switzerland,TIERC,50,50,8
+Fribourg,Switzerland,TIERC,50,50,8
+Chur,Switzerland,TIERC,50,50,8
+Fes,Morocco,TIERE,10,50,8
+Zabrze,Poland,TIERC,50,50,8
+Odessa,Ukraine,TIERE,10,50,8
+Khamis Mushait,Saudi Arabia,TIERC,50,50,8
+Tournai,Belgium,TIERC,50,50,7
+Genk,Belgium,TIERC,50,50,7
+Seraing,Belgium,TIERC,50,50,7
+Dasmariñas,Philippines,TIERD,30,50,7
+Townsville,Australia,TIERB,70,50,7
+Bacoor,Philippines,TIERD,30,50,7
+Roeselare,Belgium,TIERC,50,50,7
+Pendik,Turkey,TIERC,50,50,7
+Umraniye,Turkey,TIERC,50,50,7
+Napier-Hastings,New Zealand,TIERD,30,50,7
+Dunedin,New Zealand,TIERD,30,50,7
+Alesund,Norway,TIERC,50,50,7
+Oradea,Romania,TIERD,30,50,7
+Nazareth,Israel,TIERC,50,50,7
+Dnipro,Ukraine,TIERE,10,50,7
+Donetsk,Ukraine,TIERE,10,50,7
+Lod,Israel,TIERC,50,50,7
+Ramla,Israel,TIERC,50,50,7
+Sankt Polten,Austria,TIERC,50,50,7
+La Serena,Chile,TIERD,30,50,7
+Antofagasta,Chile,TIERD,30,50,7
+Ogbomosho,Nigeria,TIERC,50,50,7
+Frederiksberg,Denmark,TIERD,30,50,7
+Randers,Denmark,TIERD,30,50,7
+Viborg,Denmark,TIERD,30,50,7
+Valenzuela,Philippines,TIERD,30,50,7
+Hyderabad,Pakistan,TIERD,30,50,7
+Tuen Mun,Hong Kong,TIERD,30,50,7
+Kwai Chung,Hong Kong,TIERD,30,50,7
+Qassim,Saudi Arabia,TIERC,50,50,7
+Abha,Saudi Arabia,TIERC,50,50,7
+Marrakech,Morocco,TIERE,10,50,7
+Tangier,Morocco,TIERE,10,50,7
+Cagayan de Oro,Philippines,TIERD,30,50,7
+General Santos,Philippines,TIERD,30,50,7
+Parañaque,Philippines,TIERD,30,50,7
+Ang Mo Kio,Singapore,TIERC,50,50,7
+Bukit Batok,Singapore,TIERC,50,50,7
+Onitsha,Nigeria,TIERC,50,50,7
+Enugu,Nigeria,TIERC,50,50,7
+Vernier,Switzerland,TIERC,50,50,7
+Uster,Switzerland,TIERC,50,50,7
+Sion,Switzerland,TIERC,50,50,7
+Erbil,Iraq,TIERE,10,50,7
+Kota Kinabalu,Malaysia,TIERD,30,50,7
+Kuantan,Malaysia,TIERD,30,50,7
+Sohar,Oman,TIERE,10,50,7
+Salalah,Oman,TIERE,10,50,7
+Alor Setar,Malaysia,TIERD,30,50,6
+Nakuru,Kenya,TIERE,10,50,6
+Kisumu,Kenya,TIERE,10,50,6
+Shubra El Kheima,Egypt,TIERD,30,50,6
+Las Piñas,Philippines,TIERD,30,50,6
+Makati,Philippines,TIERD,30,50,6
+Cairns,Australia,TIERB,70,50,6
+Jahra,Kuwait,TIERE,10,50,6
+Pasir Ris,Singapore,TIERC,50,50,6
+Kahramanmaras,Turkey,TIERC,50,50,6
+Loures,Portugal,TIERD,30,50,6
+Barreiro,Portugal,TIERD,30,50,6
+Queluz,Portugal,TIERD,30,50,6
+Warri,Nigeria,TIERC,50,50,6
+Malatya,Turkey,TIERC,50,50,6
+Prešov,Slovakia,TIERE,10,50,6
+Sale,Morocco,TIERE,10,50,6
+Darwin,Australia,TIERB,70,50,6
+Toowoomba,Australia,TIERB,70,50,6
+Chiclayo,Peru,TIERD,30,50,6
+Horsens,Denmark,TIERD,30,50,6
+Kolding,Denmark,TIERD,30,50,6
+Al-Ahsa,Saudi Arabia,TIERC,50,50,6
+Debrecen,Hungary,TIERE,10,50,6
+Tseung Kwan O,Hong Kong,TIERD,30,50,6
+Sokoto,Nigeria,TIERC,50,50,6
+Pitesti,Romania,TIERD,30,50,6
+Liberec,Czech Republic,TIERD,30,50,6
+Silkeborg,Denmark,TIERD,30,50,6
+Arad,Romania,TIERD,30,50,6
+Pori,Finland,TIERD,30,50,6
+Temuco,Chile,TIERD,30,50,6
+Braila,Romania,TIERD,30,50,6
+Dornbirn,Austria,TIERC,50,50,6
+Aktobe,Kazakhstan,TIERE,10,50,6
+Karaganda,Kazakhstan,TIERE,10,50,6
+Kuala Terengganu,Malaysia,TIERD,30,50,6
+Huambo,Angola,TIERE,10,50,6
+Kouvola,Finland,TIERD,30,50,6
+Barranquilla,Colombia,TIERE,10,50,6
+Haugesund,Norway,TIERC,50,50,6
+Khalifa City,United Arab Emirates,TIERC,50,50,6
+Navan,Ireland,TIERC,50,50,6
+České Budějovice,Czech Republic,TIERD,30,50,6
+Olomouc,Czech Republic,TIERD,30,50,6
+Bray,Ireland,TIERC,50,50,6
+Herning,Denmark,TIERD,30,50,6
+Hradec Králové,Czech Republic,TIERD,30,50,6
+Nitra,Slovakia,TIERE,10,50,5
+Zilina,Slovakia,TIERE,10,50,5
+Banská Bystrica,Slovakia,TIERE,10,50,5
+Tralee,Ireland,TIERC,50,50,5
+Miri,Malaysia,TIERD,30,50,5
+Imus,Philippines,TIERD,30,50,5
+Cusco,Peru,TIERD,30,50,5
+Cabinda,Angola,TIERE,10,50,5
+Eldoret,Kenya,TIERE,10,50,5
+Faro,Portugal,TIERD,30,50,5
+Ruiru,Kenya,TIERE,10,50,5
+Asaba,Nigeria,TIERC,50,50,5
+Wiener Neustadt,Austria,TIERC,50,50,5
+Targu Mures,Romania,TIERD,30,50,5
+Bacau,Romania,TIERD,30,50,5
+Steyr,Austria,TIERC,50,50,5
+Joensuu,Finland,TIERD,30,50,5
+Cartagena,Colombia,TIERE,10,50,5
+Lappeenranta,Finland,TIERD,30,50,5
+Lobito,Angola,TIERE,10,50,5
+Porsgrunn,Norway,TIERC,50,50,5
+Vaasa,Finland,TIERD,30,50,5
+Hameenlinna,Finland,TIERD,30,50,5
+Newbridge,Ireland,TIERC,50,50,5
+Hail,Saudi Arabia,TIERC,50,50,5
+Najran,Saudi Arabia,TIERC,50,50,5
+Piura,Peru,TIERD,30,50,5
+Al Wakrah,Qatar,TIERE,10,50,5
+Ballarat,Australia,TIERB,70,50,5
+Ennis,Ireland,TIERC,50,50,5
+Marikina,Philippines,TIERD,30,50,5
+Muntinlupa,Philippines,TIERD,30,50,5
+Santo Domingo,Ecuador,TIERE,10,50,5
+Toa Payoh,Singapore,TIERC,50,50,5
+Serangoon,Singapore,TIERC,50,50,5
+Carlow,Ireland,TIERC,50,50,5
+Agualva-Cacem,Portugal,TIERD,30,50,5
+Kilkenny,Ireland,TIERC,50,50,5
+Hawassa,Ethiopia,TIERE,10,50,5
+Pietermaritzburg,South Africa,TIERD,30,50,5
+Gondar,Ethiopia,TIERE,10,50,5
+Lubango,Angola,TIERE,10,50,5
+Sibiu,Romania,TIERD,30,50,5
+Lusail,Qatar,TIERE,10,50,5
+Iquitos,Peru,TIERD,30,50,5
+Jubail,Saudi Arabia,TIERC,50,50,5
+Pardubice,Czech Republic,TIERD,30,50,5
+Zaporizhzhia,Ukraine,TIERE,10,50,5
+Nazret,Ethiopia,TIERE,10,50,5
+Kryvyi Rih,Ukraine,TIERE,10,50,5
+Palmerston North,New Zealand,TIERD,30,50,5
+Abeokuta,Nigeria,TIERC,50,50,5
+Lviv,Ukraine,TIERE,10,50,5
+Rajshahi,Bangladesh,TIERD,30,50,5
+Ústí nad Labem,Czech Republic,TIERD,30,50,5
+Dire Dawa,Ethiopia,TIERE,10,50,5
+Mekele,Ethiopia,TIERE,10,50,5
+Ubon Ratchathani,Thailand,TIERC,50,50,4
+Kirkuk,Iraq,TIERE,10,50,4
+Port Said,Egypt,TIERD,30,50,4
+Bishan,Singapore,TIERC,50,50,4
+Trnava,Slovakia,TIERE,10,50,4
+Tsuen Wan,Hong Kong,TIERD,30,50,4
+Erzurum,Turkey,TIERC,50,50,4
+Atasehir,Turkey,TIERC,50,50,4
+Aveiro,Portugal,TIERD,30,50,4
+Mubarak Al-Kabeer,Kuwait,TIERE,10,50,4
+Leiria,Portugal,TIERD,30,50,4
+Suez,Egypt,TIERD,30,50,4
+Pavlodar,Kazakhstan,TIERE,10,50,4
+Ust-Kamenogorsk,Kazakhstan,TIERE,10,50,4
+Taraz,Kazakhstan,TIERE,10,50,4
+Huancayo,Peru,TIERD,30,50,4
+Clementi,Singapore,TIERC,50,50,4
+Queenstown,Singapore,TIERC,50,50,4
+Geylang,Singapore,TIERC,50,50,4
+Islamabad,Pakistan,TIERD,30,50,4
+Helsingør,Denmark,TIERD,30,50,4
+Coquimbo,Chile,TIERD,30,50,4
+Havirov,Czech Republic,TIERD,30,50,4
+Zlín,Czech Republic,TIERD,30,50,4
+Gyor,Hungary,TIERE,10,50,4
+Balbriggan,Ireland,TIERC,50,50,4
+Al-Qatif,Saudi Arabia,TIERC,50,50,4
+Naas,Ireland,TIERC,50,50,4
+Kladno,Czech Republic,TIERD,30,50,4
+Benoni,South Africa,TIERD,30,50,4
+Fanling,Hong Kong,TIERD,30,50,4
+Tai Po,Hong Kong,TIERD,30,50,4
+Bahir Dar,Ethiopia,TIERE,10,50,4
+Dessie,Ethiopia,TIERE,10,50,4
+Savar,Bangladesh,TIERD,30,50,4
+Hafar Al-Batin,Saudi Arabia,TIERC,50,50,4
+Tin Shui Wai,Hong Kong,TIERD,30,50,4
+Meknes,Morocco,TIERE,10,50,4
+Győr,Hungary,TIERE,10,50,4
+Agadir,Morocco,TIERE,10,50,4
+Chimbote,Peru,TIERD,30,50,4
+Miskolc,Hungary,TIERE,10,50,4
+Szeged,Hungary,TIERE,10,50,4
+Pécs,Hungary,TIERE,10,50,4
+Mykolaiv,Ukraine,TIERE,10,50,4
+Athlone,Ireland,TIERC,50,50,4
+Mullingar,Ireland,TIERC,50,50,4
+Jizan,Saudi Arabia,TIERC,50,50,4
+Puerto Montt,Chile,TIERD,30,50,4
+Iquique,Chile,TIERD,30,50,4
+Quetta,Pakistan,TIERD,30,50,4
+Talca,Chile,TIERD,30,50,4
+Molde,Norway,TIERC,50,50,4
+Lillehammer,Norway,TIERC,50,50,4
+Feldkirch,Austria,TIERC,50,50,4
+Bregenz,Austria,TIERC,50,50,4
+Naestved,Denmark,TIERD,30,50,4
+Hillerød,Denmark,TIERD,30,50,4
+Holstebro,Denmark,TIERD,30,50,4
+Owerri,Nigeria,TIERC,50,50,4
+Mikkeli,Finland,TIERD,30,50,4
+Ramnicu Valcea,Romania,TIERD,30,50,4
+Botoșani,Romania,TIERD,30,50,4
+Nelson,New Zealand,TIERD,30,50,4
+Kotka,Finland,TIERD,30,50,4
+Rancagua,Chile,TIERD,30,50,4
+Buzau,Romania,TIERD,30,50,4
+Baia Mare,Romania,TIERD,30,50,4
+Salo,Finland,TIERD,30,50,4
+Seinajoki,Finland,TIERD,30,50,4
+Most,Czech Republic,TIERD,30,50,4
+Kongsberg,Norway,TIERC,50,50,4
+Rovaniemi,Finland,TIERD,30,50,4
+Portlaoise,Ireland,TIERC,50,50,4
+Patras,Greece,TIERE,10,50,4
+Annaba,Algeria,TIERE,10,50,4
+Portimao,Portugal,TIERD,30,50,4
+Bendigo,Australia,TIERB,70,50,4
+Viseu,Portugal,TIERD,30,50,4
+Évora,Portugal,TIERD,30,50,4
+Kikuyu,Kenya,TIERE,10,50,3
+Benguela,Angola,TIERE,10,50,3
+Larissa,Greece,TIERE,10,50,3
+Launceston,Australia,TIERB,70,50,3
+Najaf,Iraq,TIERE,10,50,3
+Karbala,Iraq,TIERE,10,50,3
+Nasiriyah,Iraq,TIERE,10,50,3
+Kostanay,Kazakhstan,TIERE,10,50,3
+Heraklion,Greece,TIERE,10,50,3
+Blida,Algeria,TIERE,10,50,3
+Piraeus,Greece,TIERE,10,50,3
+Cucuta,Colombia,TIERE,10,50,3
+Batna,Algeria,TIERE,10,50,3
+Setif,Algeria,TIERE,10,50,3
+Opava,Czech Republic,TIERD,30,50,3
+Frydek-Mistek,Czech Republic,TIERD,30,50,3
+Quilpue,Chile,TIERD,30,50,3
+Copiapó,Chile,TIERD,30,50,3
+Arica,Chile,TIERD,30,50,3
+Leonding,Austria,TIERC,50,50,3
+Rotorua,New Zealand,TIERD,30,50,3
+New Plymouth,New Zealand,TIERD,30,50,3
+Whangarei,New Zealand,TIERD,30,50,3
+Invercargill,New Zealand,TIERD,30,50,3
+Fredericia,Denmark,TIERD,30,50,3
+Sønderborg,Denmark,TIERD,30,50,3
+Amstetten,Austria,TIERC,50,50,3
+Umm Al Quwain,United Arab Emirates,TIERC,50,50,3
+Calama,Chile,TIERD,30,50,3
+Osorno,Chile,TIERD,30,50,3
+Makiivka,Ukraine,TIERE,10,50,3
+Sevastopol,Ukraine,TIERE,10,50,3
+Ma On Shan,Hong Kong,TIERD,30,50,3
+Valdivia,Chile,TIERD,30,50,3
+Klosterneuburg,Austria,TIERC,50,50,3
+Bishoftu,Ethiopia,TIERE,10,50,3
+Yanbu,Saudi Arabia,TIERC,50,50,3
+Leoben,Austria,TIERC,50,50,3
+Krems,Austria,TIERC,50,50,3
+Traun,Austria,TIERC,50,50,3
+Mariupol,Ukraine,TIERE,10,50,3
+Luhansk,Ukraine,TIERE,10,50,3
+Vinnytsia,Ukraine,TIERE,10,50,3
+Karvina,Czech Republic,TIERD,30,50,3
+Jihlava,Czech Republic,TIERD,30,50,3
+Teplice,Czech Republic,TIERD,30,50,3
+Decin,Czech Republic,TIERD,30,50,3
+Pucallpa,Peru,TIERD,30,50,3
+Nyiregyhaza,Hungary,TIERE,10,50,3
+Kecskemet,Hungary,TIERE,10,50,3
+Buon Ma Thuot,Vietnam,TIERD,30,50,3
+Nha Trang,Vietnam,TIERD,30,50,3
+Hue,Vietnam,TIERD,30,50,3
+Thai Nguyen,Vietnam,TIERD,30,50,3
+Vinh,Vietnam,TIERD,30,50,3
+Bahawalpur,Pakistan,TIERD,30,50,3
+Sargodha,Pakistan,TIERD,30,50,3
+Sialkot,Pakistan,TIERD,30,50,3
+Jimma,Ethiopia,TIERE,10,50,3
+Sylhet,Bangladesh,TIERD,30,50,3
+Comilla,Bangladesh,TIERD,30,50,3
+Sai Kung,Hong Kong,TIERD,30,50,3
+Kalba,United Arab Emirates,TIERC,50,50,3
+Khurais,Saudi Arabia,TIERC,50,50,3
+Kallang,Singapore,TIERC,50,50,3
+Kenitra,Morocco,TIERE,10,50,3
+Temara,Morocco,TIERE,10,50,3
+Oujda,Morocco,TIERE,10,50,3
+Tetouan,Morocco,TIERE,10,50,3
+Szekesfehervar,Hungary,TIERE,10,50,3
+Sisli,Turkey,TIERC,50,50,3
+Trabzon,Turkey,TIERC,50,50,3
+Phitsanulok,Thailand,TIERC,50,50,3
+Al-Mansura,Egypt,TIERD,30,50,3
+El-Mahalla El-Kubra,Egypt,TIERD,30,50,3
+Tembisa,South Africa,TIERD,30,50,3
+East London,South Africa,TIERD,30,50,3
+Vereeniging,South Africa,TIERD,30,50,3
+Bloemfontein,South Africa,TIERD,30,50,3
+Boksburg,South Africa,TIERD,30,50,3
+Richards Bay,South Africa,TIERD,30,50,3
+Tacna,Peru,TIERD,30,50,3
+Juliaca,Peru,TIERD,30,50,3
+Ica,Peru,TIERD,30,50,3
+Semey,Kazakhstan,TIERE,10,50,3
+Atyrau,Kazakhstan,TIERE,10,50,3
+Mackay,Australia,TIERB,70,50,3
+Manta,Ecuador,TIERE,10,50,3
+Portoviejo,Ecuador,TIERE,10,50,3
+Machala,Ecuador,TIERE,10,50,3
+Loja,Ecuador,TIERE,10,50,3
+Martin,Slovakia,TIERE,10,50,3
+Trenčín,Slovakia,TIERE,10,50,3
+Poprad,Slovakia,TIERE,10,50,3
+Prievidza,Slovakia,TIERE,10,50,3
+Zvolen,Slovakia,TIERE,10,50,3
+Temirtau,Kazakhstan,TIERE,10,50,3
+Chiang Mai,Thailand,TIERC,50,50,3
+Pattaya,Thailand,TIERC,50,50,3
+Surat Thani,Thailand,TIERC,50,50,3
+Rayong,Thailand,TIERC,50,50,3
+Nakhon Si Thammarat,Thailand,TIERC,50,50,3
+Thika,Kenya,TIERE,10,50,3
+Bucaramanga,Colombia,TIERE,10,50,3
+Soledad,Colombia,TIERE,10,50,3
+Ibague,Colombia,TIERE,10,50,3
+Djelfa,Algeria,TIERE,10,50,3
+Biskra,Algeria,TIERE,10,50,3
+Bejaia,Algeria,TIERE,10,50,3
+Machakos,Kenya,TIERE,10,50,3
+Sulaymaniyah,Iraq,TIERE,10,50,3
+Nizwa,Oman,TIERE,10,50,3
+Al Khuwair,Oman,TIERE,10,50,3
+Sur,Oman,TIERE,10,50,2
+Riobamba,Ecuador,TIERE,10,50,2
+Putrajaya,Malaysia,TIERD,30,50,2
+Ambato,Ecuador,TIERE,10,50,2
+Ibarra,Ecuador,TIERE,10,50,2
+Esmeraldas,Ecuador,TIERE,10,50,2
+Eloy Alfaro,Ecuador,TIERE,10,50,2
+Witbank,South Africa,TIERD,30,50,2
+Krugersdorp,South Africa,TIERD,30,50,2
+Newcastle,South Africa,TIERD,30,50,2
+Welkom,South Africa,TIERD,30,50,2
+Monteria,Colombia,TIERE,10,50,2
+Pasto,Colombia,TIERE,10,50,2
+Manizales,Colombia,TIERE,10,50,2
+Soacha,Colombia,TIERE,10,50,2
+Villavicencio,Colombia,TIERE,10,50,2
+Santa Marta,Colombia,TIERE,10,50,2
+Pereira,Colombia,TIERE,10,50,2
+Tiaret,Algeria,TIERE,10,50,2
+Béchar,Algeria,TIERE,10,50,2
+Tlemcen,Algeria,TIERE,10,50,2
+Rhodes,Greece,TIERE,10,50,2
+Kallithea,Greece,TIERE,10,50,2
+Peristeri,Greece,TIERE,10,50,2
+Valledupar,Colombia,TIERE,10,50,2
+Neiva,Colombia,TIERE,10,50,2
+Barisal,Bangladesh,TIERD,30,50,2
+Tongi,Bangladesh,TIERD,30,50,2
+Mymensingh,Bangladesh,TIERD,30,50,2
+Rangpur,Bangladesh,TIERD,30,50,2
+Vanderbijlpark,South Africa,TIERD,30,50,2
+Salmiya,Kuwait,TIERE,10,50,2
+Ismailia,Egypt,TIERD,30,50,2
+Asyut,Egypt,TIERD,30,50,2
+Tanta,Egypt,TIERD,30,50,2
+Luxor,Egypt,TIERD,30,50,2
+Bardejov,Slovakia,TIERE,10,50,2
+Humenne,Slovakia,TIERE,10,50,2
+Levice,Slovakia,TIERE,10,50,2
+Komarno,Slovakia,TIERE,10,50,2
+Dohuk,Iraq,TIERE,10,50,2
+Baqubah,Iraq,TIERE,10,50,2
+Amarah,Iraq,TIERE,10,50,2
+Hillah,Iraq,TIERE,10,50,2
+Ramadi,Iraq,TIERE,10,50,2
+Fallujah,Iraq,TIERE,10,50,2
+Skikda,Algeria,TIERE,10,50,2
+Mostaganem,Algeria,TIERE,10,50,2
+Sidi Bel Abbes,Algeria,TIERE,10,50,2
+El Oued,Algeria,TIERE,10,50,2
+Tébessa,Algeria,TIERE,10,50,2
+Kokshetau,Kazakhstan,TIERE,10,50,2
+Acharnes,Greece,TIERE,10,50,2
+Chalcis,Greece,TIERE,10,50,2
+Chania,Greece,TIERE,10,50,2
+Ioannina,Greece,TIERE,10,50,2
+Volos,Greece,TIERE,10,50,2
+Petropavl,Kazakhstan,TIERE,10,50,2
+Aktau,Kazakhstan,TIERE,10,50,2
+Oral,Kazakhstan,TIERE,10,50,2
+Kyzylorda,Kazakhstan,TIERE,10,50,2
+Turkestan,Kazakhstan,TIERE,10,50,2
+Diwaniyah,Iraq,TIERE,10,50,2
+Kut,Iraq,TIERE,10,50,2
+Spišská Nová Ves,Slovakia,TIERE,10,50,2
+Nove Zamky,Slovakia,TIERE,10,50,2
+Michalovce,Slovakia,TIERE,10,50,2
+Povazska Bystrica,Slovakia,TIERE,10,50,2
+Zagazig,Egypt,TIERD,30,50,2
+Fayyum,Egypt,TIERD,30,50,2
+Bekescsaba,Hungary,TIERE,10,50,2
+Veszprem,Hungary,TIERE,10,50,2
+Kaposvar,Hungary,TIERE,10,50,2
+Zalaegerszeg,Hungary,TIERE,10,50,2
+Sopron,Hungary,TIERE,10,50,2
+Érd,Hungary,TIERE,10,50,2
+Eger,Hungary,TIERE,10,50,2
+Szolnok,Hungary,TIERE,10,50,2
+Szombathely,Hungary,TIERE,10,50,2
+Puno,Peru,TIERD,30,50,2
+Ayacucho,Peru,TIERD,30,50,2
+Huanuco,Peru,TIERD,30,50,2
+Sullana,Peru,TIERD,30,50,2
+Chiang Rai,Thailand,TIERC,50,50,2
+Al Daayen,Qatar,TIERE,10,50,2
+Nakhon Pathom,Thailand,TIERC,50,50,2
+Songkhla,Thailand,TIERC,50,50,2
+Mueang Nakhon Sawan,Thailand,TIERC,50,50,2
+Blenheim,New Zealand,TIERD,30,50,2
+Gisborne,New Zealand,TIERD,30,50,2
+Whanganui,New Zealand,TIERD,30,50,2
+Al Khor,Qatar,TIERE,10,50,2
+Mohammedia,Morocco,TIERE,10,50,2
+Safi,Morocco,TIERE,10,50,2
+Bac Ninh,Vietnam,TIERD,30,50,2
+Da Lat,Vietnam,TIERD,30,50,2
+Rach Gia,Vietnam,TIERD,30,50,2
+My Tho,Vietnam,TIERD,30,50,2
+Nam Dinh,Vietnam,TIERD,30,50,2
+Long Xuyen,Vietnam,TIERD,30,50,2
+Quy Nhon,Vietnam,TIERD,30,50,2
+Vung Tau,Vietnam,TIERD,30,50,2
+Villa Alemana,Chile,TIERD,30,50,2
+San Pedro de la Paz,Chile,TIERD,30,50,2
+Punta Arenas,Chile,TIERD,30,50,2
+Khor Fakkan,United Arab Emirates,TIERC,50,50,2
+Muaither,Qatar,TIERE,10,50,2
+Harar,Ethiopia,TIERE,10,50,2
+Al Muwaylih,United Arab Emirates,TIERC,50,50,2
+Mong Kok,Hong Kong,TIERD,30,50,2
+Wan Chai,Hong Kong,TIERD,30,50,2
+Hung Hom,Hong Kong,TIERD,30,50,2
+Sodo,Ethiopia,TIERE,10,50,2
+Shashamane,Ethiopia,TIERE,10,50,2
+Jijiga,Ethiopia,TIERE,10,50,2
+Jhang,Pakistan,TIERD,30,50,2
+Rahim Yar Khan,Pakistan,TIERD,30,50,2
+Sheikhupura,Pakistan,TIERD,30,50,2
+Larkana,Pakistan,TIERD,30,50,2
+Sukkur,Pakistan,TIERD,30,50,2
+Aberdeen,Hong Kong,TIERD,30,50,2
+Bila Tserkva,Ukraine,TIERE,10,50,2
+Chernihiv,Ukraine,TIERE,10,50,2
+Poltava,Ukraine,TIERE,10,50,2
+Kherson,Ukraine,TIERE,10,50,2
+Symferopol,Ukraine,TIERE,10,50,2
+Chernivtsi,Ukraine,TIERE,10,50,2
+Dera Ghazi Khan,Pakistan,TIERD,30,50,2
+Ibri,Oman,TIERE,10,50,2
+Al Buraymi,Oman,TIERE,10,50,2
+Malanje,Angola,TIERE,10,50,2
+Milagro,Ecuador,TIERE,10,50,2
+Quevedo,Ecuador,TIERE,10,50,2
+Kitale,Kenya,TIERE,10,50,2
+Kisii,Kenya,TIERE,10,50,2
+Meru,Kenya,TIERE,10,50,2
+Saham,Oman,TIERE,10,50,2
+Al Khaburah,Oman,TIERE,10,50,2
+Ibra,Oman,TIERE,10,50,2
+Al Suwaiq,Oman,TIERE,10,50,1
+Shinas,Oman,TIERE,10,50,1
+Izki,Oman,TIERE,10,50,1
+Malindi,Kenya,TIERE,10,50,1
+Garissa,Kenya,TIERE,10,50,1
+Nyeri,Kenya,TIERE,10,50,1
+Kericho,Kenya,TIERE,10,50,1
+Uige,Angola,TIERE,10,50,1
+Bidbid,Oman,TIERE,10,50,1
+Saurimo,Angola,TIERE,10,50,1
+Latacunga,Ecuador,TIERE,10,50,1
+Tulcán,Ecuador,TIERE,10,50,1
+Babahoyo,Ecuador,TIERE,10,50,1
+Nueva Loja,Ecuador,TIERE,10,50,1
+Azogues,Ecuador,TIERE,10,50,1
+Kuito,Angola,TIERE,10,50,1
+Namibe,Angola,TIERE,10,50,1
+Soyo,Angola,TIERE,10,50,1
+Rustaq,Oman,TIERE,10,50,1
+Khasab,Oman,TIERE,10,50,1
+Bahla,Oman,TIERE,10,50,1
+Gujrat,Pakistan,TIERD,30,50,1
+Dhaid,United Arab Emirates,TIERC,50,50,1
+Al Hamriyah,United Arab Emirates,TIERC,50,50,1
+Madinat Zayed,United Arab Emirates,TIERC,50,50,1
+Central,Hong Kong,TIERD,30,50,1
+Causeway Bay,Hong Kong,TIERD,30,50,1
+Shau Kei Wan,Hong Kong,TIERD,30,50,1
+Ruwais,United Arab Emirates,TIERC,50,50,1
+Arba Minch,Ethiopia,TIERE,10,50,1
+Hosaena,Ethiopia,TIERE,10,50,1
+Dilla,Ethiopia,TIERE,10,50,1
+Al Shahaniya,Qatar,TIERE,10,50,1
+The Pearl,Qatar,TIERE,10,50,1
+Education City,Qatar,TIERE,10,50,1
+West Bay,Qatar,TIERE,10,50,1
+Ain Khaled,Qatar,TIERE,10,50,1
+Fereej Abdul Aziz,Qatar,TIERE,10,50,1
+Madinat Khalifa,Qatar,TIERE,10,50,1
+Al Aziziyah,Qatar,TIERE,10,50,1
+Al Markhiya,Qatar,TIERE,10,50,1
+Fereej Bin Mahmoud,Qatar,TIERE,10,50,1
+Dibba Al-Hisn,United Arab Emirates,TIERC,50,50,1
+Nekemte,Ethiopia,TIERE,10,50,1
+Debre Markos,Ethiopia,TIERE,10,50,1
+Kombolcha,Ethiopia,TIERE,10,50,1
+Beni Suef,Egypt,TIERD,30,50,1
+Ca Mau,Vietnam,TIERD,30,50,1
+El Jadida,Morocco,TIERE,10,50,1
+Mesaieed,Qatar,TIERE,10,50,1
+Madinat ash Shamal,Qatar,TIERE,10,50,1
+Umm Salal,Qatar,TIERE,10,50,1
+Timaru,New Zealand,TIERD,30,50,1
+Taupo,New Zealand,TIERD,30,50,1
+Masterton,New Zealand,TIERD,30,50,1
+Levin,New Zealand,TIERD,30,50,1
+Lampang,Thailand,TIERC,50,50,1
+Tumbes,Peru,TIERD,30,50,1
+Dunaujvaros,Hungary,TIERE,10,50,1
+Beni Mellal,Morocco,TIERE,10,50,1
+Nador,Morocco,TIERE,10,50,1
+Taza,Morocco,TIERE,10,50,1
+Al Hoceima,Morocco,TIERE,10,50,1
+Khouribga,Morocco,TIERE,10,50,1
+Damanhur,Egypt,TIERD,30,50,1
+Minya,Egypt,TIERD,30,50,1
+Dammietta,Egypt,TIERD,30,50,1
+Aswan,Egypt,TIERD,30,50,1
+Sohag,Egypt,TIERD,30,50,1
+Ekibastuz,Kazakhstan,TIERE,10,50,1
+Rudny,Kazakhstan,TIERE,10,50,1
+Pisco,Peru,TIERD,30,50,1
+Médéa,Algeria,TIERE,10,50,1
+Jijel,Algeria,TIERE,10,50,1
+Samawah,Iraq,TIERE,10,50,1
+Diyala,Iraq,TIERE,10,50,1
+Tikrit,Iraq,TIERE,10,50,1
+Bogra,Bangladesh,TIERD,30,50,1
+Dinajpur,Bangladesh,TIERD,30,50,1
+Nawabganj,Bangladesh,TIERD,30,50,1
+Tangail,Bangladesh,TIERD,30,50,1
+Faridpur,Bangladesh,TIERD,30,50,1
+Chandpur,Bangladesh,TIERD,30,50,1
+Fahaheel,Kuwait,TIERE,10,50,1
+Rumaithiyya,Kuwait,TIERE,10,50,1
+Sabah Al-Salem,Kuwait,TIERE,10,50,1
+Al-Mangaf,Kuwait,TIERE,10,50,1
+Ar Riqqah,Kuwait,TIERE,10,50,1
+Bayan,Kuwait,TIERE,10,50,1
+Salwa,Kuwait,TIERE,10,50,1
+Mishref,Kuwait,TIERE,10,50,1
+Fintas,Kuwait,TIERE,10,50,1
+Abu Halifa,Kuwait,TIERE,10,50,1
+Ruq'i,Kuwait,TIERE,10,50,1
+Jessore,Bangladesh,TIERD,30,50,1
+Palmira,Colombia,TIERE,10,50,1
+Armenia,Colombia,TIERE,10,50,1
+Kalamaria,Greece,TIERE,10,50,1
+Nikaia,Greece,TIERE,10,50,1
+Glyfada,Greece,TIERE,10,50,1
+Ilion,Greece,TIERE,10,50,1
+Agios Dimitrios,Greece,TIERE,10,50,1
+Zografou,Greece,TIERE,10,50,1
+Menongue,Angola,TIERE,10,50,1
+Ndalatando,Angola,TIERE,10,50,1
+Lucapa,Angola,TIERE,10,50,1
+Cazombo,Angola,TIERE,10,50,1
+Sumbe,Angola,TIERE,10,50,1
+Dundo,Angola,TIERE,10,50,1
+Longonjo,Angola,TIERE,10,50,1
+Xangongo,Angola,TIERE,10,50,1
+Al Hamra,Oman,TIERE,10,50,1
+Um Al Hayman,Kuwait,TIERE,10,50,1
+Sabahiya,Kuwait,TIERE,10,50,1
+Embu,Kenya,TIERE,10,50,1
+Naivasha,Kenya,TIERE,10,50,1
+Lamu,Kenya,TIERE,10,50,1
+Wajir,Kenya,TIERE,10,50,1

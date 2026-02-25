@@ -51,14 +51,14 @@ lime = (0, 255, 0)
 navy = (0, 0, 128)
 
 
-def clamp(x, hi, lo):
+def clamp(x, lo, hi):
     if x > hi:
         return hi
     if x < lo:
         return lo
     return x
 def adjustDraw(mu, rng):
-    return clamp(mu + 2*rng*(np.random.beta(2, 2)-.5), 0, 100)
+    return mu + 2*rng*(np.random.beta(2, 2)-.5)
 
 def farthest_bw(rgb):
     """
