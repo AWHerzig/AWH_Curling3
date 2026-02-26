@@ -11,6 +11,8 @@ import os
 import random
 import subprocess
 import collections
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 sys.path.append('c:\\users\\leojo\\appdata\\local\\packages\\pythonsoftwarefoundation.python.3.13_qbz5n2kfra8p0\\localcache\\local-packages\\python313\\site-packages')
 sys.path.append('c:\\Users\\leojo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts')
@@ -58,7 +60,7 @@ def clamp(x, lo, hi):
         return lo
     return x
 def adjustDraw(mu, rng):
-    return mu + 2*rng*(np.random.beta(2, 2)-.5)
+    return mu + 2*rng*(np.random.beta(3, 3)-.5)
 
 def farthest_bw(rgb):
     """
@@ -287,7 +289,7 @@ def dataframe_to_aligned_strings_with_headers(df):
 
     return aligned_strings
 
-def round_robin(teams, competition_name="", games_per_team=None):
+def round_robin(teams, games_per_team=None):
     """
     Generate a round-robin schedule with a target number of games per team.
 
@@ -320,7 +322,7 @@ def round_robin(teams, competition_name="", games_per_team=None):
             t1 = rotation[i]
             t2 = rotation[n - 1 - i]
             if t1 is not None and t2 is not None:
-                slate.append((t1, t2, competition_name))
+                slate.append((t1, t2))
         base_schedule.append(slate)
         rotation = [rotation[0]] + rotation[-1:] + rotation[1:-1]
 
@@ -337,7 +339,7 @@ def round_robin(teams, competition_name="", games_per_team=None):
             if cycle % 2 == 0:
                 schedule.append(slate)
             else:
-                schedule.append([(b, a, c) for a, b, c in slate])
+                schedule.append([(b, a) for a, b in slate])
 
     # Add partial cycle if needed
     if remainder_games > 0:
@@ -445,3 +447,24 @@ def drawScoreboard(screen, SHEET, Team, Pos, Shooter, Sweeps):
     text(f'TEAMMATES SWEEP: {round(Sweeps, 1)}', (screenWidth*.01, screenHeight*.8), 48, screen, spot='midleft')
     text(f'SHOOTER TWO-WAY CURL: {"YES" if Shooter.twowaycurl else "NO"}', (screenWidth*.01, screenHeight*.85), 48, screen, spot='midleft')
     text(f'SHOOTER RISK-TAKING: {round(Shooter.risk, 1)}', (screenWidth*.01, screenHeight*.9), 48, screen, spot='midleft')
+
+def create_scatterplot(df, x_col, y_col, color_col=None):
+  """
+  Generates a scatterplot from a pandas DataFrame.
+
+  Args:
+    df (pd.DataFrame): The DataFrame containing the data.
+    x_col (str): The name of the column for the x-axis.
+    y_col (str): The name of the column for the y-axis.
+    color_col (str, optional): The name of the column to use for color encoding. 
+                               Defaults to None.
+  """
+  plt.figure(figsize=(10, 6))
+  sns.scatterplot(data=df, x=x_col, y=y_col, hue=color_col)
+  plt.title(f'Scatterplot of {y_col} vs {x_col}')
+  plt.xlabel(x_col)
+  plt.ylabel(y_col)
+  plt.ylim(0, 100)
+  plt.yticks(np.arange(0, 100 + 1, 10))
+  plt.grid(True)
+  plt.show()

@@ -1,1281 +1,1281 @@
 Country,CountryABR,Team,TeamABR,LeaguePrestige,Budget,TIER,Region
-United States,USA,New York,NYC,90,391,TIERA,Americas
-United States,USA,Los Angeles,LAX,90,186,TIERA,Americas
-United States,USA,Chicago,CHI,90,126,TIERA,Americas
-United States,USA,Houston,HOU,90,108,TIERA,Americas
-United States,USA,Phoenix,PHX,90,75,TIERA,Americas
-United States,USA,Philadelphia,PHL,90,75,TIERA,Americas
-United States,USA,San Antonio,SAT,90,67,TIERA,Americas
-United States,USA,San Diego,SAN,90,65,TIERA,Americas
-United States,USA,Dallas,DAL,90,61,TIERA,Americas
-United States,USA,San Jose,SJO,90,47,TIERA,Americas
-United States,USA,Austin,AUS,90,46,TIERA,Americas
-United States,USA,Jacksonville,JAX,90,43,TIERA,Americas
-United States,USA,Fort Worth,FTW,90,43,TIERA,Americas
-United States,USA,Columbus,CMH,90,42,TIERA,Americas
-United States,USA,Charlotte,CLT,90,41,TIERA,Americas
-United States,USA,Indianapolis,IND,90,41,TIERA,Americas
-United States,USA,San Francisco,SFO,90,41,TIERA,Americas
-United States,USA,Seattle,SEA,90,35,TIERA,Americas
-United States,USA,Denver,DEN,90,34,TIERA,Americas
-United States,USA,Nashville,NSH,90,32,TIERA,Americas
-China,CHN,Shanghai,SHA,90,152,TIERA,Asia
-China,CHN,Beijing,BEJ,90,134,TIERA,Asia
-China,CHN,Chongqing,CQG,90,195,TIERA,Asia
-China,CHN,Tianjin,TJN,90,85,TIERA,Asia
-China,CHN,Guangzhou,GZH,90,98,TIERA,Asia
-China,CHN,Shenzhen,SZH,90,107,TIERA,Asia
-China,CHN,Wuhan,WUH,90,68,TIERA,Asia
-China,CHN,Chengdu,CDU,90,55,TIERA,Asia
-China,CHN,Nanjing,NJG,90,52,TIERA,Asia
-China,CHN,Xi'an,XAN,90,79,TIERA,Asia
-China,CHN,Hangzhou,HGZ,90,73,TIERA,Asia
-China,CHN,Shenyang,SHY,90,51,TIERA,Asia
-China,CHN,Harbin,HRB,90,60,TIERA,Asia
-China,CHN,Suzhou,SUZ,90,66,TIERA,Asia
-China,CHN,Qingdao,QGD,90,56,TIERA,Asia
-China,CHN,Zhengzhou,ZZH,90,77,TIERA,Asia
-China,CHN,Dalian,DLN,90,45,TIERA,Asia
-China,CHN,Jinan,JNM,90,55,TIERA,Asia
-China,CHN,Changsha,CSA,90,49,TIERA,Asia
-China,CHN,Kunming,KMG,90,44,TIERA,Asia
-Germany,DEU,Berlin,BER,90,362,TIERA,Europe
-Germany,DEU,Hamburg,HAM,90,182,TIERA,Europe
-Germany,DEU,Munich,MUN,90,147,TIERA,Europe
-Germany,DEU,Cologne,COL,90,107,TIERA,Europe
-Germany,DEU,Frankfurt,FRA,90,74,TIERA,Europe
-Germany,DEU,Stuttgart,STU,90,63,TIERA,Europe
-Germany,DEU,Dusseldorf,DUS,90,61,TIERA,Europe
-Germany,DEU,Leipzig,LEI,90,59,TIERA,Europe
-Germany,DEU,Dortmund,DOR,90,58,TIERA,Europe
-Germany,DEU,Essen,ESS,90,57,TIERA,Europe
-Germany,DEU,Bremen,BRE,90,56,TIERA,Europe
-Germany,DEU,Dresden,DRE,90,55,TIERA,Europe
-Germany,DEU,Hanover,HAN,90,52,TIERA,Europe
-Germany,DEU,Nuremberg,NUR,90,51,TIERA,Europe
-Germany,DEU,Duisburg,DUI,90,49,TIERA,Europe
-Germany,DEU,Bochum,BOC,90,36,TIERA,Europe
-Germany,DEU,Wuppertal,WUP,90,35,TIERA,Europe
-Germany,DEU,Bielefeld,BIE,90,33,TIERA,Europe
-Germany,DEU,Bonn,BON,90,33,TIERA,Europe
-Germany,DEU,Mannheim,MAN,90,31,TIERA,Europe
-Japan,JPN,Tokyo,TKY,90,544,TIERA,Asia
-Japan,JPN,Yokohama,YKH,90,146,TIERA,Asia
-Japan,JPN,Osaka,OSK,90,107,TIERA,Asia
-Japan,JPN,Nagoya,NGY,90,91,TIERA,Asia
-Japan,JPN,Sapporo,SPR,90,77,TIERA,Asia
-Japan,JPN,Fukuoka,FUK,90,63,TIERA,Asia
-Japan,JPN,Kobe,KBE,90,60,TIERA,Asia
-Japan,JPN,Kawasaki,KWS,90,60,TIERA,Asia
-Japan,JPN,Kyoto,KYT,90,57,TIERA,Asia
-Japan,JPN,Saitama,STM,90,52,TIERA,Asia
-Japan,JPN,Hiroshima,HRS,90,47,TIERA,Asia
-Japan,JPN,Sendai,SND,90,42,TIERA,Asia
-Japan,JPN,Kitakyushu,KTK,90,37,TIERA,Asia
-Japan,JPN,Chiba,CHB,90,38,TIERA,Asia
-Japan,JPN,Sakai,SAK,90,33,TIERA,Asia
-Japan,JPN,Niigata,NGT,90,31,TIERA,Asia
-Japan,JPN,Hamamatsu,HMM,90,31,TIERA,Asia
-Japan,JPN,Shizuoka,SZK,90,27,TIERA,Asia
-Japan,JPN,Sagamihara,SGM,90,28,TIERA,Asia
-Japan,JPN,Okayama,OKY,90,28,TIERA,Asia
-India,IND,Mumbai,MUM,90,211,TIERA,Asia
-India,IND,Delhi,DEL,90,337,TIERA,Asia
-India,IND,Bangalore,BLR,90,135,TIERA,Asia
-India,IND,Hyderabad,HYD,90,108,TIERA,Asia
-India,IND,Ahmedabad,AMD,90,86,TIERA,Asia
-India,IND,Chennai,MAA,90,107,TIERA,Asia
-India,IND,Kolkata,CCU,90,152,TIERA,Asia
-India,IND,Surat,SRT,90,80,TIERA,Asia
-India,IND,Pune,PNQ,90,79,TIERA,Asia
-India,IND,Jaipur,JAI,90,42,TIERA,Asia
-India,IND,Lucknow,LKO,90,40,TIERA,Asia
-India,IND,Kanpur,KNU,90,31,TIERA,Asia
-India,IND,Nagpur,NAG,90,30,TIERA,Asia
-India,IND,Indore,IDR,90,33,TIERA,Asia
-India,IND,Thane,THN,90,25,TIERA,Asia
-India,IND,Bhopal,BPL,90,24,TIERA,Asia
-India,IND,Visakhapatnam,VTZ,90,21,TIERA,Asia
-India,IND,Patna,PAT,90,22,TIERA,Asia
-India,IND,Vadodara,BDQ,90,21,TIERA,Asia
-India,IND,Ghaziabad,GZB,90,18,TIERA,Asia
-United Kingdom,GBR,London,LON,90,806,TIERA,Europe
-United Kingdom,GBR,Birmingham,BHM,90,102,TIERA,Europe
-United Kingdom,GBR,Leeds,LEE,90,71,TIERA,Europe
-United Kingdom,GBR,Glasgow,GLA,90,57,TIERA,Europe
-United Kingdom,GBR,Sheffield,SHE,90,52,TIERA,Europe
-United Kingdom,GBR,Bradford,BRD,90,48,TIERA,Europe
-United Kingdom,GBR,Manchester,MAN,90,50,TIERA,Europe
-United Kingdom,GBR,Edinburgh,EDN,90,47,TIERA,Europe
-United Kingdom,GBR,Liverpool,LIV,90,45,TIERA,Europe
-United Kingdom,GBR,Bristol,BRS,90,42,TIERA,Europe
-United Kingdom,GBR,Cardiff,CDF,90,32,TIERA,Europe
-United Kingdom,GBR,Leicester,LEI,90,32,TIERA,Europe
-United Kingdom,GBR,Coventry,COV,90,33,TIERA,Europe
-United Kingdom,GBR,Nottingham,NOT,90,29,TIERA,Europe
-United Kingdom,GBR,Newcastle,NCL,90,27,TIERA,Europe
-United Kingdom,GBR,Belfast,BFS,90,31,TIERA,Europe
-United Kingdom,GBR,Brighton,BTN,90,26,TIERA,Europe
-United Kingdom,GBR,Hull,HUL,90,23,TIERA,Europe
-United Kingdom,GBR,Plymouth,PLY,90,24,TIERA,Europe
-United Kingdom,GBR,Stoke,STK,90,23,TIERA,Europe
-France,FRA,Paris,PAR,90,463,TIERA,Europe
-France,FRA,Marseille,MRS,90,187,TIERA,Europe
-France,FRA,Lyon,LYN,90,112,TIERA,Europe
-France,FRA,Toulouse,TLS,90,106,TIERA,Europe
-France,FRA,Nice,NCE,90,73,TIERA,Europe
-France,FRA,Nantes,NTE,90,69,TIERA,Europe
-France,FRA,Montpellier,MPL,90,62,TIERA,Europe
-France,FRA,Strasbourg,SXB,90,61,TIERA,Europe
-France,FRA,Bordeaux,BOD,90,55,TIERA,Europe
-France,FRA,Lille,LIL,90,50,TIERA,Europe
-France,FRA,Rennes,RNS,90,47,TIERA,Europe
-France,FRA,Reims,RMS,90,39,TIERA,Europe
-France,FRA,Saint-Etienne,ETE,90,37,TIERA,Europe
-France,FRA,Toulon,TLN,90,37,TIERA,Europe
-France,FRA,Le Havre,LEH,90,37,TIERA,Europe
-France,FRA,Grenoble,GNB,90,34,TIERA,Europe
-France,FRA,Dijon,DJN,90,33,TIERA,Europe
-France,FRA,Angers,ANJ,90,33,TIERA,Europe
-France,FRA,Villeurbanne,VLB,90,32,TIERA,Europe
-France,FRA,Nimes,NIM,90,32,TIERA,Europe
-Italy,ITA,Rome,ROM,90,423,TIERA,Europe
-Italy,ITA,Milan,MIL,90,199,TIERA,Europe
-Italy,ITA,Naples,NAP,90,141,TIERA,Europe
-Italy,ITA,Turin,TRN,90,128,TIERA,Europe
-Italy,ITA,Palermo,PAL,90,98,TIERA,Europe
-Italy,ITA,Genoa,GEN,90,85,TIERA,Europe
-Italy,ITA,Bologna,BLG,90,59,TIERA,Europe
-Italy,ITA,Florence,FLR,90,56,TIERA,Europe
-Italy,ITA,Bari,BRI,90,48,TIERA,Europe
-Italy,ITA,Catania,CTA,90,47,TIERA,Europe
-Italy,ITA,Venice,VCE,90,38,TIERA,Europe
-Italy,ITA,Verona,VRN,90,38,TIERA,Europe
-Italy,ITA,Messina,MSN,90,34,TIERA,Europe
-Italy,ITA,Padua,PDV,90,32,TIERA,Europe
-Italy,ITA,Trieste,TRS,90,30,TIERA,Europe
-Italy,ITA,Taranto,TAR,90,30,TIERA,Europe
-Italy,ITA,Brescia,BRX,90,29,TIERA,Europe
-Italy,ITA,Reggio Calabria,RCA,90,27,TIERA,Europe
-Italy,ITA,Modena,MOD,90,27,TIERA,Europe
-Italy,ITA,Parma,PRM,90,29,TIERA,Europe
+United States,USA,New York,NYC,100,391,TIERA,Americas
+United States,USA,Los Angeles,LAX,100,187,TIERA,Americas
+United States,USA,Chicago,CHI,100,127,TIERA,Americas
+United States,USA,Houston,HOU,100,108,TIERA,Americas
+United States,USA,Phoenix,PHX,100,76,TIERA,Americas
+United States,USA,Philadelphia,PHL,100,76,TIERA,Americas
+United States,USA,San Antonio,SAT,100,68,TIERA,Americas
+United States,USA,San Diego,SAN,100,65,TIERA,Americas
+United States,USA,Dallas,DAL,100,62,TIERA,Americas
+United States,USA,San Jose,SJO,100,48,TIERA,Americas
+United States,USA,Austin,AUS,100,46,TIERA,Americas
+United States,USA,Jacksonville,JAX,100,43,TIERA,Americas
+United States,USA,Fort Worth,FTW,100,44,TIERA,Americas
+United States,USA,Columbus,CMH,100,43,TIERA,Americas
+United States,USA,Charlotte,CLT,100,42,TIERA,Americas
+United States,USA,Indianapolis,IND,100,42,TIERA,Americas
+United States,USA,San Francisco,SFO,100,41,TIERA,Americas
+United States,USA,Seattle,SEA,100,35,TIERA,Americas
+United States,USA,Denver,DEN,100,34,TIERA,Americas
+United States,USA,Nashville,NSH,100,33,TIERA,Americas
+China,CHN,Shanghai,SHA,100,152,TIERA,Asia
+China,CHN,Beijing,BEJ,100,134,TIERA,Asia
+China,CHN,Chongqing,CQG,100,196,TIERA,Asia
+China,CHN,Tianjin,TJN,100,85,TIERA,Asia
+China,CHN,Guangzhou,GZH,100,99,TIERA,Asia
+China,CHN,Shenzhen,SZH,100,108,TIERA,Asia
+China,CHN,Wuhan,WUH,100,68,TIERA,Asia
+China,CHN,Chengdu,CDU,100,56,TIERA,Asia
+China,CHN,Nanjing,NJG,100,52,TIERA,Asia
+China,CHN,Xi'an,XAN,100,80,TIERA,Asia
+China,CHN,Hangzhou,HGZ,100,73,TIERA,Asia
+China,CHN,Shenyang,SHY,100,51,TIERA,Asia
+China,CHN,Harbin,HRB,100,61,TIERA,Asia
+China,CHN,Suzhou,SUZ,100,66,TIERA,Asia
+China,CHN,Qingdao,QGD,100,57,TIERA,Asia
+China,CHN,Zhengzhou,ZZH,100,77,TIERA,Asia
+China,CHN,Dalian,DLN,100,46,TIERA,Asia
+China,CHN,Jinan,JNM,100,55,TIERA,Asia
+China,CHN,Changsha,CSA,100,49,TIERA,Asia
+China,CHN,Kunming,KMG,100,44,TIERA,Asia
+Germany,DEU,Berlin,BER,100,362,TIERA,Europe
+Germany,DEU,Hamburg,HAM,100,182,TIERA,Europe
+Germany,DEU,Munich,MUN,100,147,TIERA,Europe
+Germany,DEU,Cologne,COL,100,107,TIERA,Europe
+Germany,DEU,Frankfurt,FRA,100,75,TIERA,Europe
+Germany,DEU,Stuttgart,STU,100,63,TIERA,Europe
+Germany,DEU,Dusseldorf,DUS,100,62,TIERA,Europe
+Germany,DEU,Leipzig,LEI,100,60,TIERA,Europe
+Germany,DEU,Dortmund,DOR,100,58,TIERA,Europe
+Germany,DEU,Essen,ESS,100,58,TIERA,Europe
+Germany,DEU,Bremen,BRE,100,57,TIERA,Europe
+Germany,DEU,Dresden,DRE,100,55,TIERA,Europe
+Germany,DEU,Hanover,HAN,100,53,TIERA,Europe
+Germany,DEU,Nuremberg,NUR,100,52,TIERA,Europe
+Germany,DEU,Duisburg,DUI,100,49,TIERA,Europe
+Germany,DEU,Bochum,BOC,100,36,TIERA,Europe
+Germany,DEU,Wuppertal,WUP,100,35,TIERA,Europe
+Germany,DEU,Bielefeld,BIE,100,33,TIERA,Europe
+Germany,DEU,Bonn,BON,100,33,TIERA,Europe
+Germany,DEU,Mannheim,MAN,100,31,TIERA,Europe
+Japan,JPN,Tokyo,TKY,100,545,TIERA,Asia
+Japan,JPN,Yokohama,YKH,100,147,TIERA,Asia
+Japan,JPN,Osaka,OSK,100,108,TIERA,Asia
+Japan,JPN,Nagoya,NGY,100,91,TIERA,Asia
+Japan,JPN,Sapporo,SPR,100,77,TIERA,Asia
+Japan,JPN,Fukuoka,FUK,100,63,TIERA,Asia
+Japan,JPN,Kobe,KBE,100,61,TIERA,Asia
+Japan,JPN,Kawasaki,KWS,100,60,TIERA,Asia
+Japan,JPN,Kyoto,KYT,100,58,TIERA,Asia
+Japan,JPN,Saitama,STM,100,52,TIERA,Asia
+Japan,JPN,Hiroshima,HRS,100,47,TIERA,Asia
+Japan,JPN,Sendai,SND,100,43,TIERA,Asia
+Japan,JPN,Kitakyushu,KTK,100,37,TIERA,Asia
+Japan,JPN,Chiba,CHB,100,38,TIERA,Asia
+Japan,JPN,Sakai,SAK,100,33,TIERA,Asia
+Japan,JPN,Niigata,NGT,100,31,TIERA,Asia
+Japan,JPN,Hamamatsu,HMM,100,32,TIERA,Asia
+Japan,JPN,Shizuoka,SZK,100,28,TIERA,Asia
+Japan,JPN,Sagamihara,SGM,100,29,TIERA,Asia
+Japan,JPN,Okayama,OKY,100,29,TIERA,Asia
+India,IND,Mumbai,MUM,100,212,TIERA,Asia
+India,IND,Delhi,DEL,100,337,TIERA,Asia
+India,IND,Bangalore,BLR,100,135,TIERA,Asia
+India,IND,Hyderabad,HYD,100,108,TIERA,Asia
+India,IND,Ahmedabad,AMD,100,87,TIERA,Asia
+India,IND,Chennai,MAA,100,107,TIERA,Asia
+India,IND,Kolkata,CCU,100,152,TIERA,Asia
+India,IND,Surat,SRT,100,80,TIERA,Asia
+India,IND,Pune,PNQ,100,80,TIERA,Asia
+India,IND,Jaipur,JAI,100,42,TIERA,Asia
+India,IND,Lucknow,LKO,100,40,TIERA,Asia
+India,IND,Kanpur,KNU,100,31,TIERA,Asia
+India,IND,Nagpur,NAG,100,30,TIERA,Asia
+India,IND,Indore,IDR,100,33,TIERA,Asia
+India,IND,Thane,THN,100,25,TIERA,Asia
+India,IND,Bhopal,BPL,100,24,TIERA,Asia
+India,IND,Visakhapatnam,VTZ,100,22,TIERA,Asia
+India,IND,Patna,PAT,100,23,TIERA,Asia
+India,IND,Vadodara,BDQ,100,22,TIERA,Asia
+India,IND,Ghaziabad,GZB,100,18,TIERA,Asia
+United Kingdom,GBR,London,LON,100,806,TIERA,Europe
+United Kingdom,GBR,Birmingham,BHM,100,103,TIERA,Europe
+United Kingdom,GBR,Leeds,LEE,100,71,TIERA,Europe
+United Kingdom,GBR,Glasgow,GLA,100,57,TIERA,Europe
+United Kingdom,GBR,Sheffield,SHE,100,53,TIERA,Europe
+United Kingdom,GBR,Bradford,BRD,100,49,TIERA,Europe
+United Kingdom,GBR,Manchester,MAN,100,50,TIERA,Europe
+United Kingdom,GBR,Edinburgh,EDN,100,47,TIERA,Europe
+United Kingdom,GBR,Liverpool,LIV,100,45,TIERA,Europe
+United Kingdom,GBR,Bristol,BRS,100,42,TIERA,Europe
+United Kingdom,GBR,Cardiff,CDF,100,33,TIERA,Europe
+United Kingdom,GBR,Leicester,LEI,100,32,TIERA,Europe
+United Kingdom,GBR,Coventry,COV,100,34,TIERA,Europe
+United Kingdom,GBR,Nottingham,NOT,100,30,TIERA,Europe
+United Kingdom,GBR,Newcastle,NCL,100,27,TIERA,Europe
+United Kingdom,GBR,Belfast,BFS,100,31,TIERA,Europe
+United Kingdom,GBR,Brighton,BTN,100,26,TIERA,Europe
+United Kingdom,GBR,Hull,HUL,100,24,TIERA,Europe
+United Kingdom,GBR,Plymouth,PLY,100,24,TIERA,Europe
+United Kingdom,GBR,Stoke,STK,100,23,TIERA,Europe
+France,FRA,Paris,PAR,100,463,TIERA,Europe
+France,FRA,Marseille,MRS,100,187,TIERA,Europe
+France,FRA,Lyon,LYN,100,112,TIERA,Europe
+France,FRA,Toulouse,TLS,100,106,TIERA,Europe
+France,FRA,Nice,NCE,100,74,TIERA,Europe
+France,FRA,Nantes,NTE,100,69,TIERA,Europe
+France,FRA,Montpellier,MPL,100,63,TIERA,Europe
+France,FRA,Strasbourg,SXB,100,61,TIERA,Europe
+France,FRA,Bordeaux,BOD,100,56,TIERA,Europe
+France,FRA,Lille,LIL,100,51,TIERA,Europe
+France,FRA,Rennes,RNS,100,48,TIERA,Europe
+France,FRA,Reims,RMS,100,40,TIERA,Europe
+France,FRA,Saint-Etienne,ETE,100,37,TIERA,Europe
+France,FRA,Toulon,TLN,100,38,TIERA,Europe
+France,FRA,Le Havre,LEH,100,37,TIERA,Europe
+France,FRA,Grenoble,GNB,100,35,TIERA,Europe
+France,FRA,Dijon,DJN,100,34,TIERA,Europe
+France,FRA,Angers,ANJ,100,34,TIERA,Europe
+France,FRA,Villeurbanne,VLB,100,33,TIERA,Europe
+France,FRA,Nimes,NIM,100,32,TIERA,Europe
+Italy,ITA,Rome,ROM,100,424,TIERA,Europe
+Italy,ITA,Milan,MIL,100,200,TIERA,Europe
+Italy,ITA,Naples,NAP,100,142,TIERA,Europe
+Italy,ITA,Turin,TRN,100,129,TIERA,Europe
+Italy,ITA,Palermo,PAL,100,99,TIERA,Europe
+Italy,ITA,Genoa,GEN,100,86,TIERA,Europe
+Italy,ITA,Bologna,BLG,100,59,TIERA,Europe
+Italy,ITA,Florence,FLR,100,57,TIERA,Europe
+Italy,ITA,Bari,BRI,100,48,TIERA,Europe
+Italy,ITA,Catania,CTA,100,47,TIERA,Europe
+Italy,ITA,Venice,VCE,100,39,TIERA,Europe
+Italy,ITA,Verona,VRN,100,39,TIERA,Europe
+Italy,ITA,Messina,MSN,100,35,TIERA,Europe
+Italy,ITA,Padua,PDV,100,32,TIERA,Europe
+Italy,ITA,Trieste,TRS,100,31,TIERA,Europe
+Italy,ITA,Taranto,TAR,100,30,TIERA,Europe
+Italy,ITA,Brescia,BRX,100,30,TIERA,Europe
+Italy,ITA,Reggio Calabria,RCA,100,27,TIERA,Europe
+Italy,ITA,Modena,MOD,100,28,TIERA,Europe
+Italy,ITA,Parma,PRM,100,29,TIERA,Europe
 Brazil,BRA,Sao Paulo,SAO,70,202,TIERB,Americas
 Brazil,BRA,Rio de Janeiro,RIO,70,111,TIERB,Americas
-Brazil,BRA,Brasilia,BSB,70,50,TIERB,Americas
+Brazil,BRA,Brasilia,BSB,70,51,TIERB,Americas
 Brazil,BRA,Salvador,SSA,70,48,TIERB,Americas
 Brazil,BRA,Fortaleza,FOR,70,44,TIERB,Americas
-Brazil,BRA,Belo Horizonte,BHZ,70,41,TIERB,Americas
+Brazil,BRA,Belo Horizonte,BHZ,70,42,TIERB,Americas
 Brazil,BRA,Manaus,MAO,70,37,TIERB,Americas
-Brazil,BRA,Curitiba,CWB,70,32,TIERB,Americas
-Brazil,BRA,Recife,REC,70,27,TIERB,Americas
-Brazil,BRA,Goiania,GYN,70,25,TIERB,Americas
+Brazil,BRA,Curitiba,CWB,70,33,TIERB,Americas
+Brazil,BRA,Recife,REC,70,28,TIERB,Americas
+Brazil,BRA,Goiania,GYN,70,26,TIERB,Americas
 Brazil,BRA,Belem,BEL,70,25,TIERB,Americas
-Brazil,BRA,Porto Alegre,POA,70,24,TIERB,Americas
+Brazil,BRA,Porto Alegre,POA,70,25,TIERB,Americas
 Brazil,BRA,Guarulhos,GRU,70,23,TIERB,Americas
 Brazil,BRA,Campinas,CPQ,70,20,TIERB,Americas
-Brazil,BRA,Sao Luis,SLZ,70,18,TIERB,Americas
+Brazil,BRA,Sao Luis,SLZ,70,19,TIERB,Americas
 Brazil,BRA,Maceio,MCZ,70,17,TIERB,Americas
 Brazil,BRA,Natal,NAT,70,15,TIERB,Americas
-Brazil,BRA,Teresina,THE,70,14,TIERB,Americas
+Brazil,BRA,Teresina,THE,70,15,TIERB,Americas
 Brazil,BRA,Campo Grande,CGR,70,15,TIERB,Americas
-Brazil,BRA,Joao Pessoa,JPA,70,13,TIERB,Americas
-Canada,CAN,Toronto,TOR,70,143,TIERB,Americas
+Brazil,BRA,Joao Pessoa,JPA,70,14,TIERB,Americas
+Canada,CAN,Toronto,TOR,70,144,TIERB,Americas
 Canada,CAN,Montreal,MTL,70,110,TIERB,Americas
 Canada,CAN,Calgary,YYC,70,69,TIERB,Americas
-Canada,CAN,Ottawa,OTT,70,52,TIERB,Americas
-Canada,CAN,Edmonton,YEG,70,50,TIERB,Americas
-Canada,CAN,Mississauga,MSS,70,37,TIERB,Americas
-Canada,CAN,Winnipeg,YWG,70,38,TIERB,Americas
+Canada,CAN,Ottawa,OTT,70,53,TIERB,Americas
+Canada,CAN,Edmonton,YEG,70,51,TIERB,Americas
+Canada,CAN,Mississauga,MSS,70,38,TIERB,Americas
+Canada,CAN,Winnipeg,YWG,70,39,TIERB,Americas
 Canada,CAN,Vancouver,YVR,70,35,TIERB,Americas
 Canada,CAN,Brampton,BRM,70,34,TIERB,Americas
 Canada,CAN,Hamilton,HML,70,30,TIERB,Americas
-Canada,CAN,Surrey,SRY,70,29,TIERB,Americas
+Canada,CAN,Surrey,SRY,70,30,TIERB,Americas
 Canada,CAN,Quebec City,YQB,70,28,TIERB,Americas
 Canada,CAN,Laval,LVL,70,23,TIERB,Americas
 Canada,CAN,Halifax,YHZ,70,23,TIERB,Americas
 Canada,CAN,London,YXU,70,22,TIERB,Americas
-Canada,CAN,Markham,MRK,70,17,TIERB,Americas
+Canada,CAN,Markham,MRK,70,18,TIERB,Americas
 Canada,CAN,Vaughan,VGN,70,17,TIERB,Americas
 Canada,CAN,Gatineau,YND,70,15,TIERB,Americas
-Canada,CAN,Saskatoon,YXE,70,16,TIERB,Americas
+Canada,CAN,Saskatoon,YXE,70,17,TIERB,Americas
 Canada,CAN,Longueuil,LGU,70,13,TIERB,Americas
-Russia,RUS,Moscow,MOW,70,267,TIERB,Europe
+Russia,RUS,Moscow,MOW,70,268,TIERB,Europe
 Russia,RUS,Saint Petersburg,SPB,70,115,TIERB,Europe
 Russia,RUS,Novosibirsk,OVB,70,35,TIERB,Europe
 Russia,RUS,Yekaterinburg,SVX,70,32,TIERB,Europe
 Russia,RUS,Kazan,KZN,70,27,TIERB,Europe
 Russia,RUS,Nizhny Novgorod,GOJ,70,27,TIERB,Europe
-Russia,RUS,Chelyabinsk,CEK,70,25,TIERB,Europe
+Russia,RUS,Chelyabinsk,CEK,70,26,TIERB,Europe
 Russia,RUS,Samara,KUF,70,25,TIERB,Europe
-Russia,RUS,Ufa,UFA,70,24,TIERB,Europe
-Russia,RUS,Rostov-on-Don,ROV,70,24,TIERB,Europe
+Russia,RUS,Ufa,UFA,70,25,TIERB,Europe
+Russia,RUS,Rostov-on-Don,ROV,70,25,TIERB,Europe
 Russia,RUS,Omsk,OMS,70,25,TIERB,Europe
-Russia,RUS,Krasnoyarsk,KJA,70,23,TIERB,Europe
+Russia,RUS,Krasnoyarsk,KJA,70,24,TIERB,Europe
 Russia,RUS,Perm,PEE,70,23,TIERB,Europe
 Russia,RUS,Volgograd,VOG,70,22,TIERB,Europe
 Russia,RUS,Voronezh,VOZ,70,23,TIERB,Europe
 Russia,RUS,Saratov,GSV,70,18,TIERB,Europe
-Russia,RUS,Krasnodar,KRR,70,21,TIERB,Europe
-Russia,RUS,Tyumen,TJM,70,17,TIERB,Europe
+Russia,RUS,Krasnodar,KRR,70,22,TIERB,Europe
+Russia,RUS,Tyumen,TJM,70,18,TIERB,Europe
 Russia,RUS,Tolyatti,TLT,70,15,TIERB,Europe
 Russia,RUS,Izhevsk,IJK,70,14,TIERB,Europe
-South Korea,KOR,Seoul,SEO,70,231,TIERB,Asia
+South Korea,KOR,Seoul,SEO,70,232,TIERB,Asia
 South Korea,KOR,Busan,PUS,70,81,TIERB,Asia
 South Korea,KOR,Incheon,ICN,70,70,TIERB,Asia
-South Korea,KOR,Daegu,TAE,70,57,TIERB,Asia
+South Korea,KOR,Daegu,TAE,70,58,TIERB,Asia
 South Korea,KOR,Daejeon,CJJ,70,35,TIERB,Asia
-South Korea,KOR,Gwangju,KWJ,70,34,TIERB,Asia
-South Korea,KOR,Suwon,SWN,70,29,TIERB,Asia
-South Korea,KOR,Ulsan,USN,70,27,TIERB,Asia
-South Korea,KOR,Changwon,CHW,70,25,TIERB,Asia
-South Korea,KOR,Goyang,GYG,70,25,TIERB,Asia
-South Korea,KOR,Yongin,YNG,70,25,TIERB,Asia
+South Korea,KOR,Gwangju,KWJ,70,35,TIERB,Asia
+South Korea,KOR,Suwon,SWN,70,30,TIERB,Asia
+South Korea,KOR,Ulsan,USN,70,28,TIERB,Asia
+South Korea,KOR,Changwon,CHW,70,26,TIERB,Asia
+South Korea,KOR,Goyang,GYG,70,26,TIERB,Asia
+South Korea,KOR,Yongin,YNG,70,26,TIERB,Asia
 South Korea,KOR,Seongnam,SNM,70,22,TIERB,Asia
-South Korea,KOR,Bucheon,BCN,70,19,TIERB,Asia
-South Korea,KOR,Cheongju,CJJ,70,20,TIERB,Asia
-South Korea,KOR,Jeonju,JNJ,70,15,TIERB,Asia
+South Korea,KOR,Bucheon,BCN,70,20,TIERB,Asia
+South Korea,KOR,Cheongju,CJJ,70,21,TIERB,Asia
+South Korea,KOR,Jeonju,JNJ,70,16,TIERB,Asia
 South Korea,KOR,Ansan,ASN,70,17,TIERB,Asia
 South Korea,KOR,Anyang,AYG,70,15,TIERB,Asia
-South Korea,KOR,Namyangju,NYJ,70,16,TIERB,Asia
-South Korea,KOR,Hwaseong,HWS,70,19,TIERB,Asia
+South Korea,KOR,Namyangju,NYJ,70,17,TIERB,Asia
+South Korea,KOR,Hwaseong,HWS,70,20,TIERB,Asia
 South Korea,KOR,Cheonan,CNA,70,16,TIERB,Asia
-Australia,AUS,Sydney,SYD,70,212,TIERB,Asia
+Australia,AUS,Sydney,SYD,70,213,TIERB,Asia
 Australia,AUS,Melbourne,MEL,70,203,TIERB,Asia
-Australia,AUS,Brisbane,BNE,70,102,TIERB,Asia
-Australia,AUS,Perth,PER,70,83,TIERB,Asia
+Australia,AUS,Brisbane,BNE,70,103,TIERB,Asia
+Australia,AUS,Perth,PER,70,84,TIERB,Asia
 Australia,AUS,Adelaide,ADL,70,55,TIERB,Asia
-Australia,AUS,Gold Coast,OOL,70,27,TIERB,Asia
-Australia,AUS,Canberra,CBR,70,18,TIERB,Asia
+Australia,AUS,Gold Coast,OOL,70,28,TIERB,Asia
+Australia,AUS,Canberra,CBR,70,19,TIERB,Asia
 Australia,AUS,Newcastle,NTL,70,13,TIERB,Asia
-Australia,AUS,Wollongong,WOL,70,12,TIERB,Asia
-Australia,AUS,Sunshine Coast,MCY,70,13,TIERB,Asia
-Australia,AUS,Geelong,GEX,70,11,TIERB,Asia
-Australia,AUS,Hobart,HBA,70,9,TIERB,Asia
-Australia,AUS,Townsville,TSV,70,7,TIERB,Asia
-Australia,AUS,Cairns,CNS,70,6,TIERB,Asia
+Australia,AUS,Wollongong,WOL,70,13,TIERB,Asia
+Australia,AUS,Sunshine Coast,MCY,70,14,TIERB,Asia
+Australia,AUS,Geelong,GEX,70,12,TIERB,Asia
+Australia,AUS,Hobart,HBA,70,10,TIERB,Asia
+Australia,AUS,Townsville,TSV,70,8,TIERB,Asia
+Australia,AUS,Cairns,CNS,70,7,TIERB,Asia
 Australia,AUS,Darwin,DRW,70,6,TIERB,Asia
 Australia,AUS,Toowoomba,TWB,70,6,TIERB,Asia
 Australia,AUS,Ballarat,BSS,70,5,TIERB,Asia
-Australia,AUS,Bendigo,BXG,70,4,TIERB,Asia
-Australia,AUS,Launceston,LST,70,3,TIERB,Asia
-Australia,AUS,Mackay,MKY,70,3,TIERB,Asia
+Australia,AUS,Bendigo,BXG,70,5,TIERB,Asia
+Australia,AUS,Launceston,LST,70,4,TIERB,Asia
+Australia,AUS,Mackay,MKY,70,4,TIERB,Asia
 Mexico,MEX,Mexico City,MEX,70,242,TIERB,Americas
-Mexico,MEX,Ecatepec,ECT,70,43,TIERB,Americas
-Mexico,MEX,Guadalajara,GDL,70,39,TIERB,Americas
-Mexico,MEX,Puebla,PBC,70,44,TIERB,Americas
+Mexico,MEX,Ecatepec,ECT,70,44,TIERB,Americas
+Mexico,MEX,Guadalajara,GDL,70,40,TIERB,Americas
+Mexico,MEX,Puebla,PBC,70,45,TIERB,Americas
 Mexico,MEX,Juarez,CJS,70,40,TIERB,Americas
-Mexico,MEX,Tijuana,TIJ,70,43,TIERB,Americas
-Mexico,MEX,Leon,BJX,70,41,TIERB,Americas
+Mexico,MEX,Tijuana,TIJ,70,44,TIERB,Americas
+Mexico,MEX,Leon,BJX,70,42,TIERB,Americas
 Mexico,MEX,Zapopan,ZPN,70,33,TIERB,Americas
 Mexico,MEX,Monterrey,MTY,70,30,TIERB,Americas
 Mexico,MEX,Nezahualcoyotl,NEZ,70,29,TIERB,Americas
-Mexico,MEX,Chihuahua,CUU,70,24,TIERB,Americas
-Mexico,MEX,Naucalpan,NAU,70,23,TIERB,Americas
-Mexico,MEX,Merida,MID,70,23,TIERB,Americas
+Mexico,MEX,Chihuahua,CUU,70,25,TIERB,Americas
+Mexico,MEX,Naucalpan,NAU,70,24,TIERB,Americas
+Mexico,MEX,Merida,MID,70,24,TIERB,Americas
 Mexico,MEX,San Luis Potosi,SLP,70,22,TIERB,Americas
 Mexico,MEX,Aguascalientes,AGU,70,21,TIERB,Americas
-Mexico,MEX,Hermosillo,HMO,70,23,TIERB,Americas
-Mexico,MEX,Saltillo,SLT,70,21,TIERB,Americas
+Mexico,MEX,Hermosillo,HMO,70,24,TIERB,Americas
+Mexico,MEX,Saltillo,SLT,70,22,TIERB,Americas
 Mexico,MEX,Acapulco,ACA,70,18,TIERB,Americas
-Mexico,MEX,Mexicali,MXL,70,18,TIERB,Americas
+Mexico,MEX,Mexicali,MXL,70,19,TIERB,Americas
 Mexico,MEX,Culiacan,CUL,70,23,TIERB,Americas
 Spain,ESP,Madrid,MAD,70,218,TIERB,Europe
-Spain,ESP,Barcelona,BCN,70,109,TIERB,Europe
-Spain,ESP,Valencia,VLC,70,53,TIERB,Europe
+Spain,ESP,Barcelona,BCN,70,110,TIERB,Europe
+Spain,ESP,Valencia,VLC,70,54,TIERB,Europe
 Spain,ESP,Seville,SVQ,70,46,TIERB,Europe
-Spain,ESP,Zaragoza,ZAZ,70,45,TIERB,Europe
+Spain,ESP,Zaragoza,ZAZ,70,46,TIERB,Europe
 Spain,ESP,Malaga,AGP,70,39,TIERB,Europe
 Spain,ESP,Murcia,MJV,70,31,TIERB,Europe
 Spain,ESP,Palma,PMI,70,28,TIERB,Europe
-Spain,ESP,Las Palmas,LPA,70,25,TIERB,Europe
+Spain,ESP,Las Palmas,LPA,70,26,TIERB,Europe
 Spain,ESP,Bilbao,BIO,70,24,TIERB,Europe
-Spain,ESP,Alicante,ALC,70,22,TIERB,Europe
+Spain,ESP,Alicante,ALC,70,23,TIERB,Europe
 Spain,ESP,Cordoba,ODB,70,22,TIERB,Europe
-Spain,ESP,Valladolid,VLL,70,20,TIERB,Europe
+Spain,ESP,Valladolid,VLL,70,21,TIERB,Europe
 Spain,ESP,Vigo,VGO,70,20,TIERB,Europe
-Spain,ESP,Gijon,OVD,70,18,TIERB,Europe
-Spain,ESP,Hospitalet,HLL,70,17,TIERB,Europe
-Spain,ESP,La Coruna,LCG,70,16,TIERB,Europe
-Spain,ESP,Granada,GRX,70,15,TIERB,Europe
+Spain,ESP,Gijon,OVD,70,19,TIERB,Europe
+Spain,ESP,Hospitalet,HLL,70,18,TIERB,Europe
+Spain,ESP,La Coruna,LCG,70,17,TIERB,Europe
+Spain,ESP,Granada,GRX,70,16,TIERB,Europe
 Spain,ESP,Vitoria,VIT,70,17,TIERB,Europe
-Spain,ESP,Elche,ELC,70,15,TIERB,Europe
+Spain,ESP,Elche,ELC,70,16,TIERB,Europe
 Indonesia,IDN,Jakarta,JKT,70,216,TIERB,Asia
-Indonesia,IDN,Surabaya,SUB,70,59,TIERB,Asia
+Indonesia,IDN,Surabaya,SUB,70,60,TIERB,Asia
 Indonesia,IDN,Bandung,BDO,70,53,TIERB,Asia
 Indonesia,IDN,Bekasi,BKS,70,52,TIERB,Asia
 Indonesia,IDN,Medan,MES,70,50,TIERB,Asia
 Indonesia,IDN,Depok,DPK,70,48,TIERB,Asia
-Indonesia,IDN,Tangerang,TNG,70,43,TIERB,Asia
+Indonesia,IDN,Tangerang,TNG,70,44,TIERB,Asia
 Indonesia,IDN,Semarang,SRG,70,34,TIERB,Asia
-Indonesia,IDN,Makassar,UPG,70,31,TIERB,Asia
-Indonesia,IDN,Palembang,PLM,70,29,TIERB,Asia
-Indonesia,IDN,Batam,BTH,70,24,TIERB,Asia
-Indonesia,IDN,Pekanbaru,PKU,70,22,TIERB,Asia
+Indonesia,IDN,Makassar,UPG,70,32,TIERB,Asia
+Indonesia,IDN,Palembang,PLM,70,30,TIERB,Asia
+Indonesia,IDN,Batam,BTH,70,25,TIERB,Asia
+Indonesia,IDN,Pekanbaru,PKU,70,23,TIERB,Asia
 Indonesia,IDN,Bandar Lampung,TKG,70,20,TIERB,Asia
-Indonesia,IDN,Bogor,BOO,70,22,TIERB,Asia
+Indonesia,IDN,Bogor,BOO,70,23,TIERB,Asia
 Indonesia,IDN,Padang,PDG,70,19,TIERB,Asia
-Indonesia,IDN,Malang,MLG,70,18,TIERB,Asia
-Indonesia,IDN,Samarinda,SMQ,70,17,TIERB,Asia
+Indonesia,IDN,Malang,MLG,70,19,TIERB,Asia
+Indonesia,IDN,Samarinda,SMQ,70,18,TIERB,Asia
 Indonesia,IDN,Tasikmalaya,TSM,70,15,TIERB,Asia
-Indonesia,IDN,Banjarmasin,BDJ,70,14,TIERB,Asia
-Indonesia,IDN,Pontianak,PNK,70,13,TIERB,Asia
-Netherlands,NLD,Amsterdam,AMS,50,71,TIERC,Europe
-Netherlands,NLD,Rotterdam,RTM,50,50,TIERC,Europe
-Netherlands,NLD,The Hague,HAG,50,42,TIERC,Europe
-Netherlands,NLD,Utrecht,UTC,50,28,TIERC,Europe
-Netherlands,NLD,Eindhoven,EIN,50,18,TIERC,Europe
-Netherlands,NLD,Tilburg,TLB,50,17,TIERC,Europe
-Netherlands,NLD,Groningen,GRQ,50,18,TIERC,Europe
-Netherlands,NLD,Almere,ALM,50,16,TIERC,Europe
-Netherlands,NLD,Breda,BRD,50,14,TIERC,Europe
-Netherlands,NLD,Nijmegen,NIJ,50,14,TIERC,Europe
-Netherlands,NLD,Enschede,ENS,50,12,TIERC,Europe
-Netherlands,NLD,Haarlem,HAA,50,12,TIERC,Europe
-Netherlands,NLD,Arnhem,ARN,50,12,TIERC,Europe
-Netherlands,NLD,Zaanstad,ZAN,50,12,TIERC,Europe
-Netherlands,NLD,Amersfoort,AMF,50,12,TIERC,Europe
-Netherlands,NLD,Apeldoorn,APD,50,12,TIERC,Europe
-Netherlands,NLD,Zwolle,ZWO,50,10,TIERC,Europe
-Netherlands,NLD,Leiden,LDN,50,9,TIERC,Europe
-Netherlands,NLD,Haarlemmermeer,HLM,50,12,TIERC,Europe
-Netherlands,NLD,Dordrecht,DOR,50,9,TIERC,Europe
-Saudi Arabia,SAU,Riyadh,RIY,50,133,TIERC,MEA
-Saudi Arabia,SAU,Jeddah,JED,50,81,TIERC,MEA
-Saudi Arabia,SAU,Mecca,MKH,50,35,TIERC,MEA
-Saudi Arabia,SAU,Medina,MED,50,26,TIERC,MEA
-Saudi Arabia,SAU,Dammam,DMM,50,18,TIERC,MEA
-Saudi Arabia,SAU,Taif,TIF,50,17,TIERC,MEA
-Saudi Arabia,SAU,Khobar,KHB,50,16,TIERC,MEA
-Saudi Arabia,SAU,Tabuk,TUU,50,12,TIERC,MEA
-Saudi Arabia,SAU,Abha,AHB,50,7,TIERC,MEA
-Saudi Arabia,SAU,Hail,HAS,50,5,TIERC,MEA
-Saudi Arabia,SAU,Najran,EAM,50,5,TIERC,MEA
-Saudi Arabia,SAU,Jubail,QJB,50,5,TIERC,MEA
-Saudi Arabia,SAU,Khamis Mushait,KMX,50,8,TIERC,MEA
-Saudi Arabia,SAU,Al-Qatif,QTF,50,4,TIERC,MEA
-Saudi Arabia,SAU,Yanbu,YNB,50,3,TIERC,MEA
-Saudi Arabia,SAU,Al-Ahsa,HOF,50,6,TIERC,MEA
-Saudi Arabia,SAU,Jizan,GIZ,50,4,TIERC,MEA
-Saudi Arabia,SAU,Qassim,ELQ,50,7,TIERC,MEA
-Saudi Arabia,SAU,Khurais,XRS,50,3,TIERC,MEA
-Saudi Arabia,SAU,Hafar Al-Batin,HBT,50,4,TIERC,MEA
-Turkey,TUR,Istanbul,IST,50,152,TIERC,Europe
-Turkey,TUR,Ankara,ANK,50,57,TIERC,Europe
-Turkey,TUR,Izmir,IZM,50,29,TIERC,Europe
-Turkey,TUR,Bursa,BTZ,50,21,TIERC,Europe
-Turkey,TUR,Adana,ADA,50,17,TIERC,Europe
-Turkey,TUR,Gaziantep,GZT,50,21,TIERC,Europe
-Turkey,TUR,Konya,KYA,50,12,TIERC,Europe
-Turkey,TUR,Antalya,AYT,50,13,TIERC,Europe
-Turkey,TUR,Diyarbakir,DIY,50,10,TIERC,Europe
-Turkey,TUR,Mersin,MRS,50,10,TIERC,Europe
-Turkey,TUR,Kayseri,ASR,50,10,TIERC,Europe
-Turkey,TUR,Esenyurt,ESY,50,9,TIERC,Europe
-Turkey,TUR,Pendik,PDK,50,7,TIERC,Europe
-Turkey,TUR,Atasehir,ATS,50,4,TIERC,Europe
-Turkey,TUR,Umraniye,UMR,50,7,TIERC,Europe
-Turkey,TUR,Sisli,SSL,50,3,TIERC,Europe
-Turkey,TUR,Kahramanmaras,KCM,50,6,TIERC,Europe
-Turkey,TUR,Trabzon,TZX,50,3,TIERC,Europe
-Turkey,TUR,Malatya,MLX,50,6,TIERC,Europe
-Turkey,TUR,Erzurum,ERZ,50,4,TIERC,Europe
-Switzerland,CHE,Zurich,ZRH,50,93,TIERC,Europe
-Switzerland,CHE,Geneva,GVA,50,44,TIERC,Europe
-Switzerland,CHE,Basel,BSL,50,38,TIERC,Europe
-Switzerland,CHE,Bern,BRN,50,29,TIERC,Europe
-Switzerland,CHE,Lausanne,LSN,50,30,TIERC,Europe
-Switzerland,CHE,Winterthur,WTR,50,25,TIERC,Europe
-Switzerland,CHE,Lucerne,LUZ,50,18,TIERC,Europe
-Switzerland,CHE,St. Gallen,STG,50,17,TIERC,Europe
-Switzerland,CHE,Lugano,LUG,50,13,TIERC,Europe
-Switzerland,CHE,Biel,BIL,50,12,TIERC,Europe
-Switzerland,CHE,Thun,THN,50,9,TIERC,Europe
-Switzerland,CHE,Koniz,KNZ,50,9,TIERC,Europe
-Switzerland,CHE,La Chaux-de-Fonds,CDF,50,8,TIERC,Europe
-Switzerland,CHE,Schaffhausen,SFH,50,8,TIERC,Europe
-Switzerland,CHE,Fribourg,FRB,50,8,TIERC,Europe
-Switzerland,CHE,Chur,CHR,50,8,TIERC,Europe
-Switzerland,CHE,Vernier,VNR,50,7,TIERC,Europe
-Switzerland,CHE,Uster,UST,50,7,TIERC,Europe
-Switzerland,CHE,Neuchatel,NCH,50,9,TIERC,Europe
-Switzerland,CHE,Sion,SIO,50,7,TIERC,Europe
-Argentina,ARG,Buenos Aires,BUE,50,83,TIERC,Americas
-Argentina,ARG,Cordoba,COR,50,39,TIERC,Americas
-Argentina,ARG,Rosario,ROS,50,32,TIERC,Americas
-Argentina,ARG,Mendoza,MDZ,50,27,TIERC,Americas
-Argentina,ARG,Tucuman,TUC,50,22,TIERC,Americas
-Argentina,ARG,La Plata,LAP,50,21,TIERC,Americas
-Argentina,ARG,Mar del Plata,MDQ,50,18,TIERC,Americas
-Argentina,ARG,Salta,SLA,50,17,TIERC,Americas
-Argentina,ARG,Santa Fe,SFE,50,14,TIERC,Americas
-Argentina,ARG,San Juan,UAQ,50,12,TIERC,Americas
-Argentina,ARG,Resistencia,RES,50,11,TIERC,Americas
-Argentina,ARG,Corrientes,CNQ,50,11,TIERC,Americas
-Argentina,ARG,Lanus,LNS,50,13,TIERC,Americas
-Argentina,ARG,Quilmes,QUI,50,16,TIERC,Americas
-Argentina,ARG,Almirante Brown,ALM,50,15,TIERC,Americas
-Argentina,ARG,Florencio Varela,FLV,50,12,TIERC,Americas
-Argentina,ARG,Moreno,MNO,50,12,TIERC,Americas
-Argentina,ARG,General Pueyrredon,MDP,50,10,TIERC,Americas
-Argentina,ARG,Neuquen,NQN,50,9,TIERC,Americas
-Argentina,ARG,Santiago del Estero,SDE,50,8,TIERC,Americas
-Poland,POL,Warsaw,WAW,50,85,TIERC,Europe
-Poland,POL,Krakow,KRK,50,37,TIERC,Europe
-Poland,POL,Lodz,LDZ,50,32,TIERC,Europe
-Poland,POL,Wroclaw,WRO,50,30,TIERC,Europe
-Poland,POL,Poznan,POZ,50,26,TIERC,Europe
-Poland,POL,Gdansk,GDN,50,22,TIERC,Europe
-Poland,POL,Szczecin,SZZ,50,19,TIERC,Europe
-Poland,POL,Bydgoszcz,BYD,50,17,TIERC,Europe
-Poland,POL,Lublin,LUZ,50,16,TIERC,Europe
-Poland,POL,Katowice,KTW,50,14,TIERC,Europe
-Poland,POL,Bialystok,BZG,50,14,TIERC,Europe
-Poland,POL,Gdynia,GDY,50,12,TIERC,Europe
-Poland,POL,Czestochowa,CZW,50,11,TIERC,Europe
-Poland,POL,Radom,RDO,50,10,TIERC,Europe
-Poland,POL,Sosnowiec,SOS,50,9,TIERC,Europe
-Poland,POL,Torun,TRN,50,10,TIERC,Europe
-Poland,POL,Kielce,KLC,50,9,TIERC,Europe
-Poland,POL,Rzeszow,RZE,50,9,TIERC,Europe
-Poland,POL,Gliwice,GLI,50,9,TIERC,Europe
-Poland,POL,Zabrze,ZBR,50,8,TIERC,Europe
-Sweden,SWE,Stockholm,STO,50,96,TIERC,Europe
-Sweden,SWE,Gothenburg,GOT,50,57,TIERC,Europe
-Sweden,SWE,Malmo,MMA,50,34,TIERC,Europe
-Sweden,SWE,Uppsala,UPP,50,23,TIERC,Europe
-Sweden,SWE,Vasteras,VAS,50,12,TIERC,Europe
-Sweden,SWE,Orebro,ORE,50,15,TIERC,Europe
-Sweden,SWE,Linkoping,LPI,50,16,TIERC,Europe
-Sweden,SWE,Helsingborg,HLB,50,15,TIERC,Europe
-Sweden,SWE,Jonkoping,JKG,50,14,TIERC,Europe
-Sweden,SWE,Norrkoping,NRK,50,14,TIERC,Europe
-Sweden,SWE,Lund,LND,50,12,TIERC,Europe
-Sweden,SWE,Umea,UME,50,13,TIERC,Europe
-Sweden,SWE,Gavle,GVX,50,10,TIERC,Europe
-Sweden,SWE,Boras,BOR,50,11,TIERC,Europe
-Sweden,SWE,Sodertalje,STL,50,10,TIERC,Europe
-Sweden,SWE,Eskilstuna,ESK,50,10,TIERC,Europe
-Sweden,SWE,Sundsvall,SDL,50,10,TIERC,Europe
-Sweden,SWE,Huddinge,HUD,50,10,TIERC,Europe
-Sweden,SWE,Nacka,NAC,50,10,TIERC,Europe
-Sweden,SWE,Karlstad,KSD,50,9,TIERC,Europe
-Belgium,BEL,Brussels,BRU,50,134,TIERC,Europe
-Belgium,BEL,Antwerp,ANT,50,58,TIERC,Europe
-Belgium,BEL,Ghent,GNT,50,29,TIERC,Europe
-Belgium,BEL,Charleroi,CRL,50,22,TIERC,Europe
-Belgium,BEL,Liege,LGG,50,22,TIERC,Europe
-Belgium,BEL,Bruges,BRU,50,13,TIERC,Europe
-Belgium,BEL,Namur,QNM,50,12,TIERC,Europe
-Belgium,BEL,Leuven,LGG,50,11,TIERC,Europe
-Belgium,BEL,Mons,MON,50,11,TIERC,Europe
-Belgium,BEL,Aalst,AAL,50,10,TIERC,Europe
-Belgium,BEL,Mechelen,MHE,50,9,TIERC,Europe
-Belgium,BEL,La Louviere,LLV,50,9,TIERC,Europe
-Belgium,BEL,Kortrijk,KRT,50,8,TIERC,Europe
-Belgium,BEL,Hasselt,HAS,50,8,TIERC,Europe
-Belgium,BEL,Ostend,OST,50,8,TIERC,Europe
-Belgium,BEL,Sint-Niklaas,SNK,50,8,TIERC,Europe
-Belgium,BEL,Tournai,TRN,50,7,TIERC,Europe
-Belgium,BEL,Genk,GNK,50,7,TIERC,Europe
-Belgium,BEL,Seraing,SER,50,7,TIERC,Europe
-Belgium,BEL,Roeselare,RSL,50,7,TIERC,Europe
-Thailand,THA,Bangkok,BKK,50,274,TIERC,Asia
-Thailand,THA,Samut Prakan,SPK,50,26,TIERC,Asia
-Thailand,THA,Nonthaburi,NNT,50,23,TIERC,Asia
-Thailand,THA,Chiang Mai,CNX,50,3,TIERC,Asia
-Thailand,THA,Hat Yai,HDY,50,13,TIERC,Asia
-Thailand,THA,Udon Thani,UTH,50,10,TIERC,Asia
-Thailand,THA,Pattaya,UTP,50,3,TIERC,Asia
-Thailand,THA,Khon Kaen,KKC,50,8,TIERC,Asia
-Thailand,THA,Chon Buri,BFV,50,8,TIERC,Asia
-Thailand,THA,Nakhon Ratchasima,NAK,50,8,TIERC,Asia
-Thailand,THA,Surat Thani,URT,50,3,TIERC,Asia
-Thailand,THA,Ubon Ratchathani,UBP,50,4,TIERC,Asia
-Thailand,THA,Rayong,RAY,50,3,TIERC,Asia
-Thailand,THA,Nakhon Si Thammarat,NST,50,3,TIERC,Asia
-Thailand,THA,Phitsanulok,PHS,50,3,TIERC,Asia
-Thailand,THA,Chiang Rai,CEI,50,2,TIERC,Asia
-Thailand,THA,Lampang,LPT,50,1,TIERC,Asia
-Thailand,THA,Mueang Nakhon Sawan,NST,50,2,TIERC,Asia
-Thailand,THA,Songkhla,SGZ,50,2,TIERC,Asia
-Thailand,THA,Nakhon Pathom,NKT,50,2,TIERC,Asia
-Ireland,IRL,Dublin,DUB,50,231,TIERC,Europe
-Ireland,IRL,Cork,ORK,50,44,TIERC,Europe
-Ireland,IRL,Limerick,LMK,50,19,TIERC,Europe
-Ireland,IRL,Galway,GWY,50,16,TIERC,Europe
-Ireland,IRL,Waterford,WAT,50,11,TIERC,Europe
-Ireland,IRL,Drogheda,DRO,50,8,TIERC,Europe
-Ireland,IRL,Dundalk,DKL,50,8,TIERC,Europe
-Ireland,IRL,Swords,SWO,50,8,TIERC,Europe
-Ireland,IRL,Bray,BRY,50,6,TIERC,Europe
-Ireland,IRL,Navan,NAV,50,6,TIERC,Europe
-Ireland,IRL,Kilkenny,KLK,50,5,TIERC,Europe
-Ireland,IRL,Ennis,ENI,50,5,TIERC,Europe
-Ireland,IRL,Carlow,CAR,50,5,TIERC,Europe
-Ireland,IRL,Tralee,KIR,50,5,TIERC,Europe
-Ireland,IRL,Newbridge,NBG,50,5,TIERC,Europe
-Ireland,IRL,Portlaoise,PRT,50,4,TIERC,Europe
-Ireland,IRL,Balbriggan,BAL,50,4,TIERC,Europe
-Ireland,IRL,Naas,NAS,50,4,TIERC,Europe
-Ireland,IRL,Athlone,ATH,50,4,TIERC,Europe
-Ireland,IRL,Mullingar,MUL,50,4,TIERC,Europe
-Norway,NOR,Oslo,OSL,50,152,TIERC,Europe
-Norway,NOR,Bergen,BGO,50,43,TIERC,Europe
-Norway,NOR,Trondheim,TRD,50,31,TIERC,Europe
-Norway,NOR,Stavanger,SVG,50,33,TIERC,Europe
-Norway,NOR,Drammen,DRM,50,15,TIERC,Europe
-Norway,NOR,Fredrikstad,FRK,50,12,TIERC,Europe
-Norway,NOR,Kristiansand,KRS,50,17,TIERC,Europe
-Norway,NOR,Sandnes,SND,50,12,TIERC,Europe
-Norway,NOR,Asker,ASK,50,10,TIERC,Europe
-Norway,NOR,Haugesund,HAU,50,6,TIERC,Europe
-Norway,NOR,Tonsberg,TOS,50,8,TIERC,Europe
-Norway,NOR,Skien,SKE,50,12,TIERC,Europe
-Norway,NOR,Porsgrunn,POR,50,5,TIERC,Europe
-Norway,NOR,Alesund,AES,50,7,TIERC,Europe
-Norway,NOR,Sandefjord,SAN,50,9,TIERC,Europe
-Norway,NOR,Kongsberg,KON,50,4,TIERC,Europe
-Norway,NOR,Sarpsborg,SPG,50,8,TIERC,Europe
-Norway,NOR,Bodø,BOO,50,8,TIERC,Europe
-Norway,NOR,Molde,MOL,50,4,TIERC,Europe
-Norway,NOR,Lillehammer,LIL,50,4,TIERC,Europe
-Israel,ISR,Jerusalem,JRS,50,87,TIERC,MEA
-Israel,ISR,Tel Aviv,TLV,50,43,TIERC,MEA
-Israel,ISR,Haifa,HFA,50,26,TIERC,MEA
-Israel,ISR,Rishon LeZion,RSZ,50,23,TIERC,MEA
-Israel,ISR,Petah Tikva,PTE,50,24,TIERC,MEA
-Israel,ISR,Ashdod,ASH,50,21,TIERC,MEA
-Israel,ISR,Netanya,NET,50,20,TIERC,MEA
-Israel,ISR,Beer Sheva,BEV,50,19,TIERC,MEA
-Israel,ISR,Bnei Brak,BNB,50,18,TIERC,MEA
-Israel,ISR,Bat Yam,BAT,50,13,TIERC,MEA
-Israel,ISR,Holon,HOL,50,18,TIERC,MEA
-Israel,ISR,Ramat Gan,RMG,50,14,TIERC,MEA
-Israel,ISR,Ashkelon,ASK,50,13,TIERC,MEA
-Israel,ISR,Rehovot,REH,50,13,TIERC,MEA
-Israel,ISR,Herzliya,HEZ,50,9,TIERC,MEA
-Israel,ISR,Kfar Saba,KFS,50,9,TIERC,MEA
-Israel,ISR,Modi'in,MDN,50,9,TIERC,MEA
-Israel,ISR,Nazareth,NAZ,50,7,TIERC,MEA
-Israel,ISR,Lod,LOD,50,7,TIERC,MEA
-Israel,ISR,Ramla,RAM,50,7,TIERC,MEA
-Austria,AUT,Vienna,VIE,50,230,TIERC,Europe
-Austria,AUT,Graz,GRZ,50,35,TIERC,Europe
-Austria,AUT,Linz,LNZ,50,25,TIERC,Europe
-Austria,AUT,Salzburg,SZG,50,19,TIERC,Europe
-Austria,AUT,Innsbruck,INN,50,16,TIERC,Europe
-Austria,AUT,Klagenfurt,KLU,50,12,TIERC,Europe
-Austria,AUT,Villach,VIL,50,8,TIERC,Europe
-Austria,AUT,Wels,WEL,50,8,TIERC,Europe
-Austria,AUT,Sankt Polten,POL,50,7,TIERC,Europe
-Austria,AUT,Dornbirn,DOB,50,6,TIERC,Europe
-Austria,AUT,Wiener Neustadt,WNS,50,5,TIERC,Europe
-Austria,AUT,Steyr,STR,50,5,TIERC,Europe
-Austria,AUT,Feldkirch,FEL,50,4,TIERC,Europe
-Austria,AUT,Bregenz,BRZ,50,4,TIERC,Europe
-Austria,AUT,Leonding,LEO,50,3,TIERC,Europe
-Austria,AUT,Klosterneuburg,KLO,50,3,TIERC,Europe
-Austria,AUT,Leoben,LBN,50,3,TIERC,Europe
-Austria,AUT,Krems,KRE,50,3,TIERC,Europe
-Austria,AUT,Traun,TRA,50,3,TIERC,Europe
-Austria,AUT,Amstetten,AMS,50,3,TIERC,Europe
-United Arab Emirates,UAE,Dubai,DXB,50,139,TIERC,MEA
-United Arab Emirates,UAE,Abu Dhabi,AUH,50,62,TIERC,MEA
-United Arab Emirates,UAE,Sharjah,SHJ,50,53,TIERC,MEA
-United Arab Emirates,UAE,Al Ain,AAN,50,32,TIERC,MEA
-United Arab Emirates,UAE,Ajman,AJM,50,21,TIERC,MEA
-United Arab Emirates,UAE,Ras Al Khaimah,RKT,50,10,TIERC,MEA
-United Arab Emirates,UAE,Fujairah,FJR,50,9,TIERC,MEA
-United Arab Emirates,UAE,Umm Al Quwain,RKT,50,3,TIERC,MEA
-United Arab Emirates,UAE,Khor Fakkan,KHF,50,2,TIERC,MEA
-United Arab Emirates,UAE,Dibba Al-Hisn,DBH,50,1,TIERC,MEA
-United Arab Emirates,UAE,Al Quoz,AQZ,50,8,TIERC,MEA
-United Arab Emirates,UAE,Khalifa City,KHC,50,6,TIERC,MEA
-United Arab Emirates,UAE,Deira,DEI,50,29,TIERC,MEA
-United Arab Emirates,UAE,Bur Dubai,BDU,50,17,TIERC,MEA
-United Arab Emirates,UAE,Al Muwaylih,ALM,50,2,TIERC,MEA
-United Arab Emirates,UAE,Ruwais,RWS,50,1,TIERC,MEA
-United Arab Emirates,UAE,Kalba,KBA,50,3,TIERC,MEA
-United Arab Emirates,UAE,Dhaid,DHD,50,0,TIERC,MEA
-United Arab Emirates,UAE,Al Hamriyah,ALH,50,0,TIERC,MEA
-United Arab Emirates,UAE,Madinat Zayed,MDZ,50,1,TIERC,MEA
-Singapore,SGP,Singapore,SGP,50,258,TIERC,Asia
-Singapore,SGP,Jurong West,JRW,50,12,TIERC,Asia
-Singapore,SGP,Tampines,TMP,50,11,TIERC,Asia
-Singapore,SGP,Woodlands,WDS,50,11,TIERC,Asia
-Singapore,SGP,Sengkang,SKG,50,11,TIERC,Asia
-Singapore,SGP,Punggol,PNG,50,9,TIERC,Asia
-Singapore,SGP,Hougang,HGN,50,10,TIERC,Asia
-Singapore,SGP,Yishun,YSN,50,10,TIERC,Asia
-Singapore,SGP,Bukit Batok,BBT,50,7,TIERC,Asia
-Singapore,SGP,Choa Chu Kang,CCK,50,8,TIERC,Asia
-Singapore,SGP,Bedok,BDK,50,12,TIERC,Asia
-Singapore,SGP,Ang Mo Kio,AMK,50,7,TIERC,Asia
-Singapore,SGP,Toa Payoh,TPY,50,5,TIERC,Asia
-Singapore,SGP,Pasir Ris,PRI,50,6,TIERC,Asia
-Singapore,SGP,Serangoon,SRN,50,5,TIERC,Asia
-Singapore,SGP,Clementi,CLM,50,4,TIERC,Asia
-Singapore,SGP,Queenstown,QST,50,4,TIERC,Asia
-Singapore,SGP,Geylang,GYL,50,4,TIERC,Asia
-Singapore,SGP,Bishan,BSN,50,4,TIERC,Asia
-Singapore,SGP,Kallang,KLG,50,3,TIERC,Asia
-Nigeria,NGA,Lagos,LOS,50,147,TIERC,MEA
-Nigeria,NGA,Kano,KAN,50,38,TIERC,MEA
-Nigeria,NGA,Ibadan,IBA,50,36,TIERC,MEA
-Nigeria,NGA,Abuja,ABV,50,34,TIERC,MEA
-Nigeria,NGA,Port Harcourt,PHC,50,18,TIERC,MEA
-Nigeria,NGA,Benin City,BNI,50,18,TIERC,MEA
-Nigeria,NGA,Maiduguri,MIU,50,11,TIERC,MEA
-Nigeria,NGA,Zaria,ZAR,50,10,TIERC,MEA
-Nigeria,NGA,Aba,ABA,50,9,TIERC,MEA
-Nigeria,NGA,Jos,JOS,50,9,TIERC,MEA
-Nigeria,NGA,Ilorin,ILR,50,8,TIERC,MEA
-Nigeria,NGA,Ogbomosho,OGB,50,7,TIERC,MEA
-Nigeria,NGA,Onitsha,ONT,50,7,TIERC,MEA
-Nigeria,NGA,Warri,WAR,50,6,TIERC,MEA
-Nigeria,NGA,Sokoto,SKO,50,6,TIERC,MEA
-Nigeria,NGA,Asaba,ABH,50,5,TIERC,MEA
-Nigeria,NGA,Enugu,ENU,50,7,TIERC,MEA
-Nigeria,NGA,Abeokuta,ABK,50,5,TIERC,MEA
-Nigeria,NGA,Owerri,OWE,50,4,TIERC,MEA
-Nigeria,NGA,Kaduna,KAD,50,16,TIERC,MEA
-Philippines,PHL,Quezon City,QCY,30,30,TIERD,Asia
-Philippines,PHL,Manila,MNL,30,19,TIERD,Asia
-Philippines,PHL,Davao,DVO,30,18,TIERD,Asia
-Philippines,PHL,Caloocan,CLK,30,17,TIERD,Asia
-Philippines,PHL,Zamboanga,ZAM,30,10,TIERD,Asia
-Philippines,PHL,Cebu City,CEB,30,10,TIERD,Asia
-Philippines,PHL,Antipolo,ANT,30,9,TIERD,Asia
-Philippines,PHL,Pasig,PSG,30,8,TIERD,Asia
-Philippines,PHL,Taguig,TGG,30,8,TIERD,Asia
-Philippines,PHL,Valenzuela,VAL,30,7,TIERD,Asia
-Philippines,PHL,Dasmariñas,DSM,30,7,TIERD,Asia
-Philippines,PHL,Cagayan de Oro,CGY,30,7,TIERD,Asia
-Philippines,PHL,General Santos,GES,30,7,TIERD,Asia
-Philippines,PHL,Parañaque,PNK,30,7,TIERD,Asia
-Philippines,PHL,Las Piñas,LPI,30,6,TIERD,Asia
-Philippines,PHL,Makati,MKT,30,6,TIERD,Asia
-Philippines,PHL,Bacoor,BKR,30,7,TIERD,Asia
-Philippines,PHL,Marikina,MRN,30,5,TIERD,Asia
-Philippines,PHL,Muntinlupa,MNT,30,5,TIERD,Asia
-Philippines,PHL,Imus,IMS,30,5,TIERD,Asia
-Malaysia,MYS,Kuala Lumpur,KUL,30,31,TIERD,Asia
-Malaysia,MYS,Klang,KLG,30,14,TIERD,Asia
-Malaysia,MYS,Subang Jaya,SJY,30,12,TIERD,Asia
-Malaysia,MYS,Ipoh,IPH,30,12,TIERD,Asia
-Malaysia,MYS,Johor Bahru,JHB,30,12,TIERD,Asia
-Malaysia,MYS,Petaling Jaya,PTJ,30,10,TIERD,Asia
-Malaysia,MYS,Shah Alam,SHA,30,10,TIERD,Asia
-Malaysia,MYS,Penang,PEN,30,12,TIERD,Asia
-Malaysia,MYS,Ampang Jaya,AMP,30,10,TIERD,Asia
-Malaysia,MYS,Kuching,KCH,30,11,TIERD,Asia
-Malaysia,MYS,Kota Kinabalu,BKI,30,7,TIERD,Asia
-Malaysia,MYS,Kajang,KJG,30,9,TIERD,Asia
-Malaysia,MYS,Seremban,SBN,30,9,TIERD,Asia
-Malaysia,MYS,Kota Bharu,KBR,30,8,TIERD,Asia
-Malaysia,MYS,Alor Setar,AOR,30,6,TIERD,Asia
-Malaysia,MYS,Malacca,MKZ,30,8,TIERD,Asia
-Malaysia,MYS,Miri,MYY,30,5,TIERD,Asia
-Malaysia,MYS,Kuantan,KUA,30,7,TIERD,Asia
-Malaysia,MYS,Kuala Terengganu,TGG,30,6,TIERD,Asia
-Malaysia,MYS,Putrajaya,PUT,30,2,TIERD,Asia
-Denmark,DNK,Copenhagen,CPH,30,56,TIERD,Europe
-Denmark,DNK,Aarhus,AAR,30,25,TIERD,Europe
-Denmark,DNK,Odense,ODE,30,13,TIERD,Europe
-Denmark,DNK,Aalborg,AAL,30,15,TIERD,Europe
-Denmark,DNK,Frederiksberg,FDB,30,7,TIERD,Europe
-Denmark,DNK,Copenhagen S,CNS,30,8,TIERD,Europe
-Denmark,DNK,Esbjerg,EBJ,30,8,TIERD,Europe
-Denmark,DNK,Horsens,HOR,30,6,TIERD,Europe
-Denmark,DNK,Vejle,VEJ,30,8,TIERD,Europe
-Denmark,DNK,Randers,RND,30,7,TIERD,Europe
-Denmark,DNK,Kolding,KLD,30,6,TIERD,Europe
-Denmark,DNK,Helsingør,HEL,30,4,TIERD,Europe
-Denmark,DNK,Herning,HRN,30,6,TIERD,Europe
-Denmark,DNK,Silkeborg,SIL,30,6,TIERD,Europe
-Denmark,DNK,Naestved,NST,30,4,TIERD,Europe
-Denmark,DNK,Fredericia,FRC,30,3,TIERD,Europe
-Denmark,DNK,Viborg,VIB,30,7,TIERD,Europe
-Denmark,DNK,Hillerød,HIL,30,4,TIERD,Europe
-Denmark,DNK,Holstebro,HBR,30,4,TIERD,Europe
-Denmark,DNK,Sønderborg,SNB,30,3,TIERD,Europe
-South Africa,ZAF,Johannesburg,JNB,30,40,TIERD,MEA
-South Africa,ZAF,Cape Town,CPT,30,32,TIERD,MEA
-South Africa,ZAF,Ekurhuleni,EKU,30,24,TIERD,MEA
-South Africa,ZAF,Durban,DUR,30,26,TIERD,MEA
-South Africa,ZAF,Pretoria,PRY,30,21,TIERD,MEA
-South Africa,ZAF,Port Elizabeth,PLZ,30,8,TIERD,MEA
-South Africa,ZAF,Pietermaritzburg,PZB,30,5,TIERD,MEA
-South Africa,ZAF,Benoni,BNO,30,4,TIERD,MEA
-South Africa,ZAF,Tembisa,TEM,30,3,TIERD,MEA
-South Africa,ZAF,East London,ELS,30,3,TIERD,MEA
-South Africa,ZAF,Vereeniging,VER,30,3,TIERD,MEA
-South Africa,ZAF,Bloemfontein,BFN,30,3,TIERD,MEA
-South Africa,ZAF,Boksburg,BKS,30,3,TIERD,MEA
-South Africa,ZAF,Welkom,WEL,30,2,TIERD,MEA
-South Africa,ZAF,Newcastle,NCL,30,2,TIERD,MEA
-South Africa,ZAF,Krugersdorp,KRU,30,2,TIERD,MEA
-South Africa,ZAF,Richards Bay,RCB,30,3,TIERD,MEA
-South Africa,ZAF,Witbank,WTB,30,2,TIERD,MEA
-South Africa,ZAF,Soweto,SWT,30,12,TIERD,MEA
-South Africa,ZAF,Vanderbijlpark,VBP,30,2,TIERD,MEA
-Bangladesh,BGD,Dhaka,DAC,30,116,TIERD,Asia
-Bangladesh,BGD,Chittagong,CGP,30,29,TIERD,Asia
-Bangladesh,BGD,Khulna,KHL,30,8,TIERD,Asia
-Bangladesh,BGD,Rajshahi,RJH,30,5,TIERD,Asia
-Bangladesh,BGD,Sylhet,ZYL,30,3,TIERD,Asia
-Bangladesh,BGD,Comilla,COM,30,3,TIERD,Asia
-Bangladesh,BGD,Rangpur,RNP,30,2,TIERD,Asia
-Bangladesh,BGD,Mymensingh,MYM,30,2,TIERD,Asia
-Bangladesh,BGD,Narayanganj,NAJ,30,8,TIERD,Asia
-Bangladesh,BGD,Gazipur,GAZ,30,9,TIERD,Asia
-Bangladesh,BGD,Tongi,TON,30,2,TIERD,Asia
-Bangladesh,BGD,Savar,SAV,30,4,TIERD,Asia
-Bangladesh,BGD,Barisal,BZL,30,2,TIERD,Asia
-Bangladesh,BGD,Jessore,JSR,30,1,TIERD,Asia
-Bangladesh,BGD,Bogra,BGW,30,1,TIERD,Asia
-Bangladesh,BGD,Dinajpur,DIN,30,1,TIERD,Asia
-Bangladesh,BGD,Nawabganj,NAW,30,1,TIERD,Asia
-Bangladesh,BGD,Tangail,TNG,30,1,TIERD,Asia
-Bangladesh,BGD,Faridpur,FAR,30,1,TIERD,Asia
-Bangladesh,BGD,Chandpur,CHP,30,1,TIERD,Asia
-Egypt,EGY,Cairo,CAI,30,115,TIERD,MEA
-Egypt,EGY,Alexandria,ALY,30,27,TIERD,MEA
-Egypt,EGY,Giza,GIZ,30,19,TIERD,MEA
-Egypt,EGY,Shubra El Kheima,SUB,30,6,TIERD,MEA
-Egypt,EGY,Port Said,PSD,30,4,TIERD,MEA
-Egypt,EGY,Suez,SUZ,30,4,TIERD,MEA
-Egypt,EGY,Luxor,LXR,30,2,TIERD,MEA
-Egypt,EGY,Al-Mansura,MAN,30,3,TIERD,MEA
-Egypt,EGY,El-Mahalla El-Kubra,MAH,30,3,TIERD,MEA
-Egypt,EGY,Tanta,TAN,30,2,TIERD,MEA
-Egypt,EGY,Asyut,ATZ,30,2,TIERD,MEA
-Egypt,EGY,Ismailia,ISM,30,2,TIERD,MEA
-Egypt,EGY,Fayyum,FAY,30,2,TIERD,MEA
-Egypt,EGY,Zagazig,ZAG,30,2,TIERD,MEA
-Egypt,EGY,Damanhur,DAM,30,1,TIERD,MEA
-Egypt,EGY,Minya,MIN,30,1,TIERD,MEA
-Egypt,EGY,Dammietta,DAT,30,1,TIERD,MEA
-Egypt,EGY,Aswan,ASW,30,1,TIERD,MEA
-Egypt,EGY,Sohag,SOH,30,1,TIERD,MEA
-Egypt,EGY,Beni Suef,BSF,30,1,TIERD,MEA
-Vietnam,VNM,Ho Chi Minh City,SGN,30,66,TIERD,Asia
-Vietnam,VNM,Hanoi,HAN,30,60,TIERD,Asia
-Vietnam,VNM,Can Tho,VCA,30,9,TIERD,Asia
-Vietnam,VNM,Haiphong,HPH,30,15,TIERD,Asia
-Vietnam,VNM,Bien Hoa,VBH,30,11,TIERD,Asia
-Vietnam,VNM,Da Nang,DAD,30,8,TIERD,Asia
-Vietnam,VNM,Buon Ma Thuot,BMV,30,3,TIERD,Asia
-Vietnam,VNM,Nha Trang,CXR,30,3,TIERD,Asia
-Vietnam,VNM,Hue,HUI,30,3,TIERD,Asia
-Vietnam,VNM,Vung Tau,VTG,30,2,TIERD,Asia
-Vietnam,VNM,Quy Nhon,UIH,30,2,TIERD,Asia
-Vietnam,VNM,Thai Nguyen,TBD,30,3,TIERD,Asia
-Vietnam,VNM,Long Xuyen,LXY,30,2,TIERD,Asia
-Vietnam,VNM,Nam Dinh,NDI,30,2,TIERD,Asia
-Vietnam,VNM,Vinh,VII,30,3,TIERD,Asia
-Vietnam,VNM,My Tho,VMT,30,2,TIERD,Asia
-Vietnam,VNM,Rach Gia,VKG,30,2,TIERD,Asia
-Vietnam,VNM,Ca Mau,CAH,30,1,TIERD,Asia
-Vietnam,VNM,Da Lat,DLI,30,2,TIERD,Asia
-Vietnam,VNM,Bac Ninh,VBN,30,2,TIERD,Asia
-Hong Kong,HKG,Hong Kong,HKG,30,100,TIERD,Asia
-Hong Kong,HKG,Kowloon,KLN,30,31,TIERD,Asia
-Hong Kong,HKG,Tsuen Wan,TWN,30,4,TIERD,Asia
-Hong Kong,HKG,Sha Tin,STN,30,9,TIERD,Asia
-Hong Kong,HKG,Tuen Mun,TUM,30,7,TIERD,Asia
-Hong Kong,HKG,Yuen Long,YLG,30,8,TIERD,Asia
-Hong Kong,HKG,Tai Po,TAP,30,4,TIERD,Asia
-Hong Kong,HKG,Sai Kung,SKG,30,3,TIERD,Asia
-Hong Kong,HKG,Kwai Chung,KWC,30,7,TIERD,Asia
-Hong Kong,HKG,Fanling,FNL,30,4,TIERD,Asia
-Hong Kong,HKG,Tseung Kwan O,TKO,30,6,TIERD,Asia
-Hong Kong,HKG,Tin Shui Wai,TSW,30,4,TIERD,Asia
-Hong Kong,HKG,Hung Hom,HHM,30,2,TIERD,Asia
-Hong Kong,HKG,Central,CTL,30,1,TIERD,Asia
-Hong Kong,HKG,Wan Chai,WNC,30,2,TIERD,Asia
-Hong Kong,HKG,Mong Kok,MKK,30,2,TIERD,Asia
-Hong Kong,HKG,Causeway Bay,CWB,30,1,TIERD,Asia
-Hong Kong,HKG,Shau Kei Wan,SKW,30,1,TIERD,Asia
-Hong Kong,HKG,Aberdeen,ABD,30,2,TIERD,Asia
-Hong Kong,HKG,Ma On Shan,MOS,30,3,TIERD,Asia
-Pakistan,PAK,Karachi,KHI,30,64,TIERD,Asia
-Pakistan,PAK,Lahore,LHE,30,52,TIERD,Asia
-Pakistan,PAK,Faisalabad,LYP,30,14,TIERD,Asia
-Pakistan,PAK,Rawalpindi,RWP,30,9,TIERD,Asia
-Pakistan,PAK,Gujranwala,GUJ,30,10,TIERD,Asia
-Pakistan,PAK,Peshawar,PEW,30,8,TIERD,Asia
-Pakistan,PAK,Multan,MUX,30,8,TIERD,Asia
-Pakistan,PAK,Islamabad,ISB,30,4,TIERD,Asia
-Pakistan,PAK,Hyderabad,HDD,30,7,TIERD,Asia
-Pakistan,PAK,Quetta,UET,30,4,TIERD,Asia
-Pakistan,PAK,Bahawalpur,BHV,30,3,TIERD,Asia
-Pakistan,PAK,Sargodha,SGI,30,3,TIERD,Asia
-Pakistan,PAK,Sialkot,SKT,30,3,TIERD,Asia
-Pakistan,PAK,Sukkur,SKZ,30,2,TIERD,Asia
-Pakistan,PAK,Larkana,LRK,30,2,TIERD,Asia
-Pakistan,PAK,Sheikhupura,SKP,30,2,TIERD,Asia
-Pakistan,PAK,Rahim Yar Khan,RYK,30,2,TIERD,Asia
-Pakistan,PAK,Jhang,JHG,30,2,TIERD,Asia
-Pakistan,PAK,Dera Ghazi Khan,DEA,30,2,TIERD,Asia
-Pakistan,PAK,Gujrat,GRT,30,1,TIERD,Asia
-Chile,CHL,Santiago,SCL,30,105,TIERD,Americas
-Chile,CHL,Valparaiso,VAP,30,15,TIERD,Americas
-Chile,CHL,Concepcion,CCP,30,17,TIERD,Americas
-Chile,CHL,La Serena,LSC,30,7,TIERD,Americas
-Chile,CHL,Antofagasta,ANF,30,7,TIERD,Americas
-Chile,CHL,Temuco,TEM,30,6,TIERD,Americas
-Chile,CHL,Rancagua,RCG,30,4,TIERD,Americas
-Chile,CHL,Talca,TLC,30,4,TIERD,Americas
-Chile,CHL,Arica,ARI,30,3,TIERD,Americas
-Chile,CHL,Iquique,IQQ,30,4,TIERD,Americas
-Chile,CHL,Puerto Montt,PMC,30,4,TIERD,Americas
-Chile,CHL,Coquimbo,COQ,30,4,TIERD,Americas
-Chile,CHL,Valdivia,ZAL,30,3,TIERD,Americas
-Chile,CHL,Punta Arenas,PUQ,30,2,TIERD,Americas
-Chile,CHL,San Pedro de la Paz,SNP,30,2,TIERD,Americas
-Chile,CHL,Calama,CJC,30,3,TIERD,Americas
-Chile,CHL,Osorno,ZOS,30,3,TIERD,Americas
-Chile,CHL,Quilpue,QLP,30,3,TIERD,Americas
-Chile,CHL,Villa Alemana,VIL,30,2,TIERD,Americas
-Chile,CHL,Copiapó,CPO,30,3,TIERD,Americas
-Finland,FIN,Helsinki,HEL,30,45,TIERD,Europe
-Finland,FIN,Espoo,ESP,30,20,TIERD,Europe
-Finland,FIN,Tampere,TMP,30,17,TIERD,Europe
-Finland,FIN,Vantaa,VAN,30,16,TIERD,Europe
-Finland,FIN,Oulu,OUL,30,14,TIERD,Europe
-Finland,FIN,Turku,TKU,30,13,TIERD,Europe
-Finland,FIN,Jyvaskyla,JYV,30,10,TIERD,Europe
-Finland,FIN,Lahti,LHT,30,8,TIERD,Europe
-Finland,FIN,Kuopio,KUO,30,8,TIERD,Europe
-Finland,FIN,Pori,POR,30,6,TIERD,Europe
-Finland,FIN,Kouvola,KOV,30,6,TIERD,Europe
-Finland,FIN,Joensuu,JOE,30,5,TIERD,Europe
-Finland,FIN,Lappeenranta,LAP,30,5,TIERD,Europe
-Finland,FIN,Vaasa,VAA,30,5,TIERD,Europe
-Finland,FIN,Hameenlinna,HLN,30,5,TIERD,Europe
-Finland,FIN,Rovaniemi,RVN,30,4,TIERD,Europe
-Finland,FIN,Seinajoki,SJY,30,4,TIERD,Europe
-Finland,FIN,Kotka,KOT,30,4,TIERD,Europe
-Finland,FIN,Mikkeli,MIK,30,4,TIERD,Europe
-Finland,FIN,Salo,SAL,30,4,TIERD,Europe
-Romania,ROU,Bucharest,OTP,30,65,TIERD,Europe
-Romania,ROU,Cluj-Napoca,CNA,30,12,TIERD,Europe
-Romania,ROU,Timisoara,TSR,30,11,TIERD,Europe
-Romania,ROU,Iasi,IAS,30,10,TIERD,Europe
-Romania,ROU,Craiova,CRA,30,10,TIERD,Europe
-Romania,ROU,Constanta,CND,30,10,TIERD,Europe
-Romania,ROU,Galati,GLA,30,9,TIERD,Europe
-Romania,ROU,Brasov,BRV,30,9,TIERD,Europe
-Romania,ROU,Ploiesti,PLO,30,8,TIERD,Europe
-Romania,ROU,Braila,BRL,30,6,TIERD,Europe
-Romania,ROU,Oradea,OMR,30,7,TIERD,Europe
-Romania,ROU,Bacau,BCM,30,5,TIERD,Europe
-Romania,ROU,Arad,ARW,30,6,TIERD,Europe
-Romania,ROU,Pitesti,PIT,30,6,TIERD,Europe
-Romania,ROU,Sibiu,SBZ,30,5,TIERD,Europe
-Romania,ROU,Targu Mures,TGM,30,5,TIERD,Europe
-Romania,ROU,Baia Mare,BAY,30,4,TIERD,Europe
-Romania,ROU,Buzau,BCZ,30,4,TIERD,Europe
-Romania,ROU,Botoșani,BOT,30,4,TIERD,Europe
-Romania,ROU,Ramnicu Valcea,RMV,30,4,TIERD,Europe
-Czech Republic,CZE,Prague,PRG,30,80,TIERD,Europe
-Czech Republic,CZE,Brno,BRQ,30,23,TIERD,Europe
-Czech Republic,CZE,Ostrava,OSR,30,17,TIERD,Europe
-Czech Republic,CZE,Plzen,PLZ,30,10,TIERD,Europe
-Czech Republic,CZE,Liberec,LBC,30,6,TIERD,Europe
-Czech Republic,CZE,Olomouc,OLC,30,6,TIERD,Europe
-Czech Republic,CZE,Ústí nad Labem,UAD,30,5,TIERD,Europe
-Czech Republic,CZE,České Budějovice,BUD,30,6,TIERD,Europe
-Czech Republic,CZE,Hradec Králové,HKE,30,6,TIERD,Europe
-Czech Republic,CZE,Pardubice,PED,30,5,TIERD,Europe
-Czech Republic,CZE,Zlín,ZLN,30,4,TIERD,Europe
-Czech Republic,CZE,Havirov,HAV,30,4,TIERD,Europe
-Czech Republic,CZE,Kladno,KLD,30,4,TIERD,Europe
-Czech Republic,CZE,Most,MOS,30,4,TIERD,Europe
-Czech Republic,CZE,Opava,OPV,30,3,TIERD,Europe
-Czech Republic,CZE,Frydek-Mistek,FMI,30,3,TIERD,Europe
-Czech Republic,CZE,Karvina,KVA,30,3,TIERD,Europe
-Czech Republic,CZE,Jihlava,JIH,30,3,TIERD,Europe
-Czech Republic,CZE,Teplice,TEP,30,3,TIERD,Europe
-Czech Republic,CZE,Decin,DEC,30,3,TIERD,Europe
-New Zealand,NZL,Auckland,AKL,30,92,TIERD,Asia
-New Zealand,NZL,Wellington,WLG,30,24,TIERD,Asia
-New Zealand,NZL,Christchurch,CHC,30,21,TIERD,Asia
-New Zealand,NZL,Hamilton,HLZ,30,9,TIERD,Asia
-New Zealand,NZL,Tauranga,TRG,30,8,TIERD,Asia
-New Zealand,NZL,Napier-Hastings,NPE,30,7,TIERD,Asia
-New Zealand,NZL,Dunedin,DUD,30,7,TIERD,Asia
-New Zealand,NZL,Palmerston North,PMR,30,5,TIERD,Asia
-New Zealand,NZL,Nelson,NSN,30,4,TIERD,Asia
-New Zealand,NZL,Rotorua,ROT,30,3,TIERD,Asia
-New Zealand,NZL,New Plymouth,NPL,30,3,TIERD,Asia
-New Zealand,NZL,Whangarei,WRE,30,3,TIERD,Asia
-New Zealand,NZL,Invercargill,IVC,30,3,TIERD,Asia
-New Zealand,NZL,Whanganui,WAG,30,2,TIERD,Asia
-New Zealand,NZL,Gisborne,GIS,30,2,TIERD,Asia
-New Zealand,NZL,Blenheim,BHE,30,2,TIERD,Asia
-New Zealand,NZL,Timaru,TIU,30,1,TIERD,Asia
-New Zealand,NZL,Taupo,TUO,30,1,TIERD,Asia
-New Zealand,NZL,Masterton,MRO,30,1,TIERD,Asia
-New Zealand,NZL,Levin,LVI,30,1,TIERD,Asia
-Peru,PER,Lima,LIM,30,116,TIERD,Americas
-Peru,PER,Arequipa,AQP,30,11,TIERD,Americas
-Peru,PER,Trujillo,TRU,30,10,TIERD,Americas
-Peru,PER,Chiclayo,CIX,30,6,TIERD,Americas
-Peru,PER,Piura,PIU,30,5,TIERD,Americas
-Peru,PER,Iquitos,IQT,30,5,TIERD,Americas
-Peru,PER,Callao,CAL,30,12,TIERD,Americas
-Peru,PER,Cusco,CUZ,30,5,TIERD,Americas
-Peru,PER,Huancayo,JAU,30,4,TIERD,Americas
-Peru,PER,Tacna,TCQ,30,3,TIERD,Americas
-Peru,PER,Juliaca,JUL,30,3,TIERD,Americas
-Peru,PER,Ica,ICA,30,3,TIERD,Americas
-Peru,PER,Sullana,SUL,30,2,TIERD,Americas
-Peru,PER,Huanuco,HUU,30,2,TIERD,Americas
-Peru,PER,Ayacucho,AYC,30,2,TIERD,Americas
-Peru,PER,Pucallpa,PCL,30,3,TIERD,Americas
-Peru,PER,Chimbote,CHM,30,4,TIERD,Americas
-Peru,PER,Puno,PUN,30,2,TIERD,Americas
-Peru,PER,Tumbes,TBP,30,1,TIERD,Americas
-Peru,PER,Pisco,PIS,30,1,TIERD,Americas
-Portugal,PRT,Lisbon,LIS,30,38,TIERD,Europe
-Portugal,PRT,Porto,OPO,30,17,TIERD,Europe
-Portugal,PRT,Vila Nova de Gaia,VNG,30,23,TIERD,Europe
-Portugal,PRT,Amadora,AMD,30,13,TIERD,Europe
-Portugal,PRT,Braga,BGC,30,14,TIERD,Europe
-Portugal,PRT,Setúbal,STB,30,9,TIERD,Europe
-Portugal,PRT,Almada,ALM,30,13,TIERD,Europe
-Portugal,PRT,Agualva-Cacem,AGC,30,5,TIERD,Europe
-Portugal,PRT,Queluz,QUE,30,6,TIERD,Europe
-Portugal,PRT,Funchal,FNC,30,8,TIERD,Europe
-Portugal,PRT,Coimbra,CBP,30,8,TIERD,Europe
-Portugal,PRT,Sintra,SIN,30,10,TIERD,Europe
-Portugal,PRT,Loures,LRS,30,6,TIERD,Europe
-Portugal,PRT,Barreiro,BAR,30,6,TIERD,Europe
-Portugal,PRT,Leiria,LRA,30,4,TIERD,Europe
-Portugal,PRT,Aveiro,AVI,30,4,TIERD,Europe
-Portugal,PRT,Viseu,VSE,30,4,TIERD,Europe
-Portugal,PRT,Évora,EVR,30,4,TIERD,Europe
-Portugal,PRT,Faro,FAO,30,5,TIERD,Europe
-Portugal,PRT,Portimao,PRM,30,4,TIERD,Europe
-Kazakhstan,KAZ,Almaty,ALA,10,23,TIERE,Asia
-Kazakhstan,KAZ,Astana,TSE,10,14,TIERE,Asia
-Kazakhstan,KAZ,Shymkent,CIT,10,14,TIERE,Asia
-Kazakhstan,KAZ,Karaganda,KGF,10,6,TIERE,Asia
-Kazakhstan,KAZ,Aktobe,AKX,10,6,TIERE,Asia
-Kazakhstan,KAZ,Taraz,DMB,10,4,TIERE,Asia
-Kazakhstan,KAZ,Pavlodar,PWQ,10,4,TIERE,Asia
-Kazakhstan,KAZ,Ust-Kamenogorsk,UKK,10,4,TIERE,Asia
-Kazakhstan,KAZ,Semey,PLX,10,3,TIERE,Asia
-Kazakhstan,KAZ,Atyrau,GUW,10,3,TIERE,Asia
-Kazakhstan,KAZ,Kokshetau,KOV,10,2,TIERE,Asia
-Kazakhstan,KAZ,Temirtau,TEI,10,3,TIERE,Asia
-Kazakhstan,KAZ,Turkestan,TTD,10,2,TIERE,Asia
-Kazakhstan,KAZ,Ekibastuz,EKB,10,1,TIERE,Asia
-Kazakhstan,KAZ,Kyzylorda,KZO,10,2,TIERE,Asia
-Kazakhstan,KAZ,Oral,URA,10,2,TIERE,Asia
-Kazakhstan,KAZ,Aktau,SCO,10,2,TIERE,Asia
-Kazakhstan,KAZ,Petropavl,PPK,10,2,TIERE,Asia
-Kazakhstan,KAZ,Kostanay,KSN,10,3,TIERE,Asia
-Kazakhstan,KAZ,Rudny,RUD,10,1,TIERE,Asia
-Greece,GRC,Athens,ATH,10,51,TIERE,Europe
-Greece,GRC,Thessaloniki,SKG,10,13,TIERE,Europe
-Greece,GRC,Patras,GPA,10,4,TIERE,Europe
-Greece,GRC,Heraklion,HER,10,3,TIERE,Europe
-Greece,GRC,Larissa,LRS,10,3,TIERE,Europe
-Greece,GRC,Volos,VOL,10,2,TIERE,Europe
-Greece,GRC,Ioannina,IOA,10,2,TIERE,Europe
-Greece,GRC,Chania,CHQ,10,2,TIERE,Europe
-Greece,GRC,Chalcis,CHL,10,2,TIERE,Europe
-Greece,GRC,Acharnes,ACH,10,2,TIERE,Europe
-Greece,GRC,Kalamaria,KAL,10,1,TIERE,Europe
-Greece,GRC,Nikaia,NKA,10,1,TIERE,Europe
-Greece,GRC,Glyfada,GLY,10,1,TIERE,Europe
-Greece,GRC,Peristeri,PER,10,2,TIERE,Europe
-Greece,GRC,Ilion,ILI,10,1,TIERE,Europe
-Greece,GRC,Kallithea,KLT,10,2,TIERE,Europe
-Greece,GRC,Piraeus,PIR,10,3,TIERE,Europe
-Greece,GRC,Rhodes,RHO,10,2,TIERE,Europe
-Greece,GRC,Agios Dimitrios,AGD,10,1,TIERE,Europe
-Greece,GRC,Zografou,ZGR,10,1,TIERE,Europe
-Colombia,COL,Bogota,BOG,10,33,TIERE,Americas
-Colombia,COL,Medellín,MDE,10,12,TIERE,Americas
-Colombia,COL,Cali,CLO,10,11,TIERE,Americas
-Colombia,COL,Barranquilla,BAQ,10,6,TIERE,Americas
-Colombia,COL,Cartagena,CTG,10,5,TIERE,Americas
-Colombia,COL,Cucuta,CUC,10,3,TIERE,Americas
-Colombia,COL,Bucaramanga,BGA,10,3,TIERE,Americas
-Colombia,COL,Soledad,SOL,10,3,TIERE,Americas
-Colombia,COL,Pereira,PEI,10,2,TIERE,Americas
-Colombia,COL,Santa Marta,SMR,10,2,TIERE,Americas
-Colombia,COL,Ibague,IBE,10,3,TIERE,Americas
-Colombia,COL,Villavicencio,VVC,10,2,TIERE,Americas
-Colombia,COL,Soacha,SOA,10,2,TIERE,Americas
-Colombia,COL,Manizales,MZL,10,2,TIERE,Americas
-Colombia,COL,Pasto,PSO,10,2,TIERE,Americas
-Colombia,COL,Monteria,MTR,10,2,TIERE,Americas
-Colombia,COL,Neiva,NVA,10,2,TIERE,Americas
-Colombia,COL,Valledupar,VUP,10,2,TIERE,Americas
-Colombia,COL,Palmira,PLM,10,1,TIERE,Americas
-Colombia,COL,Armenia,AXM,10,1,TIERE,Americas
-Algeria,DZA,Algiers,ALG,10,35,TIERE,MEA
-Algeria,DZA,Oran,ORN,10,15,TIERE,MEA
-Algeria,DZA,Constantine,CZL,10,10,TIERE,MEA
-Algeria,DZA,Annaba,AAE,10,4,TIERE,MEA
-Algeria,DZA,Blida,BLI,10,3,TIERE,MEA
-Algeria,DZA,Batna,BLJ,10,3,TIERE,MEA
-Algeria,DZA,Setif,QSF,10,3,TIERE,MEA
-Algeria,DZA,Djelfa,DJF,10,3,TIERE,MEA
-Algeria,DZA,Biskra,BSK,10,3,TIERE,MEA
-Algeria,DZA,Bejaia,BJA,10,3,TIERE,MEA
-Algeria,DZA,Tlemcen,TLM,10,2,TIERE,MEA
-Algeria,DZA,Béchar,CBH,10,2,TIERE,MEA
-Algeria,DZA,Tiaret,TID,10,2,TIERE,MEA
-Algeria,DZA,Tébessa,TEE,10,2,TIERE,MEA
-Algeria,DZA,El Oued,ELU,10,2,TIERE,MEA
-Algeria,DZA,Sidi Bel Abbes,BFW,10,2,TIERE,MEA
-Algeria,DZA,Médéa,MDA,10,1,TIERE,MEA
-Algeria,DZA,Jijel,GJL,10,1,TIERE,MEA
-Algeria,DZA,Mostaganem,MQV,10,2,TIERE,MEA
-Algeria,DZA,Skikda,SKI,10,2,TIERE,MEA
-Iraq,IRQ,Baghdad,BGW,10,34,TIERE,MEA
-Iraq,IRQ,Basra,BSR,10,13,TIERE,MEA
-Iraq,IRQ,Mosul,OSM,10,10,TIERE,MEA
-Iraq,IRQ,Erbil,EBL,10,7,TIERE,MEA
-Iraq,IRQ,Kirkuk,KIK,10,4,TIERE,MEA
-Iraq,IRQ,Sulaymaniyah,ISU,10,3,TIERE,MEA
-Iraq,IRQ,Najaf,NJF,10,3,TIERE,MEA
-Iraq,IRQ,Karbala,KAB,10,3,TIERE,MEA
-Iraq,IRQ,Nasiriyah,NSD,10,3,TIERE,MEA
-Iraq,IRQ,Fallujah,FLJ,10,2,TIERE,MEA
-Iraq,IRQ,Ramadi,RMD,10,2,TIERE,MEA
-Iraq,IRQ,Hillah,HLA,10,2,TIERE,MEA
-Iraq,IRQ,Amarah,AMM,10,2,TIERE,MEA
-Iraq,IRQ,Samawah,SWA,10,1,TIERE,MEA
-Iraq,IRQ,Diyala,DLI,10,1,TIERE,MEA
-Iraq,IRQ,Tikrit,TKR,10,1,TIERE,MEA
-Iraq,IRQ,Baqubah,BAQ,10,2,TIERE,MEA
-Iraq,IRQ,Dohuk,DOH,10,2,TIERE,MEA
-Iraq,IRQ,Kut,KUT,10,2,TIERE,MEA
-Iraq,IRQ,Diwaniyah,DIW,10,2,TIERE,MEA
-Hungary,HUN,Budapest,BUD,10,48,TIERE,Europe
-Hungary,HUN,Debrecen,DEB,10,6,TIERE,Europe
-Hungary,HUN,Miskolc,MCQ,10,4,TIERE,Europe
-Hungary,HUN,Szeged,QZD,10,4,TIERE,Europe
-Hungary,HUN,Pécs,PEV,10,4,TIERE,Europe
-Hungary,HUN,Győr,QGY,10,4,TIERE,Europe
-Hungary,HUN,Nyiregyhaza,NYR,10,3,TIERE,Europe
-Hungary,HUN,Kecskemet,KEC,10,3,TIERE,Europe
-Hungary,HUN,Szekesfehervar,SKZ,10,3,TIERE,Europe
-Hungary,HUN,Szombathely,SOM,10,2,TIERE,Europe
-Hungary,HUN,Szolnok,SZO,10,2,TIERE,Europe
-Hungary,HUN,Eger,EGR,10,2,TIERE,Europe
-Hungary,HUN,Érd,ERD,10,2,TIERE,Europe
-Hungary,HUN,Dunaujvaros,DUV,10,1,TIERE,Europe
-Hungary,HUN,Sopron,SOP,10,2,TIERE,Europe
-Hungary,HUN,Zalaegerszeg,ZEG,10,2,TIERE,Europe
-Hungary,HUN,Kaposvar,CPR,10,2,TIERE,Europe
-Hungary,HUN,Veszprem,VES,10,2,TIERE,Europe
-Hungary,HUN,Gyor,GYO,10,4,TIERE,Europe
-Hungary,HUN,Bekescsaba,BKS,10,2,TIERE,Europe
-Qatar,QAT,Doha,DOH,10,58,TIERE,MEA
-Qatar,QAT,Al Rayyan,DIA,10,15,TIERE,MEA
-Qatar,QAT,Al Wakrah,AWK,10,5,TIERE,MEA
-Qatar,QAT,Al Khor,AKH,10,2,TIERE,MEA
-Qatar,QAT,Mesaieed,MES,10,1,TIERE,MEA
-Qatar,QAT,Madinat ash Shamal,MAS,10,0,TIERE,MEA
-Qatar,QAT,Umm Salal,UMS,10,1,TIERE,MEA
-Qatar,QAT,Al Daayen,DAA,10,2,TIERE,MEA
-Qatar,QAT,Al Shahaniya,SHA,10,1,TIERE,MEA
-Qatar,QAT,Lusail,LUS,10,5,TIERE,MEA
-Qatar,QAT,The Pearl,TPQ,10,1,TIERE,MEA
-Qatar,QAT,Education City,EDC,10,0,TIERE,MEA
-Qatar,QAT,West Bay,WBQ,10,1,TIERE,MEA
-Qatar,QAT,Ain Khaled,AKQ,10,1,TIERE,MEA
-Qatar,QAT,Muaither,MUA,10,2,TIERE,MEA
-Qatar,QAT,Fereej Abdul Aziz,FAA,10,1,TIERE,MEA
-Qatar,QAT,Madinat Khalifa,MKQ,10,1,TIERE,MEA
-Qatar,QAT,Al Aziziyah,AAZ,10,1,TIERE,MEA
-Qatar,QAT,Al Markhiya,AMQ,10,1,TIERE,MEA
-Qatar,QAT,Fereej Bin Mahmoud,FBM,10,1,TIERE,MEA
-Ukraine,UKR,Kyiv,IEV,10,22,TIERE,Europe
-Ukraine,UKR,Kharkiv,HRK,10,11,TIERE,Europe
-Ukraine,UKR,Odessa,ODS,10,8,TIERE,Europe
-Ukraine,UKR,Dnipro,DNK,10,7,TIERE,Europe
-Ukraine,UKR,Donetsk,DOK,10,7,TIERE,Europe
-Ukraine,UKR,Zaporizhzhia,OZH,10,5,TIERE,Europe
-Ukraine,UKR,Lviv,LWO,10,5,TIERE,Europe
-Ukraine,UKR,Kryvyi Rih,KWG,10,5,TIERE,Europe
-Ukraine,UKR,Mykolaiv,NLV,10,4,TIERE,Europe
-Ukraine,UKR,Mariupol,MPW,10,3,TIERE,Europe
-Ukraine,UKR,Luhansk,VSG,10,3,TIERE,Europe
-Ukraine,UKR,Vinnytsia,VIN,10,3,TIERE,Europe
-Ukraine,UKR,Makiivka,MAK,10,3,TIERE,Europe
-Ukraine,UKR,Chernivtsi,CWC,10,2,TIERE,Europe
-Ukraine,UKR,Sevastopol,UKS,10,3,TIERE,Europe
-Ukraine,UKR,Symferopol,SIP,10,2,TIERE,Europe
-Ukraine,UKR,Kherson,KHE,10,2,TIERE,Europe
-Ukraine,UKR,Poltava,PLV,10,2,TIERE,Europe
-Ukraine,UKR,Chernihiv,CEJ,10,2,TIERE,Europe
-Ukraine,UKR,Bila Tserkva,BLT,10,2,TIERE,Europe
-Ethiopia,ETH,Addis Ababa,ADD,10,46,TIERE,MEA
-Ethiopia,ETH,Dire Dawa,DIR,10,5,TIERE,MEA
-Ethiopia,ETH,Mekele,MQX,10,5,TIERE,MEA
-Ethiopia,ETH,Nazret,NAZ,10,5,TIERE,MEA
-Ethiopia,ETH,Bahir Dar,BJR,10,4,TIERE,MEA
-Ethiopia,ETH,Gondar,GDQ,10,5,TIERE,MEA
-Ethiopia,ETH,Hawassa,AWA,10,5,TIERE,MEA
-Ethiopia,ETH,Dessie,DSE,10,4,TIERE,MEA
-Ethiopia,ETH,Jimma,JIM,10,3,TIERE,MEA
-Ethiopia,ETH,Jijiga,JIJ,10,2,TIERE,MEA
-Ethiopia,ETH,Shashamane,SHA,10,2,TIERE,MEA
-Ethiopia,ETH,Bishoftu,BIS,10,3,TIERE,MEA
-Ethiopia,ETH,Sodo,SOD,10,2,TIERE,MEA
-Ethiopia,ETH,Arba Minch,AMH,10,1,TIERE,MEA
-Ethiopia,ETH,Hosaena,HSS,10,1,TIERE,MEA
-Ethiopia,ETH,Harar,DIR,10,2,TIERE,MEA
-Ethiopia,ETH,Dilla,DIL,10,1,TIERE,MEA
-Ethiopia,ETH,Nekemte,NEK,10,1,TIERE,MEA
-Ethiopia,ETH,Debre Markos,DBM,10,1,TIERE,MEA
-Ethiopia,ETH,Kombolcha,KOM,10,1,TIERE,MEA
-Morocco,MAR,Casablanca,CMN,10,26,TIERE,MEA
-Morocco,MAR,Rabat,RBA,10,15,TIERE,MEA
-Morocco,MAR,Fes,FEZ,10,8,TIERE,MEA
-Morocco,MAR,Marrakech,RAK,10,7,TIERE,MEA
-Morocco,MAR,Agadir,AGA,10,4,TIERE,MEA
-Morocco,MAR,Tangier,TNG,10,7,TIERE,MEA
-Morocco,MAR,Meknes,MEK,10,4,TIERE,MEA
-Morocco,MAR,Kenitra,KEN,10,3,TIERE,MEA
-Morocco,MAR,Temara,TEM,10,3,TIERE,MEA
-Morocco,MAR,Oujda,OUD,10,3,TIERE,MEA
-Morocco,MAR,Tetouan,TTU,10,3,TIERE,MEA
-Morocco,MAR,Sale,SAL,10,6,TIERE,MEA
-Morocco,MAR,Safi,SFI,10,2,TIERE,MEA
-Morocco,MAR,Mohammedia,MOH,10,2,TIERE,MEA
-Morocco,MAR,El Jadida,EJD,10,1,TIERE,MEA
-Morocco,MAR,Beni Mellal,BEM,10,1,TIERE,MEA
-Morocco,MAR,Nador,NDR,10,1,TIERE,MEA
-Morocco,MAR,Taza,TAZ,10,1,TIERE,MEA
-Morocco,MAR,Al Hoceima,AHU,10,0,TIERE,MEA
-Morocco,MAR,Khouribga,KHO,10,1,TIERE,MEA
-Slovakia,SVK,Bratislava,BTS,10,29,TIERE,Europe
-Slovakia,SVK,Kosice,KSC,10,14,TIERE,Europe
-Slovakia,SVK,Prešov,POV,10,6,TIERE,Europe
-Slovakia,SVK,Zilina,ILZ,10,5,TIERE,Europe
-Slovakia,SVK,Banská Bystrica,BZI,10,5,TIERE,Europe
-Slovakia,SVK,Nitra,NIT,10,5,TIERE,Europe
-Slovakia,SVK,Trnava,TRN,10,4,TIERE,Europe
-Slovakia,SVK,Martin,MRT,10,3,TIERE,Europe
-Slovakia,SVK,Trenčín,TNC,10,3,TIERE,Europe
-Slovakia,SVK,Poprad,TAT,10,3,TIERE,Europe
-Slovakia,SVK,Prievidza,PRV,10,3,TIERE,Europe
-Slovakia,SVK,Zvolen,ZVO,10,3,TIERE,Europe
-Slovakia,SVK,Povazska Bystrica,PBY,10,2,TIERE,Europe
-Slovakia,SVK,Michalovce,MKD,10,2,TIERE,Europe
-Slovakia,SVK,Nove Zamky,NZM,10,2,TIERE,Europe
-Slovakia,SVK,Spišská Nová Ves,SNV,10,2,TIERE,Europe
-Slovakia,SVK,Komarno,KOM,10,2,TIERE,Europe
-Slovakia,SVK,Levice,LVK,10,2,TIERE,Europe
-Slovakia,SVK,Humenne,HUM,10,2,TIERE,Europe
-Slovakia,SVK,Bardejov,BJJ,10,2,TIERE,Europe
-Kuwait,KWT,Kuwait City,KWI,10,44,TIERE,MEA
-Kuwait,KWT,Hawalli,HAW,10,13,TIERE,MEA
-Kuwait,KWT,Al Farwaniyah,FAR,10,13,TIERE,MEA
-Kuwait,KWT,Al Ahmadi,AHM,10,9,TIERE,MEA
-Kuwait,KWT,Jahra,JAH,10,6,TIERE,MEA
-Kuwait,KWT,Mubarak Al-Kabeer,MBK,10,4,TIERE,MEA
-Kuwait,KWT,Salmiya,SAL,10,2,TIERE,MEA
-Kuwait,KWT,Fahaheel,FAH,10,1,TIERE,MEA
-Kuwait,KWT,Rumaithiyya,RUM,10,1,TIERE,MEA
-Kuwait,KWT,Sabah Al-Salem,SBS,10,1,TIERE,MEA
-Kuwait,KWT,Al-Mangaf,MAG,10,1,TIERE,MEA
-Kuwait,KWT,Ar Riqqah,ARR,10,1,TIERE,MEA
-Kuwait,KWT,Bayan,BAY,10,1,TIERE,MEA
-Kuwait,KWT,Salwa,SAW,10,1,TIERE,MEA
-Kuwait,KWT,Mishref,MIS,10,1,TIERE,MEA
-Kuwait,KWT,Fintas,FIN,10,1,TIERE,MEA
-Kuwait,KWT,Abu Halifa,AHF,10,0,TIERE,MEA
-Kuwait,KWT,Ruq'i,RUQ,10,0,TIERE,MEA
-Kuwait,KWT,Um Al Hayman,UAH,10,0,TIERE,MEA
-Kuwait,KWT,Sabahiya,SAB,10,1,TIERE,MEA
-Ecuador,ECU,Guayaquil,GYE,10,32,TIERE,Americas
-Ecuador,ECU,Quito,UIO,10,24,TIERE,Americas
-Ecuador,ECU,Cuenca,CUE,10,8,TIERE,Americas
-Ecuador,ECU,Santo Domingo,TNS,10,5,TIERE,Americas
-Ecuador,ECU,Manta,MEC,10,3,TIERE,Americas
-Ecuador,ECU,Portoviejo,PTJ,10,3,TIERE,Americas
-Ecuador,ECU,Machala,MCH,10,3,TIERE,Americas
-Ecuador,ECU,Eloy Alfaro,DAU,10,2,TIERE,Americas
-Ecuador,ECU,Loja,LOH,10,3,TIERE,Americas
-Ecuador,ECU,Esmeraldas,ESM,10,2,TIERE,Americas
-Ecuador,ECU,Ibarra,IBB,10,2,TIERE,Americas
-Ecuador,ECU,Ambato,ATF,10,2,TIERE,Americas
-Ecuador,ECU,Riobamba,RIO,10,2,TIERE,Americas
-Ecuador,ECU,Latacunga,LTX,10,1,TIERE,Americas
-Ecuador,ECU,Tulcán,TUA,10,1,TIERE,Americas
-Ecuador,ECU,Quevedo,UIO,10,2,TIERE,Americas
-Ecuador,ECU,Milagro,MIL,10,2,TIERE,Americas
-Ecuador,ECU,Babahoyo,BHA,10,1,TIERE,Americas
-Ecuador,ECU,Nueva Loja,LGQ,10,1,TIERE,Americas
-Ecuador,ECU,Azogues,AZO,10,0,TIERE,Americas
-Angola,AGO,Luanda,LAD,10,65,TIERE,MEA
-Angola,AGO,Huambo,NOV,10,6,TIERE,MEA
-Angola,AGO,Lobito,LOB,10,5,TIERE,MEA
-Angola,AGO,Benguela,BGA,10,3,TIERE,MEA
-Angola,AGO,Kuito,SVP,10,1,TIERE,MEA
-Angola,AGO,Lubango,SDD,10,5,TIERE,MEA
-Angola,AGO,Malanje,MEG,10,2,TIERE,MEA
-Angola,AGO,Namibe,MSZ,10,1,TIERE,MEA
-Angola,AGO,Soyo,SOY,10,1,TIERE,MEA
-Angola,AGO,Cabinda,CAB,10,5,TIERE,MEA
-Angola,AGO,Uige,UIG,10,1,TIERE,MEA
-Angola,AGO,Saurimo,VHC,10,1,TIERE,MEA
-Angola,AGO,Menongue,SPP,10,1,TIERE,MEA
-Angola,AGO,Ndalatando,NDA,10,1,TIERE,MEA
-Angola,AGO,Lucapa,LBZ,10,0,TIERE,MEA
-Angola,AGO,Cazombo,CAO,10,0,TIERE,MEA
-Angola,AGO,Sumbe,NDD,10,1,TIERE,MEA
-Angola,AGO,Dundo,DRC,10,1,TIERE,MEA
-Angola,AGO,Longonjo,LON,10,0,TIERE,MEA
-Angola,AGO,Xangongo,XGN,10,0,TIERE,MEA
-Kenya,KEN,Nairobi,NBI,10,44,TIERE,MEA
-Kenya,KEN,Mombasa,MBA,10,12,TIERE,MEA
-Kenya,KEN,Kisumu,KIS,10,6,TIERE,MEA
-Kenya,KEN,Nakuru,NUU,10,6,TIERE,MEA
-Kenya,KEN,Eldoret,EDL,10,5,TIERE,MEA
-Kenya,KEN,Ruiru,RIU,10,5,TIERE,MEA
-Kenya,KEN,Kikuyu,KIK,10,3,TIERE,MEA
-Kenya,KEN,Machakos,MKS,10,3,TIERE,MEA
-Kenya,KEN,Malindi,MYD,10,1,TIERE,MEA
-Kenya,KEN,Thika,TKA,10,3,TIERE,MEA
-Kenya,KEN,Meru,MRU,10,2,TIERE,MEA
-Kenya,KEN,Kisii,KIS,10,2,TIERE,MEA
-Kenya,KEN,Kitale,KTL,10,2,TIERE,MEA
-Kenya,KEN,Garissa,GAS,10,1,TIERE,MEA
-Kenya,KEN,Nyeri,NYE,10,1,TIERE,MEA
-Kenya,KEN,Kericho,KER,10,1,TIERE,MEA
-Kenya,KEN,Embu,EMU,10,1,TIERE,MEA
-Kenya,KEN,Naivasha,NAI,10,1,TIERE,MEA
-Kenya,KEN,Lamu,LAU,10,0,TIERE,MEA
-Kenya,KEN,Wajir,WJR,10,1,TIERE,MEA
-Oman,OMN,Muscat,MCT,10,50,TIERE,MEA
-Oman,OMN,Sohar,OHS,10,7,TIERE,MEA
-Oman,OMN,Salalah,SLL,10,7,TIERE,MEA
-Oman,OMN,Nizwa,NZW,10,3,TIERE,MEA
-Oman,OMN,Sur,SUV,10,2,TIERE,MEA
-Oman,OMN,Ibri,IBR,10,2,TIERE,MEA
-Oman,OMN,Al Buraymi,RMB,10,2,TIERE,MEA
-Oman,OMN,Khasab,KHS,10,1,TIERE,MEA
-Oman,OMN,Rustaq,RUS,10,1,TIERE,MEA
-Oman,OMN,Al Hamra,AHM,10,1,TIERE,MEA
-Oman,OMN,Bahla,BAH,10,0,TIERE,MEA
-Oman,OMN,Ibra,IBR,10,2,TIERE,MEA
-Oman,OMN,Al Suwaiq,SWQ,10,1,TIERE,MEA
-Oman,OMN,Shinas,SHI,10,1,TIERE,MEA
-Oman,OMN,Izki,IZK,10,1,TIERE,MEA
-Oman,OMN,Al Khaburah,AKB,10,2,TIERE,MEA
-Oman,OMN,Saham,SAH,10,2,TIERE,MEA
-Oman,OMN,Al Khuwair,KHW,10,3,TIERE,MEA
-Oman,OMN,Seeb,SEB,10,13,TIERE,MEA
-Oman,OMN,Bidbid,BID,10,1,TIERE,MEA
+Indonesia,IDN,Banjarmasin,BDJ,70,15,TIERB,Asia
+Indonesia,IDN,Pontianak,PNK,70,14,TIERB,Asia
+Netherlands,NLD,Amsterdam,AMS,45,71,TIERC,Europe
+Netherlands,NLD,Rotterdam,RTM,45,50,TIERC,Europe
+Netherlands,NLD,The Hague,HAG,45,42,TIERC,Europe
+Netherlands,NLD,Utrecht,UTC,45,28,TIERC,Europe
+Netherlands,NLD,Eindhoven,EIN,45,18,TIERC,Europe
+Netherlands,NLD,Tilburg,TLB,45,18,TIERC,Europe
+Netherlands,NLD,Groningen,GRQ,45,18,TIERC,Europe
+Netherlands,NLD,Almere,ALM,45,17,TIERC,Europe
+Netherlands,NLD,Breda,BRD,45,15,TIERC,Europe
+Netherlands,NLD,Nijmegen,NIJ,45,14,TIERC,Europe
+Netherlands,NLD,Enschede,ENS,45,13,TIERC,Europe
+Netherlands,NLD,Haarlem,HAA,45,13,TIERC,Europe
+Netherlands,NLD,Arnhem,ARN,45,13,TIERC,Europe
+Netherlands,NLD,Zaanstad,ZAN,45,12,TIERC,Europe
+Netherlands,NLD,Amersfoort,AMF,45,12,TIERC,Europe
+Netherlands,NLD,Apeldoorn,APD,45,13,TIERC,Europe
+Netherlands,NLD,Zwolle,ZWO,45,10,TIERC,Europe
+Netherlands,NLD,Leiden,LDN,45,10,TIERC,Europe
+Netherlands,NLD,Haarlemmermeer,HLM,45,13,TIERC,Europe
+Netherlands,NLD,Dordrecht,DOR,45,10,TIERC,Europe
+Saudi Arabia,SAU,Riyadh,RIY,45,133,TIERC,MEA
+Saudi Arabia,SAU,Jeddah,JED,45,82,TIERC,MEA
+Saudi Arabia,SAU,Mecca,MKH,45,36,TIERC,MEA
+Saudi Arabia,SAU,Medina,MED,45,26,TIERC,MEA
+Saudi Arabia,SAU,Dammam,DMM,45,19,TIERC,MEA
+Saudi Arabia,SAU,Taif,TIF,45,18,TIERC,MEA
+Saudi Arabia,SAU,Khobar,KHB,45,17,TIERC,MEA
+Saudi Arabia,SAU,Tabuk,TUU,45,13,TIERC,MEA
+Saudi Arabia,SAU,Abha,AHB,45,7,TIERC,MEA
+Saudi Arabia,SAU,Hail,HAS,45,6,TIERC,MEA
+Saudi Arabia,SAU,Najran,EAM,45,5,TIERC,MEA
+Saudi Arabia,SAU,Jubail,QJB,45,5,TIERC,MEA
+Saudi Arabia,SAU,Khamis Mushait,KMX,45,9,TIERC,MEA
+Saudi Arabia,SAU,Al-Qatif,QTF,45,4,TIERC,MEA
+Saudi Arabia,SAU,Yanbu,YNB,45,4,TIERC,MEA
+Saudi Arabia,SAU,Al-Ahsa,HOF,45,7,TIERC,MEA
+Saudi Arabia,SAU,Jizan,GIZ,45,4,TIERC,MEA
+Saudi Arabia,SAU,Qassim,ELQ,45,7,TIERC,MEA
+Saudi Arabia,SAU,Khurais,XRS,45,3,TIERC,MEA
+Saudi Arabia,SAU,Hafar Al-Batin,HBT,45,5,TIERC,MEA
+Turkey,TUR,Istanbul,IST,45,153,TIERC,Europe
+Turkey,TUR,Ankara,ANK,45,57,TIERC,Europe
+Turkey,TUR,Izmir,IZM,45,30,TIERC,Europe
+Turkey,TUR,Bursa,BTZ,45,21,TIERC,Europe
+Turkey,TUR,Adana,ADA,45,18,TIERC,Europe
+Turkey,TUR,Gaziantep,GZT,45,21,TIERC,Europe
+Turkey,TUR,Konya,KYA,45,13,TIERC,Europe
+Turkey,TUR,Antalya,AYT,45,13,TIERC,Europe
+Turkey,TUR,Diyarbakir,DIY,45,10,TIERC,Europe
+Turkey,TUR,Mersin,MRS,45,10,TIERC,Europe
+Turkey,TUR,Kayseri,ASR,45,10,TIERC,Europe
+Turkey,TUR,Esenyurt,ESY,45,9,TIERC,Europe
+Turkey,TUR,Pendik,PDK,45,7,TIERC,Europe
+Turkey,TUR,Atasehir,ATS,45,5,TIERC,Europe
+Turkey,TUR,Umraniye,UMR,45,7,TIERC,Europe
+Turkey,TUR,Sisli,SSL,45,3,TIERC,Europe
+Turkey,TUR,Kahramanmaras,KCM,45,6,TIERC,Europe
+Turkey,TUR,Trabzon,TZX,45,4,TIERC,Europe
+Turkey,TUR,Malatya,MLX,45,7,TIERC,Europe
+Turkey,TUR,Erzurum,ERZ,45,4,TIERC,Europe
+Switzerland,CHE,Zurich,ZRH,45,94,TIERC,Europe
+Switzerland,CHE,Geneva,GVA,45,44,TIERC,Europe
+Switzerland,CHE,Basel,BSL,45,39,TIERC,Europe
+Switzerland,CHE,Bern,BRN,45,29,TIERC,Europe
+Switzerland,CHE,Lausanne,LSN,45,31,TIERC,Europe
+Switzerland,CHE,Winterthur,WTR,45,25,TIERC,Europe
+Switzerland,CHE,Lucerne,LUZ,45,18,TIERC,Europe
+Switzerland,CHE,St. Gallen,STG,45,18,TIERC,Europe
+Switzerland,CHE,Lugano,LUG,45,14,TIERC,Europe
+Switzerland,CHE,Biel,BIL,45,12,TIERC,Europe
+Switzerland,CHE,Thun,THN,45,10,TIERC,Europe
+Switzerland,CHE,Koniz,KNZ,45,9,TIERC,Europe
+Switzerland,CHE,La Chaux-de-Fonds,CDF,45,9,TIERC,Europe
+Switzerland,CHE,Schaffhausen,SFH,45,8,TIERC,Europe
+Switzerland,CHE,Fribourg,FRB,45,9,TIERC,Europe
+Switzerland,CHE,Chur,CHR,45,8,TIERC,Europe
+Switzerland,CHE,Vernier,VNR,45,8,TIERC,Europe
+Switzerland,CHE,Uster,UST,45,8,TIERC,Europe
+Switzerland,CHE,Neuchatel,NCH,45,10,TIERC,Europe
+Switzerland,CHE,Sion,SIO,45,8,TIERC,Europe
+Argentina,ARG,Buenos Aires,BUE,45,83,TIERC,Americas
+Argentina,ARG,Cordoba,COR,45,40,TIERC,Americas
+Argentina,ARG,Rosario,ROS,45,33,TIERC,Americas
+Argentina,ARG,Mendoza,MDZ,45,27,TIERC,Americas
+Argentina,ARG,Tucuman,TUC,45,22,TIERC,Americas
+Argentina,ARG,La Plata,LAP,45,21,TIERC,Americas
+Argentina,ARG,Mar del Plata,MDQ,45,19,TIERC,Americas
+Argentina,ARG,Salta,SLA,45,17,TIERC,Americas
+Argentina,ARG,Santa Fe,SFE,45,15,TIERC,Americas
+Argentina,ARG,San Juan,UAQ,45,12,TIERC,Americas
+Argentina,ARG,Resistencia,RES,45,11,TIERC,Americas
+Argentina,ARG,Corrientes,CNQ,45,11,TIERC,Americas
+Argentina,ARG,Lanus,LNS,45,13,TIERC,Americas
+Argentina,ARG,Quilmes,QUI,45,16,TIERC,Americas
+Argentina,ARG,Almirante Brown,ALM,45,15,TIERC,Americas
+Argentina,ARG,Florencio Varela,FLV,45,12,TIERC,Americas
+Argentina,ARG,Moreno,MNO,45,13,TIERC,Americas
+Argentina,ARG,General Pueyrredon,MDP,45,10,TIERC,Americas
+Argentina,ARG,Neuquen,NQN,45,10,TIERC,Americas
+Argentina,ARG,Santiago del Estero,SDE,45,9,TIERC,Americas
+Poland,POL,Warsaw,WAW,45,86,TIERC,Europe
+Poland,POL,Krakow,KRK,45,38,TIERC,Europe
+Poland,POL,Lodz,LDZ,45,32,TIERC,Europe
+Poland,POL,Wroclaw,WRO,45,31,TIERC,Europe
+Poland,POL,Poznan,POZ,45,27,TIERC,Europe
+Poland,POL,Gdansk,GDN,45,23,TIERC,Europe
+Poland,POL,Szczecin,SZZ,45,20,TIERC,Europe
+Poland,POL,Bydgoszcz,BYD,45,17,TIERC,Europe
+Poland,POL,Lublin,LUZ,45,17,TIERC,Europe
+Poland,POL,Katowice,KTW,45,15,TIERC,Europe
+Poland,POL,Bialystok,BZG,45,15,TIERC,Europe
+Poland,POL,Gdynia,GDY,45,12,TIERC,Europe
+Poland,POL,Czestochowa,CZW,45,11,TIERC,Europe
+Poland,POL,Radom,RDO,45,11,TIERC,Europe
+Poland,POL,Sosnowiec,SOS,45,10,TIERC,Europe
+Poland,POL,Torun,TRN,45,10,TIERC,Europe
+Poland,POL,Kielce,KLC,45,10,TIERC,Europe
+Poland,POL,Rzeszow,RZE,45,10,TIERC,Europe
+Poland,POL,Gliwice,GLI,45,9,TIERC,Europe
+Poland,POL,Zabrze,ZBR,45,9,TIERC,Europe
+Sweden,SWE,Stockholm,STO,45,96,TIERC,Europe
+Sweden,SWE,Gothenburg,GOT,45,58,TIERC,Europe
+Sweden,SWE,Malmo,MMA,45,35,TIERC,Europe
+Sweden,SWE,Uppsala,UPP,45,23,TIERC,Europe
+Sweden,SWE,Vasteras,VAS,45,12,TIERC,Europe
+Sweden,SWE,Orebro,ORE,45,15,TIERC,Europe
+Sweden,SWE,Linkoping,LPI,45,16,TIERC,Europe
+Sweden,SWE,Helsingborg,HLB,45,15,TIERC,Europe
+Sweden,SWE,Jonkoping,JKG,45,14,TIERC,Europe
+Sweden,SWE,Norrkoping,NRK,45,14,TIERC,Europe
+Sweden,SWE,Lund,LND,45,13,TIERC,Europe
+Sweden,SWE,Umea,UME,45,13,TIERC,Europe
+Sweden,SWE,Gavle,GVX,45,11,TIERC,Europe
+Sweden,SWE,Boras,BOR,45,12,TIERC,Europe
+Sweden,SWE,Sodertalje,STL,45,10,TIERC,Europe
+Sweden,SWE,Eskilstuna,ESK,45,11,TIERC,Europe
+Sweden,SWE,Sundsvall,SDL,45,10,TIERC,Europe
+Sweden,SWE,Huddinge,HUD,45,11,TIERC,Europe
+Sweden,SWE,Nacka,NAC,45,11,TIERC,Europe
+Sweden,SWE,Karlstad,KSD,45,10,TIERC,Europe
+Belgium,BEL,Brussels,BRU,45,134,TIERC,Europe
+Belgium,BEL,Antwerp,ANT,45,59,TIERC,Europe
+Belgium,BEL,Ghent,GNT,45,30,TIERC,Europe
+Belgium,BEL,Charleroi,CRL,45,23,TIERC,Europe
+Belgium,BEL,Liege,LGG,45,22,TIERC,Europe
+Belgium,BEL,Bruges,BRU,45,13,TIERC,Europe
+Belgium,BEL,Namur,QNM,45,13,TIERC,Europe
+Belgium,BEL,Leuven,LGG,45,12,TIERC,Europe
+Belgium,BEL,Mons,MON,45,11,TIERC,Europe
+Belgium,BEL,Aalst,AAL,45,10,TIERC,Europe
+Belgium,BEL,Mechelen,MHE,45,10,TIERC,Europe
+Belgium,BEL,La Louviere,LLV,45,9,TIERC,Europe
+Belgium,BEL,Kortrijk,KRT,45,9,TIERC,Europe
+Belgium,BEL,Hasselt,HAS,45,9,TIERC,Europe
+Belgium,BEL,Ostend,OST,45,8,TIERC,Europe
+Belgium,BEL,Sint-Niklaas,SNK,45,9,TIERC,Europe
+Belgium,BEL,Tournai,TRN,45,8,TIERC,Europe
+Belgium,BEL,Genk,GNK,45,8,TIERC,Europe
+Belgium,BEL,Seraing,SER,45,7,TIERC,Europe
+Belgium,BEL,Roeselare,RSL,45,7,TIERC,Europe
+Thailand,THA,Bangkok,BKK,45,275,TIERC,Asia
+Thailand,THA,Samut Prakan,SPK,45,26,TIERC,Asia
+Thailand,THA,Nonthaburi,NNT,45,24,TIERC,Asia
+Thailand,THA,Chiang Mai,CNX,45,4,TIERC,Asia
+Thailand,THA,Hat Yai,HDY,45,14,TIERC,Asia
+Thailand,THA,Udon Thani,UTH,45,11,TIERC,Asia
+Thailand,THA,Pattaya,UTP,45,4,TIERC,Asia
+Thailand,THA,Khon Kaen,KKC,45,8,TIERC,Asia
+Thailand,THA,Chon Buri,BFV,45,8,TIERC,Asia
+Thailand,THA,Nakhon Ratchasima,NAK,45,8,TIERC,Asia
+Thailand,THA,Surat Thani,URT,45,4,TIERC,Asia
+Thailand,THA,Ubon Ratchathani,UBP,45,4,TIERC,Asia
+Thailand,THA,Rayong,RAY,45,3,TIERC,Asia
+Thailand,THA,Nakhon Si Thammarat,NST,45,3,TIERC,Asia
+Thailand,THA,Phitsanulok,PHS,45,3,TIERC,Asia
+Thailand,THA,Chiang Rai,CEI,45,2,TIERC,Asia
+Thailand,THA,Lampang,LPT,45,2,TIERC,Asia
+Thailand,THA,Mueang Nakhon Sawan,NST,45,3,TIERC,Asia
+Thailand,THA,Songkhla,SGZ,45,2,TIERC,Asia
+Thailand,THA,Nakhon Pathom,NKT,45,2,TIERC,Asia
+Ireland,IRL,Dublin,DUB,45,231,TIERC,Europe
+Ireland,IRL,Cork,ORK,45,44,TIERC,Europe
+Ireland,IRL,Limerick,LMK,45,19,TIERC,Europe
+Ireland,IRL,Galway,GWY,45,17,TIERC,Europe
+Ireland,IRL,Waterford,WAT,45,11,TIERC,Europe
+Ireland,IRL,Drogheda,DRO,45,9,TIERC,Europe
+Ireland,IRL,Dundalk,DKL,45,8,TIERC,Europe
+Ireland,IRL,Swords,SWO,45,8,TIERC,Europe
+Ireland,IRL,Bray,BRY,45,7,TIERC,Europe
+Ireland,IRL,Navan,NAV,45,6,TIERC,Europe
+Ireland,IRL,Kilkenny,KLK,45,6,TIERC,Europe
+Ireland,IRL,Ennis,ENI,45,5,TIERC,Europe
+Ireland,IRL,Carlow,CAR,45,5,TIERC,Europe
+Ireland,IRL,Tralee,KIR,45,5,TIERC,Europe
+Ireland,IRL,Newbridge,NBG,45,5,TIERC,Europe
+Ireland,IRL,Portlaoise,PRT,45,5,TIERC,Europe
+Ireland,IRL,Balbriggan,BAL,45,5,TIERC,Europe
+Ireland,IRL,Naas,NAS,45,5,TIERC,Europe
+Ireland,IRL,Athlone,ATH,45,4,TIERC,Europe
+Ireland,IRL,Mullingar,MUL,45,4,TIERC,Europe
+Norway,NOR,Oslo,OSL,45,153,TIERC,Europe
+Norway,NOR,Bergen,BGO,45,44,TIERC,Europe
+Norway,NOR,Trondheim,TRD,45,32,TIERC,Europe
+Norway,NOR,Stavanger,SVG,45,33,TIERC,Europe
+Norway,NOR,Drammen,DRM,45,16,TIERC,Europe
+Norway,NOR,Fredrikstad,FRK,45,13,TIERC,Europe
+Norway,NOR,Kristiansand,KRS,45,17,TIERC,Europe
+Norway,NOR,Sandnes,SND,45,12,TIERC,Europe
+Norway,NOR,Asker,ASK,45,10,TIERC,Europe
+Norway,NOR,Haugesund,HAU,45,6,TIERC,Europe
+Norway,NOR,Tonsberg,TOS,45,8,TIERC,Europe
+Norway,NOR,Skien,SKE,45,12,TIERC,Europe
+Norway,NOR,Porsgrunn,POR,45,6,TIERC,Europe
+Norway,NOR,Alesund,AES,45,8,TIERC,Europe
+Norway,NOR,Sandefjord,SAN,45,10,TIERC,Europe
+Norway,NOR,Kongsberg,KON,45,4,TIERC,Europe
+Norway,NOR,Sarpsborg,SPG,45,9,TIERC,Europe
+Norway,NOR,Bodø,BOO,45,8,TIERC,Europe
+Norway,NOR,Molde,MOL,45,4,TIERC,Europe
+Norway,NOR,Lillehammer,LIL,45,5,TIERC,Europe
+Israel,ISR,Jerusalem,JRS,45,87,TIERC,MEA
+Israel,ISR,Tel Aviv,TLV,45,43,TIERC,MEA
+Israel,ISR,Haifa,HFA,45,27,TIERC,MEA
+Israel,ISR,Rishon LeZion,RSZ,45,24,TIERC,MEA
+Israel,ISR,Petah Tikva,PTE,45,24,TIERC,MEA
+Israel,ISR,Ashdod,ASH,45,22,TIERC,MEA
+Israel,ISR,Netanya,NET,45,21,TIERC,MEA
+Israel,ISR,Beer Sheva,BEV,45,20,TIERC,MEA
+Israel,ISR,Bnei Brak,BNB,45,18,TIERC,MEA
+Israel,ISR,Bat Yam,BAT,45,13,TIERC,MEA
+Israel,ISR,Holon,HOL,45,18,TIERC,MEA
+Israel,ISR,Ramat Gan,RMG,45,15,TIERC,MEA
+Israel,ISR,Ashkelon,ASK,45,13,TIERC,MEA
+Israel,ISR,Rehovot,REH,45,13,TIERC,MEA
+Israel,ISR,Herzliya,HEZ,45,10,TIERC,MEA
+Israel,ISR,Kfar Saba,KFS,45,10,TIERC,MEA
+Israel,ISR,Modi'in,MDN,45,9,TIERC,MEA
+Israel,ISR,Nazareth,NAZ,45,8,TIERC,MEA
+Israel,ISR,Lod,LOD,45,8,TIERC,MEA
+Israel,ISR,Ramla,RAM,45,7,TIERC,MEA
+Austria,AUT,Vienna,VIE,45,230,TIERC,Europe
+Austria,AUT,Graz,GRZ,45,36,TIERC,Europe
+Austria,AUT,Linz,LNZ,45,25,TIERC,Europe
+Austria,AUT,Salzburg,SZG,45,19,TIERC,Europe
+Austria,AUT,Innsbruck,INN,45,17,TIERC,Europe
+Austria,AUT,Klagenfurt,KLU,45,13,TIERC,Europe
+Austria,AUT,Villach,VIL,45,8,TIERC,Europe
+Austria,AUT,Wels,WEL,45,8,TIERC,Europe
+Austria,AUT,Sankt Polten,POL,45,7,TIERC,Europe
+Austria,AUT,Dornbirn,DOB,45,6,TIERC,Europe
+Austria,AUT,Wiener Neustadt,WNS,45,6,TIERC,Europe
+Austria,AUT,Steyr,STR,45,5,TIERC,Europe
+Austria,AUT,Feldkirch,FEL,45,4,TIERC,Europe
+Austria,AUT,Bregenz,BRZ,45,4,TIERC,Europe
+Austria,AUT,Leonding,LEO,45,4,TIERC,Europe
+Austria,AUT,Klosterneuburg,KLO,45,4,TIERC,Europe
+Austria,AUT,Leoben,LBN,45,3,TIERC,Europe
+Austria,AUT,Krems,KRE,45,3,TIERC,Europe
+Austria,AUT,Traun,TRA,45,3,TIERC,Europe
+Austria,AUT,Amstetten,AMS,45,3,TIERC,Europe
+United Arab Emirates,UAE,Dubai,DXB,45,139,TIERC,MEA
+United Arab Emirates,UAE,Abu Dhabi,AUH,45,62,TIERC,MEA
+United Arab Emirates,UAE,Sharjah,SHJ,45,54,TIERC,MEA
+United Arab Emirates,UAE,Al Ain,AAN,45,32,TIERC,MEA
+United Arab Emirates,UAE,Ajman,AJM,45,22,TIERC,MEA
+United Arab Emirates,UAE,Ras Al Khaimah,RKT,45,11,TIERC,MEA
+United Arab Emirates,UAE,Fujairah,FJR,45,10,TIERC,MEA
+United Arab Emirates,UAE,Umm Al Quwain,RKT,45,4,TIERC,MEA
+United Arab Emirates,UAE,Khor Fakkan,KHF,45,3,TIERC,MEA
+United Arab Emirates,UAE,Dibba Al-Hisn,DBH,45,2,TIERC,MEA
+United Arab Emirates,UAE,Al Quoz,AQZ,45,9,TIERC,MEA
+United Arab Emirates,UAE,Khalifa City,KHC,45,7,TIERC,MEA
+United Arab Emirates,UAE,Deira,DEI,45,30,TIERC,MEA
+United Arab Emirates,UAE,Bur Dubai,BDU,45,17,TIERC,MEA
+United Arab Emirates,UAE,Al Muwaylih,ALM,45,2,TIERC,MEA
+United Arab Emirates,UAE,Ruwais,RWS,45,1,TIERC,MEA
+United Arab Emirates,UAE,Kalba,KBA,45,3,TIERC,MEA
+United Arab Emirates,UAE,Dhaid,DHD,45,1,TIERC,MEA
+United Arab Emirates,UAE,Al Hamriyah,ALH,45,1,TIERC,MEA
+United Arab Emirates,UAE,Madinat Zayed,MDZ,45,1,TIERC,MEA
+Singapore,SGP,Singapore,SGP,45,258,TIERC,Asia
+Singapore,SGP,Jurong West,JRW,45,13,TIERC,Asia
+Singapore,SGP,Tampines,TMP,45,12,TIERC,Asia
+Singapore,SGP,Woodlands,WDS,45,12,TIERC,Asia
+Singapore,SGP,Sengkang,SKG,45,11,TIERC,Asia
+Singapore,SGP,Punggol,PNG,45,9,TIERC,Asia
+Singapore,SGP,Hougang,HGN,45,10,TIERC,Asia
+Singapore,SGP,Yishun,YSN,45,10,TIERC,Asia
+Singapore,SGP,Bukit Batok,BBT,45,7,TIERC,Asia
+Singapore,SGP,Choa Chu Kang,CCK,45,8,TIERC,Asia
+Singapore,SGP,Bedok,BDK,45,13,TIERC,Asia
+Singapore,SGP,Ang Mo Kio,AMK,45,8,TIERC,Asia
+Singapore,SGP,Toa Payoh,TPY,45,5,TIERC,Asia
+Singapore,SGP,Pasir Ris,PRI,45,6,TIERC,Asia
+Singapore,SGP,Serangoon,SRN,45,6,TIERC,Asia
+Singapore,SGP,Clementi,CLM,45,4,TIERC,Asia
+Singapore,SGP,Queenstown,QST,45,4,TIERC,Asia
+Singapore,SGP,Geylang,GYL,45,5,TIERC,Asia
+Singapore,SGP,Bishan,BSN,45,4,TIERC,Asia
+Singapore,SGP,Kallang,KLG,45,4,TIERC,Asia
+Nigeria,NGA,Lagos,LOS,45,147,TIERC,MEA
+Nigeria,NGA,Kano,KAN,45,39,TIERC,MEA
+Nigeria,NGA,Ibadan,IBA,45,37,TIERC,MEA
+Nigeria,NGA,Abuja,ABV,45,35,TIERC,MEA
+Nigeria,NGA,Port Harcourt,PHC,45,19,TIERC,MEA
+Nigeria,NGA,Benin City,BNI,45,18,TIERC,MEA
+Nigeria,NGA,Maiduguri,MIU,45,12,TIERC,MEA
+Nigeria,NGA,Zaria,ZAR,45,11,TIERC,MEA
+Nigeria,NGA,Aba,ABA,45,9,TIERC,MEA
+Nigeria,NGA,Jos,JOS,45,9,TIERC,MEA
+Nigeria,NGA,Ilorin,ILR,45,9,TIERC,MEA
+Nigeria,NGA,Ogbomosho,OGB,45,7,TIERC,MEA
+Nigeria,NGA,Onitsha,ONT,45,7,TIERC,MEA
+Nigeria,NGA,Warri,WAR,45,6,TIERC,MEA
+Nigeria,NGA,Sokoto,SKO,45,6,TIERC,MEA
+Nigeria,NGA,Asaba,ABH,45,5,TIERC,MEA
+Nigeria,NGA,Enugu,ENU,45,8,TIERC,MEA
+Nigeria,NGA,Abeokuta,ABK,45,5,TIERC,MEA
+Nigeria,NGA,Owerri,OWE,45,4,TIERC,MEA
+Nigeria,NGA,Kaduna,KAD,45,16,TIERC,MEA
+Philippines,PHL,Quezon City,QCY,20,31,TIERD,Asia
+Philippines,PHL,Manila,MNL,20,19,TIERD,Asia
+Philippines,PHL,Davao,DVO,20,19,TIERD,Asia
+Philippines,PHL,Caloocan,CLK,20,17,TIERD,Asia
+Philippines,PHL,Zamboanga,ZAM,20,10,TIERD,Asia
+Philippines,PHL,Cebu City,CEB,20,10,TIERD,Asia
+Philippines,PHL,Antipolo,ANT,20,10,TIERD,Asia
+Philippines,PHL,Pasig,PSG,20,9,TIERD,Asia
+Philippines,PHL,Taguig,TGG,20,9,TIERD,Asia
+Philippines,PHL,Valenzuela,VAL,20,8,TIERD,Asia
+Philippines,PHL,Dasmariñas,DSM,20,8,TIERD,Asia
+Philippines,PHL,Cagayan de Oro,CGY,20,8,TIERD,Asia
+Philippines,PHL,General Santos,GES,20,8,TIERD,Asia
+Philippines,PHL,Parañaque,PNK,20,8,TIERD,Asia
+Philippines,PHL,Las Piñas,LPI,20,7,TIERD,Asia
+Philippines,PHL,Makati,MKT,20,6,TIERD,Asia
+Philippines,PHL,Bacoor,BKR,20,7,TIERD,Asia
+Philippines,PHL,Marikina,MRN,20,5,TIERD,Asia
+Philippines,PHL,Muntinlupa,MNT,20,6,TIERD,Asia
+Philippines,PHL,Imus,IMS,20,6,TIERD,Asia
+Malaysia,MYS,Kuala Lumpur,KUL,20,31,TIERD,Asia
+Malaysia,MYS,Klang,KLG,20,14,TIERD,Asia
+Malaysia,MYS,Subang Jaya,SJY,20,12,TIERD,Asia
+Malaysia,MYS,Ipoh,IPH,20,12,TIERD,Asia
+Malaysia,MYS,Johor Bahru,JHB,20,13,TIERD,Asia
+Malaysia,MYS,Petaling Jaya,PTJ,20,11,TIERD,Asia
+Malaysia,MYS,Shah Alam,SHA,20,11,TIERD,Asia
+Malaysia,MYS,Penang,PEN,20,13,TIERD,Asia
+Malaysia,MYS,Ampang Jaya,AMP,20,10,TIERD,Asia
+Malaysia,MYS,Kuching,KCH,20,11,TIERD,Asia
+Malaysia,MYS,Kota Kinabalu,BKI,20,8,TIERD,Asia
+Malaysia,MYS,Kajang,KJG,20,10,TIERD,Asia
+Malaysia,MYS,Seremban,SBN,20,9,TIERD,Asia
+Malaysia,MYS,Kota Bharu,KBR,20,8,TIERD,Asia
+Malaysia,MYS,Alor Setar,AOR,20,7,TIERD,Asia
+Malaysia,MYS,Malacca,MKZ,20,8,TIERD,Asia
+Malaysia,MYS,Miri,MYY,20,6,TIERD,Asia
+Malaysia,MYS,Kuantan,KUA,20,7,TIERD,Asia
+Malaysia,MYS,Kuala Terengganu,TGG,20,7,TIERD,Asia
+Malaysia,MYS,Putrajaya,PUT,20,2,TIERD,Asia
+Denmark,DNK,Copenhagen,CPH,20,56,TIERD,Europe
+Denmark,DNK,Aarhus,AAR,20,25,TIERD,Europe
+Denmark,DNK,Odense,ODE,20,13,TIERD,Europe
+Denmark,DNK,Aalborg,AAL,20,16,TIERD,Europe
+Denmark,DNK,Frederiksberg,FDB,20,8,TIERD,Europe
+Denmark,DNK,Copenhagen S,CNS,20,8,TIERD,Europe
+Denmark,DNK,Esbjerg,EBJ,20,9,TIERD,Europe
+Denmark,DNK,Horsens,HOR,20,7,TIERD,Europe
+Denmark,DNK,Vejle,VEJ,20,9,TIERD,Europe
+Denmark,DNK,Randers,RND,20,7,TIERD,Europe
+Denmark,DNK,Kolding,KLD,20,7,TIERD,Europe
+Denmark,DNK,Helsingør,HEL,20,5,TIERD,Europe
+Denmark,DNK,Herning,HRN,20,7,TIERD,Europe
+Denmark,DNK,Silkeborg,SIL,20,7,TIERD,Europe
+Denmark,DNK,Naestved,NST,20,4,TIERD,Europe
+Denmark,DNK,Fredericia,FRC,20,3,TIERD,Europe
+Denmark,DNK,Viborg,VIB,20,7,TIERD,Europe
+Denmark,DNK,Hillerød,HIL,20,4,TIERD,Europe
+Denmark,DNK,Holstebro,HBR,20,5,TIERD,Europe
+Denmark,DNK,Sønderborg,SNB,20,3,TIERD,Europe
+South Africa,ZAF,Johannesburg,JNB,20,40,TIERD,MEA
+South Africa,ZAF,Cape Town,CPT,20,33,TIERD,MEA
+South Africa,ZAF,Ekurhuleni,EKU,20,24,TIERD,MEA
+South Africa,ZAF,Durban,DUR,20,27,TIERD,MEA
+South Africa,ZAF,Pretoria,PRY,20,21,TIERD,MEA
+South Africa,ZAF,Port Elizabeth,PLZ,20,9,TIERD,MEA
+South Africa,ZAF,Pietermaritzburg,PZB,20,6,TIERD,MEA
+South Africa,ZAF,Benoni,BNO,20,4,TIERD,MEA
+South Africa,ZAF,Tembisa,TEM,20,3,TIERD,MEA
+South Africa,ZAF,East London,ELS,20,4,TIERD,MEA
+South Africa,ZAF,Vereeniging,VER,20,3,TIERD,MEA
+South Africa,ZAF,Bloemfontein,BFN,20,3,TIERD,MEA
+South Africa,ZAF,Boksburg,BKS,20,3,TIERD,MEA
+South Africa,ZAF,Welkom,WEL,20,3,TIERD,MEA
+South Africa,ZAF,Newcastle,NCL,20,3,TIERD,MEA
+South Africa,ZAF,Krugersdorp,KRU,20,3,TIERD,MEA
+South Africa,ZAF,Richards Bay,RCB,20,3,TIERD,MEA
+South Africa,ZAF,Witbank,WTB,20,3,TIERD,MEA
+South Africa,ZAF,Soweto,SWT,20,12,TIERD,MEA
+South Africa,ZAF,Vanderbijlpark,VBP,20,3,TIERD,MEA
+Bangladesh,BGD,Dhaka,DAC,20,117,TIERD,Asia
+Bangladesh,BGD,Chittagong,CGP,20,29,TIERD,Asia
+Bangladesh,BGD,Khulna,KHL,20,8,TIERD,Asia
+Bangladesh,BGD,Rajshahi,RJH,20,5,TIERD,Asia
+Bangladesh,BGD,Sylhet,ZYL,20,4,TIERD,Asia
+Bangladesh,BGD,Comilla,COM,20,3,TIERD,Asia
+Bangladesh,BGD,Rangpur,RNP,20,3,TIERD,Asia
+Bangladesh,BGD,Mymensingh,MYM,20,3,TIERD,Asia
+Bangladesh,BGD,Narayanganj,NAJ,20,9,TIERD,Asia
+Bangladesh,BGD,Gazipur,GAZ,20,10,TIERD,Asia
+Bangladesh,BGD,Tongi,TON,20,2,TIERD,Asia
+Bangladesh,BGD,Savar,SAV,20,4,TIERD,Asia
+Bangladesh,BGD,Barisal,BZL,20,2,TIERD,Asia
+Bangladesh,BGD,Jessore,JSR,20,2,TIERD,Asia
+Bangladesh,BGD,Bogra,BGW,20,2,TIERD,Asia
+Bangladesh,BGD,Dinajpur,DIN,20,2,TIERD,Asia
+Bangladesh,BGD,Nawabganj,NAW,20,1,TIERD,Asia
+Bangladesh,BGD,Tangail,TNG,20,1,TIERD,Asia
+Bangladesh,BGD,Faridpur,FAR,20,1,TIERD,Asia
+Bangladesh,BGD,Chandpur,CHP,20,1,TIERD,Asia
+Egypt,EGY,Cairo,CAI,20,116,TIERD,MEA
+Egypt,EGY,Alexandria,ALY,20,28,TIERD,MEA
+Egypt,EGY,Giza,GIZ,20,20,TIERD,MEA
+Egypt,EGY,Shubra El Kheima,SUB,20,6,TIERD,MEA
+Egypt,EGY,Port Said,PSD,20,4,TIERD,MEA
+Egypt,EGY,Suez,SUZ,20,4,TIERD,MEA
+Egypt,EGY,Luxor,LXR,20,3,TIERD,MEA
+Egypt,EGY,Al-Mansura,MAN,20,3,TIERD,MEA
+Egypt,EGY,El-Mahalla El-Kubra,MAH,20,3,TIERD,MEA
+Egypt,EGY,Tanta,TAN,20,3,TIERD,MEA
+Egypt,EGY,Asyut,ATZ,20,3,TIERD,MEA
+Egypt,EGY,Ismailia,ISM,20,3,TIERD,MEA
+Egypt,EGY,Fayyum,FAY,20,2,TIERD,MEA
+Egypt,EGY,Zagazig,ZAG,20,2,TIERD,MEA
+Egypt,EGY,Damanhur,DAM,20,2,TIERD,MEA
+Egypt,EGY,Minya,MIN,20,2,TIERD,MEA
+Egypt,EGY,Dammietta,DAT,20,2,TIERD,MEA
+Egypt,EGY,Aswan,ASW,20,2,TIERD,MEA
+Egypt,EGY,Sohag,SOH,20,1,TIERD,MEA
+Egypt,EGY,Beni Suef,BSF,20,2,TIERD,MEA
+Vietnam,VNM,Ho Chi Minh City,SGN,20,67,TIERD,Asia
+Vietnam,VNM,Hanoi,HAN,20,60,TIERD,Asia
+Vietnam,VNM,Can Tho,VCA,20,9,TIERD,Asia
+Vietnam,VNM,Haiphong,HPH,20,15,TIERD,Asia
+Vietnam,VNM,Bien Hoa,VBH,20,12,TIERD,Asia
+Vietnam,VNM,Da Nang,DAD,20,9,TIERD,Asia
+Vietnam,VNM,Buon Ma Thuot,BMV,20,3,TIERD,Asia
+Vietnam,VNM,Nha Trang,CXR,20,3,TIERD,Asia
+Vietnam,VNM,Hue,HUI,20,3,TIERD,Asia
+Vietnam,VNM,Vung Tau,VTG,20,3,TIERD,Asia
+Vietnam,VNM,Quy Nhon,UIH,20,3,TIERD,Asia
+Vietnam,VNM,Thai Nguyen,TBD,20,3,TIERD,Asia
+Vietnam,VNM,Long Xuyen,LXY,20,3,TIERD,Asia
+Vietnam,VNM,Nam Dinh,NDI,20,2,TIERD,Asia
+Vietnam,VNM,Vinh,VII,20,3,TIERD,Asia
+Vietnam,VNM,My Tho,VMT,20,2,TIERD,Asia
+Vietnam,VNM,Rach Gia,VKG,20,2,TIERD,Asia
+Vietnam,VNM,Ca Mau,CAH,20,2,TIERD,Asia
+Vietnam,VNM,Da Lat,DLI,20,2,TIERD,Asia
+Vietnam,VNM,Bac Ninh,VBN,20,3,TIERD,Asia
+Hong Kong,HKG,Hong Kong,HKG,20,100,TIERD,Asia
+Hong Kong,HKG,Kowloon,KLN,20,31,TIERD,Asia
+Hong Kong,HKG,Tsuen Wan,TWN,20,5,TIERD,Asia
+Hong Kong,HKG,Sha Tin,STN,20,9,TIERD,Asia
+Hong Kong,HKG,Tuen Mun,TUM,20,7,TIERD,Asia
+Hong Kong,HKG,Yuen Long,YLG,20,8,TIERD,Asia
+Hong Kong,HKG,Tai Po,TAP,20,5,TIERD,Asia
+Hong Kong,HKG,Sai Kung,SKG,20,4,TIERD,Asia
+Hong Kong,HKG,Kwai Chung,KWC,20,7,TIERD,Asia
+Hong Kong,HKG,Fanling,FNL,20,4,TIERD,Asia
+Hong Kong,HKG,Tseung Kwan O,TKO,20,6,TIERD,Asia
+Hong Kong,HKG,Tin Shui Wai,TSW,20,4,TIERD,Asia
+Hong Kong,HKG,Hung Hom,HHM,20,2,TIERD,Asia
+Hong Kong,HKG,Central,CTL,20,2,TIERD,Asia
+Hong Kong,HKG,Wan Chai,WNC,20,3,TIERD,Asia
+Hong Kong,HKG,Mong Kok,MKK,20,2,TIERD,Asia
+Hong Kong,HKG,Causeway Bay,CWB,20,2,TIERD,Asia
+Hong Kong,HKG,Shau Kei Wan,SKW,20,2,TIERD,Asia
+Hong Kong,HKG,Aberdeen,ABD,20,2,TIERD,Asia
+Hong Kong,HKG,Ma On Shan,MOS,20,3,TIERD,Asia
+Pakistan,PAK,Karachi,KHI,20,65,TIERD,Asia
+Pakistan,PAK,Lahore,LHE,20,53,TIERD,Asia
+Pakistan,PAK,Faisalabad,LYP,20,15,TIERD,Asia
+Pakistan,PAK,Rawalpindi,RWP,20,9,TIERD,Asia
+Pakistan,PAK,Gujranwala,GUJ,20,10,TIERD,Asia
+Pakistan,PAK,Peshawar,PEW,20,8,TIERD,Asia
+Pakistan,PAK,Multan,MUX,20,8,TIERD,Asia
+Pakistan,PAK,Islamabad,ISB,20,5,TIERD,Asia
+Pakistan,PAK,Hyderabad,HDD,20,7,TIERD,Asia
+Pakistan,PAK,Quetta,UET,20,4,TIERD,Asia
+Pakistan,PAK,Bahawalpur,BHV,20,4,TIERD,Asia
+Pakistan,PAK,Sargodha,SGI,20,3,TIERD,Asia
+Pakistan,PAK,Sialkot,SKT,20,3,TIERD,Asia
+Pakistan,PAK,Sukkur,SKZ,20,2,TIERD,Asia
+Pakistan,PAK,Larkana,LRK,20,2,TIERD,Asia
+Pakistan,PAK,Sheikhupura,SKP,20,2,TIERD,Asia
+Pakistan,PAK,Rahim Yar Khan,RYK,20,2,TIERD,Asia
+Pakistan,PAK,Jhang,JHG,20,2,TIERD,Asia
+Pakistan,PAK,Dera Ghazi Khan,DEA,20,2,TIERD,Asia
+Pakistan,PAK,Gujrat,GRT,20,2,TIERD,Asia
+Chile,CHL,Santiago,SCL,20,105,TIERD,Americas
+Chile,CHL,Valparaiso,VAP,20,16,TIERD,Americas
+Chile,CHL,Concepcion,CCP,20,17,TIERD,Americas
+Chile,CHL,La Serena,LSC,20,8,TIERD,Americas
+Chile,CHL,Antofagasta,ANF,20,8,TIERD,Americas
+Chile,CHL,Temuco,TEM,20,6,TIERD,Americas
+Chile,CHL,Rancagua,RCG,20,5,TIERD,Americas
+Chile,CHL,Talca,TLC,20,4,TIERD,Americas
+Chile,CHL,Arica,ARI,20,4,TIERD,Americas
+Chile,CHL,Iquique,IQQ,20,4,TIERD,Americas
+Chile,CHL,Puerto Montt,PMC,20,5,TIERD,Americas
+Chile,CHL,Coquimbo,COQ,20,4,TIERD,Americas
+Chile,CHL,Valdivia,ZAL,20,3,TIERD,Americas
+Chile,CHL,Punta Arenas,PUQ,20,3,TIERD,Americas
+Chile,CHL,San Pedro de la Paz,SNP,20,3,TIERD,Americas
+Chile,CHL,Calama,CJC,20,3,TIERD,Americas
+Chile,CHL,Osorno,ZOS,20,3,TIERD,Americas
+Chile,CHL,Quilpue,QLP,20,3,TIERD,Americas
+Chile,CHL,Villa Alemana,VIL,20,3,TIERD,Americas
+Chile,CHL,Copiapó,CPO,20,3,TIERD,Americas
+Finland,FIN,Helsinki,HEL,20,45,TIERD,Europe
+Finland,FIN,Espoo,ESP,20,21,TIERD,Europe
+Finland,FIN,Tampere,TMP,20,17,TIERD,Europe
+Finland,FIN,Vantaa,VAN,20,16,TIERD,Europe
+Finland,FIN,Oulu,OUL,20,15,TIERD,Europe
+Finland,FIN,Turku,TKU,20,14,TIERD,Europe
+Finland,FIN,Jyvaskyla,JYV,20,10,TIERD,Europe
+Finland,FIN,Lahti,LHT,20,9,TIERD,Europe
+Finland,FIN,Kuopio,KUO,20,9,TIERD,Europe
+Finland,FIN,Pori,POR,20,6,TIERD,Europe
+Finland,FIN,Kouvola,KOV,20,6,TIERD,Europe
+Finland,FIN,Joensuu,JOE,20,6,TIERD,Europe
+Finland,FIN,Lappeenranta,LAP,20,5,TIERD,Europe
+Finland,FIN,Vaasa,VAA,20,5,TIERD,Europe
+Finland,FIN,Hameenlinna,HLN,20,5,TIERD,Europe
+Finland,FIN,Rovaniemi,RVN,20,5,TIERD,Europe
+Finland,FIN,Seinajoki,SJY,20,5,TIERD,Europe
+Finland,FIN,Kotka,KOT,20,4,TIERD,Europe
+Finland,FIN,Mikkeli,MIK,20,4,TIERD,Europe
+Finland,FIN,Salo,SAL,20,4,TIERD,Europe
+Romania,ROU,Bucharest,OTP,20,65,TIERD,Europe
+Romania,ROU,Cluj-Napoca,CNA,20,12,TIERD,Europe
+Romania,ROU,Timisoara,TSR,20,12,TIERD,Europe
+Romania,ROU,Iasi,IAS,20,11,TIERD,Europe
+Romania,ROU,Craiova,CRA,20,10,TIERD,Europe
+Romania,ROU,Constanta,CND,20,11,TIERD,Europe
+Romania,ROU,Galati,GLA,20,9,TIERD,Europe
+Romania,ROU,Brasov,BRV,20,10,TIERD,Europe
+Romania,ROU,Ploiesti,PLO,20,8,TIERD,Europe
+Romania,ROU,Braila,BRL,20,7,TIERD,Europe
+Romania,ROU,Oradea,OMR,20,8,TIERD,Europe
+Romania,ROU,Bacau,BCM,20,6,TIERD,Europe
+Romania,ROU,Arad,ARW,20,6,TIERD,Europe
+Romania,ROU,Pitesti,PIT,20,6,TIERD,Europe
+Romania,ROU,Sibiu,SBZ,20,6,TIERD,Europe
+Romania,ROU,Targu Mures,TGM,20,5,TIERD,Europe
+Romania,ROU,Baia Mare,BAY,20,5,TIERD,Europe
+Romania,ROU,Buzau,BCZ,20,5,TIERD,Europe
+Romania,ROU,Botoșani,BOT,20,4,TIERD,Europe
+Romania,ROU,Ramnicu Valcea,RMV,20,4,TIERD,Europe
+Czech Republic,CZE,Prague,PRG,20,81,TIERD,Europe
+Czech Republic,CZE,Brno,BRQ,20,23,TIERD,Europe
+Czech Republic,CZE,Ostrava,OSR,20,18,TIERD,Europe
+Czech Republic,CZE,Plzen,PLZ,20,11,TIERD,Europe
+Czech Republic,CZE,Liberec,LBC,20,7,TIERD,Europe
+Czech Republic,CZE,Olomouc,OLC,20,6,TIERD,Europe
+Czech Republic,CZE,Ústí nad Labem,UAD,20,6,TIERD,Europe
+Czech Republic,CZE,České Budějovice,BUD,20,6,TIERD,Europe
+Czech Republic,CZE,Hradec Králové,HKE,20,6,TIERD,Europe
+Czech Republic,CZE,Pardubice,PED,20,6,TIERD,Europe
+Czech Republic,CZE,Zlín,ZLN,20,5,TIERD,Europe
+Czech Republic,CZE,Havirov,HAV,20,5,TIERD,Europe
+Czech Republic,CZE,Kladno,KLD,20,5,TIERD,Europe
+Czech Republic,CZE,Most,MOS,20,4,TIERD,Europe
+Czech Republic,CZE,Opava,OPV,20,4,TIERD,Europe
+Czech Republic,CZE,Frydek-Mistek,FMI,20,4,TIERD,Europe
+Czech Republic,CZE,Karvina,KVA,20,4,TIERD,Europe
+Czech Republic,CZE,Jihlava,JIH,20,4,TIERD,Europe
+Czech Republic,CZE,Teplice,TEP,20,3,TIERD,Europe
+Czech Republic,CZE,Decin,DEC,20,3,TIERD,Europe
+New Zealand,NZL,Auckland,AKL,20,92,TIERD,Asia
+New Zealand,NZL,Wellington,WLG,20,24,TIERD,Asia
+New Zealand,NZL,Christchurch,CHC,20,22,TIERD,Asia
+New Zealand,NZL,Hamilton,HLZ,20,10,TIERD,Asia
+New Zealand,NZL,Tauranga,TRG,20,9,TIERD,Asia
+New Zealand,NZL,Napier-Hastings,NPE,20,8,TIERD,Asia
+New Zealand,NZL,Dunedin,DUD,20,7,TIERD,Asia
+New Zealand,NZL,Palmerston North,PMR,20,5,TIERD,Asia
+New Zealand,NZL,Nelson,NSN,20,4,TIERD,Asia
+New Zealand,NZL,Rotorua,ROT,20,4,TIERD,Asia
+New Zealand,NZL,New Plymouth,NPL,20,4,TIERD,Asia
+New Zealand,NZL,Whangarei,WRE,20,4,TIERD,Asia
+New Zealand,NZL,Invercargill,IVC,20,3,TIERD,Asia
+New Zealand,NZL,Whanganui,WAG,20,3,TIERD,Asia
+New Zealand,NZL,Gisborne,GIS,20,2,TIERD,Asia
+New Zealand,NZL,Blenheim,BHE,20,2,TIERD,Asia
+New Zealand,NZL,Timaru,TIU,20,2,TIERD,Asia
+New Zealand,NZL,Taupo,TUO,20,2,TIERD,Asia
+New Zealand,NZL,Masterton,MRO,20,2,TIERD,Asia
+New Zealand,NZL,Levin,LVI,20,2,TIERD,Asia
+Peru,PER,Lima,LIM,20,117,TIERD,Americas
+Peru,PER,Arequipa,AQP,20,11,TIERD,Americas
+Peru,PER,Trujillo,TRU,20,10,TIERD,Americas
+Peru,PER,Chiclayo,CIX,20,6,TIERD,Americas
+Peru,PER,Piura,PIU,20,6,TIERD,Americas
+Peru,PER,Iquitos,IQT,20,6,TIERD,Americas
+Peru,PER,Callao,CAL,20,13,TIERD,Americas
+Peru,PER,Cusco,CUZ,20,5,TIERD,Americas
+Peru,PER,Huancayo,JAU,20,5,TIERD,Americas
+Peru,PER,Tacna,TCQ,20,4,TIERD,Americas
+Peru,PER,Juliaca,JUL,20,3,TIERD,Americas
+Peru,PER,Ica,ICA,20,3,TIERD,Americas
+Peru,PER,Sullana,SUL,20,3,TIERD,Americas
+Peru,PER,Huanuco,HUU,20,3,TIERD,Americas
+Peru,PER,Ayacucho,AYC,20,2,TIERD,Americas
+Peru,PER,Pucallpa,PCL,20,3,TIERD,Americas
+Peru,PER,Chimbote,CHM,20,5,TIERD,Americas
+Peru,PER,Puno,PUN,20,2,TIERD,Americas
+Peru,PER,Tumbes,TBP,20,2,TIERD,Americas
+Peru,PER,Pisco,PIS,20,2,TIERD,Americas
+Portugal,PRT,Lisbon,LIS,20,38,TIERD,Europe
+Portugal,PRT,Porto,OPO,20,18,TIERD,Europe
+Portugal,PRT,Vila Nova de Gaia,VNG,20,23,TIERD,Europe
+Portugal,PRT,Amadora,AMD,20,14,TIERD,Europe
+Portugal,PRT,Braga,BGC,20,15,TIERD,Europe
+Portugal,PRT,Setúbal,STB,20,10,TIERD,Europe
+Portugal,PRT,Almada,ALM,20,13,TIERD,Europe
+Portugal,PRT,Agualva-Cacem,AGC,20,6,TIERD,Europe
+Portugal,PRT,Queluz,QUE,20,6,TIERD,Europe
+Portugal,PRT,Funchal,FNC,20,9,TIERD,Europe
+Portugal,PRT,Coimbra,CBP,20,8,TIERD,Europe
+Portugal,PRT,Sintra,SIN,20,10,TIERD,Europe
+Portugal,PRT,Loures,LRS,20,6,TIERD,Europe
+Portugal,PRT,Barreiro,BAR,20,6,TIERD,Europe
+Portugal,PRT,Leiria,LRA,20,4,TIERD,Europe
+Portugal,PRT,Aveiro,AVI,20,5,TIERD,Europe
+Portugal,PRT,Viseu,VSE,20,4,TIERD,Europe
+Portugal,PRT,Évora,EVR,20,4,TIERD,Europe
+Portugal,PRT,Faro,FAO,20,5,TIERD,Europe
+Portugal,PRT,Portimao,PRM,20,5,TIERD,Europe
+Kazakhstan,KAZ,Almaty,ALA,1,23,TIERE,Asia
+Kazakhstan,KAZ,Astana,TSE,1,14,TIERE,Asia
+Kazakhstan,KAZ,Shymkent,CIT,1,14,TIERE,Asia
+Kazakhstan,KAZ,Karaganda,KGF,1,6,TIERE,Asia
+Kazakhstan,KAZ,Aktobe,AKX,1,6,TIERE,Asia
+Kazakhstan,KAZ,Taraz,DMB,1,5,TIERE,Asia
+Kazakhstan,KAZ,Pavlodar,PWQ,1,4,TIERE,Asia
+Kazakhstan,KAZ,Ust-Kamenogorsk,UKK,1,4,TIERE,Asia
+Kazakhstan,KAZ,Semey,PLX,1,4,TIERE,Asia
+Kazakhstan,KAZ,Atyrau,GUW,1,4,TIERE,Asia
+Kazakhstan,KAZ,Kokshetau,KOV,1,2,TIERE,Asia
+Kazakhstan,KAZ,Temirtau,TEI,1,3,TIERE,Asia
+Kazakhstan,KAZ,Turkestan,TTD,1,3,TIERE,Asia
+Kazakhstan,KAZ,Ekibastuz,EKB,1,2,TIERE,Asia
+Kazakhstan,KAZ,Kyzylorda,KZO,1,3,TIERE,Asia
+Kazakhstan,KAZ,Oral,URA,1,3,TIERE,Asia
+Kazakhstan,KAZ,Aktau,SCO,1,3,TIERE,Asia
+Kazakhstan,KAZ,Petropavl,PPK,1,3,TIERE,Asia
+Kazakhstan,KAZ,Kostanay,KSN,1,3,TIERE,Asia
+Kazakhstan,KAZ,Rudny,RUD,1,2,TIERE,Asia
+Greece,GRC,Athens,ATH,1,52,TIERE,Europe
+Greece,GRC,Thessaloniki,SKG,1,14,TIERE,Europe
+Greece,GRC,Patras,GPA,1,5,TIERE,Europe
+Greece,GRC,Heraklion,HER,1,3,TIERE,Europe
+Greece,GRC,Larissa,LRS,1,3,TIERE,Europe
+Greece,GRC,Volos,VOL,1,3,TIERE,Europe
+Greece,GRC,Ioannina,IOA,1,2,TIERE,Europe
+Greece,GRC,Chania,CHQ,1,2,TIERE,Europe
+Greece,GRC,Chalcis,CHL,1,2,TIERE,Europe
+Greece,GRC,Acharnes,ACH,1,2,TIERE,Europe
+Greece,GRC,Kalamaria,KAL,1,2,TIERE,Europe
+Greece,GRC,Nikaia,NKA,1,2,TIERE,Europe
+Greece,GRC,Glyfada,GLY,1,2,TIERE,Europe
+Greece,GRC,Peristeri,PER,1,3,TIERE,Europe
+Greece,GRC,Ilion,ILI,1,2,TIERE,Europe
+Greece,GRC,Kallithea,KLT,1,2,TIERE,Europe
+Greece,GRC,Piraeus,PIR,1,3,TIERE,Europe
+Greece,GRC,Rhodes,RHO,1,2,TIERE,Europe
+Greece,GRC,Agios Dimitrios,AGD,1,2,TIERE,Europe
+Greece,GRC,Zografou,ZGR,1,2,TIERE,Europe
+Colombia,COL,Bogota,BOG,1,33,TIERE,Americas
+Colombia,COL,Medellín,MDE,1,12,TIERE,Americas
+Colombia,COL,Cali,CLO,1,12,TIERE,Americas
+Colombia,COL,Barranquilla,BAQ,1,6,TIERE,Americas
+Colombia,COL,Cartagena,CTG,1,5,TIERE,Americas
+Colombia,COL,Cucuta,CUC,1,4,TIERE,Americas
+Colombia,COL,Bucaramanga,BGA,1,3,TIERE,Americas
+Colombia,COL,Soledad,SOL,1,4,TIERE,Americas
+Colombia,COL,Pereira,PEI,1,3,TIERE,Americas
+Colombia,COL,Santa Marta,SMR,1,3,TIERE,Americas
+Colombia,COL,Ibague,IBE,1,3,TIERE,Americas
+Colombia,COL,Villavicencio,VVC,1,3,TIERE,Americas
+Colombia,COL,Soacha,SOA,1,3,TIERE,Americas
+Colombia,COL,Manizales,MZL,1,2,TIERE,Americas
+Colombia,COL,Pasto,PSO,1,3,TIERE,Americas
+Colombia,COL,Monteria,MTR,1,2,TIERE,Americas
+Colombia,COL,Neiva,NVA,1,2,TIERE,Americas
+Colombia,COL,Valledupar,VUP,1,3,TIERE,Americas
+Colombia,COL,Palmira,PLM,1,2,TIERE,Americas
+Colombia,COL,Armenia,AXM,1,2,TIERE,Americas
+Algeria,DZA,Algiers,ALG,1,36,TIERE,MEA
+Algeria,DZA,Oran,ORN,1,16,TIERE,MEA
+Algeria,DZA,Constantine,CZL,1,10,TIERE,MEA
+Algeria,DZA,Annaba,AAE,1,4,TIERE,MEA
+Algeria,DZA,Blida,BLI,1,4,TIERE,MEA
+Algeria,DZA,Batna,BLJ,1,4,TIERE,MEA
+Algeria,DZA,Setif,QSF,1,4,TIERE,MEA
+Algeria,DZA,Djelfa,DJF,1,3,TIERE,MEA
+Algeria,DZA,Biskra,BSK,1,3,TIERE,MEA
+Algeria,DZA,Bejaia,BJA,1,3,TIERE,MEA
+Algeria,DZA,Tlemcen,TLM,1,2,TIERE,MEA
+Algeria,DZA,Béchar,CBH,1,2,TIERE,MEA
+Algeria,DZA,Tiaret,TID,1,2,TIERE,MEA
+Algeria,DZA,Tébessa,TEE,1,3,TIERE,MEA
+Algeria,DZA,El Oued,ELU,1,2,TIERE,MEA
+Algeria,DZA,Sidi Bel Abbes,BFW,1,3,TIERE,MEA
+Algeria,DZA,Médéa,MDA,1,2,TIERE,MEA
+Algeria,DZA,Jijel,GJL,1,2,TIERE,MEA
+Algeria,DZA,Mostaganem,MQV,1,2,TIERE,MEA
+Algeria,DZA,Skikda,SKI,1,3,TIERE,MEA
+Iraq,IRQ,Baghdad,BGW,1,35,TIERE,MEA
+Iraq,IRQ,Basra,BSR,1,14,TIERE,MEA
+Iraq,IRQ,Mosul,OSM,1,10,TIERE,MEA
+Iraq,IRQ,Erbil,EBL,1,8,TIERE,MEA
+Iraq,IRQ,Kirkuk,KIK,1,5,TIERE,MEA
+Iraq,IRQ,Sulaymaniyah,ISU,1,4,TIERE,MEA
+Iraq,IRQ,Najaf,NJF,1,3,TIERE,MEA
+Iraq,IRQ,Karbala,KAB,1,3,TIERE,MEA
+Iraq,IRQ,Nasiriyah,NSD,1,3,TIERE,MEA
+Iraq,IRQ,Fallujah,FLJ,1,2,TIERE,MEA
+Iraq,IRQ,Ramadi,RMD,1,3,TIERE,MEA
+Iraq,IRQ,Hillah,HLA,1,3,TIERE,MEA
+Iraq,IRQ,Amarah,AMM,1,2,TIERE,MEA
+Iraq,IRQ,Samawah,SWA,1,2,TIERE,MEA
+Iraq,IRQ,Diyala,DLI,1,1,TIERE,MEA
+Iraq,IRQ,Tikrit,TKR,1,1,TIERE,MEA
+Iraq,IRQ,Baqubah,BAQ,1,3,TIERE,MEA
+Iraq,IRQ,Dohuk,DOH,1,2,TIERE,MEA
+Iraq,IRQ,Kut,KUT,1,2,TIERE,MEA
+Iraq,IRQ,Diwaniyah,DIW,1,3,TIERE,MEA
+Hungary,HUN,Budapest,BUD,1,49,TIERE,Europe
+Hungary,HUN,Debrecen,DEB,1,6,TIERE,Europe
+Hungary,HUN,Miskolc,MCQ,1,5,TIERE,Europe
+Hungary,HUN,Szeged,QZD,1,5,TIERE,Europe
+Hungary,HUN,Pécs,PEV,1,4,TIERE,Europe
+Hungary,HUN,Győr,QGY,1,4,TIERE,Europe
+Hungary,HUN,Nyiregyhaza,NYR,1,4,TIERE,Europe
+Hungary,HUN,Kecskemet,KEC,1,4,TIERE,Europe
+Hungary,HUN,Szekesfehervar,SKZ,1,3,TIERE,Europe
+Hungary,HUN,Szombathely,SOM,1,3,TIERE,Europe
+Hungary,HUN,Szolnok,SZO,1,3,TIERE,Europe
+Hungary,HUN,Eger,EGR,1,2,TIERE,Europe
+Hungary,HUN,Érd,ERD,1,2,TIERE,Europe
+Hungary,HUN,Dunaujvaros,DUV,1,2,TIERE,Europe
+Hungary,HUN,Sopron,SOP,1,2,TIERE,Europe
+Hungary,HUN,Zalaegerszeg,ZEG,1,2,TIERE,Europe
+Hungary,HUN,Kaposvar,CPR,1,2,TIERE,Europe
+Hungary,HUN,Veszprem,VES,1,2,TIERE,Europe
+Hungary,HUN,Gyor,GYO,1,4,TIERE,Europe
+Hungary,HUN,Bekescsaba,BKS,1,2,TIERE,Europe
+Qatar,QAT,Doha,DOH,1,59,TIERE,MEA
+Qatar,QAT,Al Rayyan,DIA,1,15,TIERE,MEA
+Qatar,QAT,Al Wakrah,AWK,1,5,TIERE,MEA
+Qatar,QAT,Al Khor,AKH,1,2,TIERE,MEA
+Qatar,QAT,Mesaieed,MES,1,2,TIERE,MEA
+Qatar,QAT,Madinat ash Shamal,MAS,1,1,TIERE,MEA
+Qatar,QAT,Umm Salal,UMS,1,2,TIERE,MEA
+Qatar,QAT,Al Daayen,DAA,1,3,TIERE,MEA
+Qatar,QAT,Al Shahaniya,SHA,1,1,TIERE,MEA
+Qatar,QAT,Lusail,LUS,1,5,TIERE,MEA
+Qatar,QAT,The Pearl,TPQ,1,2,TIERE,MEA
+Qatar,QAT,Education City,EDC,1,1,TIERE,MEA
+Qatar,QAT,West Bay,WBQ,1,1,TIERE,MEA
+Qatar,QAT,Ain Khaled,AKQ,1,1,TIERE,MEA
+Qatar,QAT,Muaither,MUA,1,2,TIERE,MEA
+Qatar,QAT,Fereej Abdul Aziz,FAA,1,1,TIERE,MEA
+Qatar,QAT,Madinat Khalifa,MKQ,1,2,TIERE,MEA
+Qatar,QAT,Al Aziziyah,AAZ,1,2,TIERE,MEA
+Qatar,QAT,Al Markhiya,AMQ,1,2,TIERE,MEA
+Qatar,QAT,Fereej Bin Mahmoud,FBM,1,1,TIERE,MEA
+Ukraine,UKR,Kyiv,IEV,1,23,TIERE,Europe
+Ukraine,UKR,Kharkiv,HRK,1,11,TIERE,Europe
+Ukraine,UKR,Odessa,ODS,1,8,TIERE,Europe
+Ukraine,UKR,Dnipro,DNK,1,8,TIERE,Europe
+Ukraine,UKR,Donetsk,DOK,1,7,TIERE,Europe
+Ukraine,UKR,Zaporizhzhia,OZH,1,6,TIERE,Europe
+Ukraine,UKR,Lviv,LWO,1,6,TIERE,Europe
+Ukraine,UKR,Kryvyi Rih,KWG,1,5,TIERE,Europe
+Ukraine,UKR,Mykolaiv,NLV,1,4,TIERE,Europe
+Ukraine,UKR,Mariupol,MPW,1,4,TIERE,Europe
+Ukraine,UKR,Luhansk,VSG,1,3,TIERE,Europe
+Ukraine,UKR,Vinnytsia,VIN,1,3,TIERE,Europe
+Ukraine,UKR,Makiivka,MAK,1,3,TIERE,Europe
+Ukraine,UKR,Chernivtsi,CWC,1,2,TIERE,Europe
+Ukraine,UKR,Sevastopol,UKS,1,3,TIERE,Europe
+Ukraine,UKR,Symferopol,SIP,1,3,TIERE,Europe
+Ukraine,UKR,Kherson,KHE,1,3,TIERE,Europe
+Ukraine,UKR,Poltava,PLV,1,3,TIERE,Europe
+Ukraine,UKR,Chernihiv,CEJ,1,3,TIERE,Europe
+Ukraine,UKR,Bila Tserkva,BLT,1,2,TIERE,Europe
+Ethiopia,ETH,Addis Ababa,ADD,1,46,TIERE,MEA
+Ethiopia,ETH,Dire Dawa,DIR,1,6,TIERE,MEA
+Ethiopia,ETH,Mekele,MQX,1,5,TIERE,MEA
+Ethiopia,ETH,Nazret,NAZ,1,5,TIERE,MEA
+Ethiopia,ETH,Bahir Dar,BJR,1,5,TIERE,MEA
+Ethiopia,ETH,Gondar,GDQ,1,5,TIERE,MEA
+Ethiopia,ETH,Hawassa,AWA,1,5,TIERE,MEA
+Ethiopia,ETH,Dessie,DSE,1,4,TIERE,MEA
+Ethiopia,ETH,Jimma,JIM,1,4,TIERE,MEA
+Ethiopia,ETH,Jijiga,JIJ,1,3,TIERE,MEA
+Ethiopia,ETH,Shashamane,SHA,1,3,TIERE,MEA
+Ethiopia,ETH,Bishoftu,BIS,1,3,TIERE,MEA
+Ethiopia,ETH,Sodo,SOD,1,2,TIERE,MEA
+Ethiopia,ETH,Arba Minch,AMH,1,2,TIERE,MEA
+Ethiopia,ETH,Hosaena,HSS,1,2,TIERE,MEA
+Ethiopia,ETH,Harar,DIR,1,2,TIERE,MEA
+Ethiopia,ETH,Dilla,DIL,1,2,TIERE,MEA
+Ethiopia,ETH,Nekemte,NEK,1,2,TIERE,MEA
+Ethiopia,ETH,Debre Markos,DBM,1,2,TIERE,MEA
+Ethiopia,ETH,Kombolcha,KOM,1,2,TIERE,MEA
+Morocco,MAR,Casablanca,CMN,1,27,TIERE,MEA
+Morocco,MAR,Rabat,RBA,1,15,TIERE,MEA
+Morocco,MAR,Fes,FEZ,1,9,TIERE,MEA
+Morocco,MAR,Marrakech,RAK,1,7,TIERE,MEA
+Morocco,MAR,Agadir,AGA,1,5,TIERE,MEA
+Morocco,MAR,Tangier,TNG,1,8,TIERE,MEA
+Morocco,MAR,Meknes,MEK,1,4,TIERE,MEA
+Morocco,MAR,Kenitra,KEN,1,4,TIERE,MEA
+Morocco,MAR,Temara,TEM,1,3,TIERE,MEA
+Morocco,MAR,Oujda,OUD,1,4,TIERE,MEA
+Morocco,MAR,Tetouan,TTU,1,3,TIERE,MEA
+Morocco,MAR,Sale,SAL,1,7,TIERE,MEA
+Morocco,MAR,Safi,SFI,1,3,TIERE,MEA
+Morocco,MAR,Mohammedia,MOH,1,2,TIERE,MEA
+Morocco,MAR,El Jadida,EJD,1,2,TIERE,MEA
+Morocco,MAR,Beni Mellal,BEM,1,2,TIERE,MEA
+Morocco,MAR,Nador,NDR,1,2,TIERE,MEA
+Morocco,MAR,Taza,TAZ,1,2,TIERE,MEA
+Morocco,MAR,Al Hoceima,AHU,1,1,TIERE,MEA
+Morocco,MAR,Khouribga,KHO,1,2,TIERE,MEA
+Slovakia,SVK,Bratislava,BTS,1,29,TIERE,Europe
+Slovakia,SVK,Kosice,KSC,1,14,TIERE,Europe
+Slovakia,SVK,Prešov,POV,1,6,TIERE,Europe
+Slovakia,SVK,Zilina,ILZ,1,5,TIERE,Europe
+Slovakia,SVK,Banská Bystrica,BZI,1,5,TIERE,Europe
+Slovakia,SVK,Nitra,NIT,1,5,TIERE,Europe
+Slovakia,SVK,Trnava,TRN,1,5,TIERE,Europe
+Slovakia,SVK,Martin,MRT,1,4,TIERE,Europe
+Slovakia,SVK,Trenčín,TNC,1,4,TIERE,Europe
+Slovakia,SVK,Poprad,TAT,1,4,TIERE,Europe
+Slovakia,SVK,Prievidza,PRV,1,3,TIERE,Europe
+Slovakia,SVK,Zvolen,ZVO,1,3,TIERE,Europe
+Slovakia,SVK,Povazska Bystrica,PBY,1,3,TIERE,Europe
+Slovakia,SVK,Michalovce,MKD,1,3,TIERE,Europe
+Slovakia,SVK,Nove Zamky,NZM,1,3,TIERE,Europe
+Slovakia,SVK,Spišská Nová Ves,SNV,1,3,TIERE,Europe
+Slovakia,SVK,Komarno,KOM,1,3,TIERE,Europe
+Slovakia,SVK,Levice,LVK,1,3,TIERE,Europe
+Slovakia,SVK,Humenne,HUM,1,3,TIERE,Europe
+Slovakia,SVK,Bardejov,BJJ,1,3,TIERE,Europe
+Kuwait,KWT,Kuwait City,KWI,1,45,TIERE,MEA
+Kuwait,KWT,Hawalli,HAW,1,14,TIERE,MEA
+Kuwait,KWT,Al Farwaniyah,FAR,1,13,TIERE,MEA
+Kuwait,KWT,Al Ahmadi,AHM,1,10,TIERE,MEA
+Kuwait,KWT,Jahra,JAH,1,6,TIERE,MEA
+Kuwait,KWT,Mubarak Al-Kabeer,MBK,1,4,TIERE,MEA
+Kuwait,KWT,Salmiya,SAL,1,3,TIERE,MEA
+Kuwait,KWT,Fahaheel,FAH,1,2,TIERE,MEA
+Kuwait,KWT,Rumaithiyya,RUM,1,1,TIERE,MEA
+Kuwait,KWT,Sabah Al-Salem,SBS,1,1,TIERE,MEA
+Kuwait,KWT,Al-Mangaf,MAG,1,1,TIERE,MEA
+Kuwait,KWT,Ar Riqqah,ARR,1,1,TIERE,MEA
+Kuwait,KWT,Bayan,BAY,1,1,TIERE,MEA
+Kuwait,KWT,Salwa,SAW,1,1,TIERE,MEA
+Kuwait,KWT,Mishref,MIS,1,1,TIERE,MEA
+Kuwait,KWT,Fintas,FIN,1,1,TIERE,MEA
+Kuwait,KWT,Abu Halifa,AHF,1,1,TIERE,MEA
+Kuwait,KWT,Ruq'i,RUQ,1,1,TIERE,MEA
+Kuwait,KWT,Um Al Hayman,UAH,1,1,TIERE,MEA
+Kuwait,KWT,Sabahiya,SAB,1,1,TIERE,MEA
+Ecuador,ECU,Guayaquil,GYE,1,33,TIERE,Americas
+Ecuador,ECU,Quito,UIO,1,25,TIERE,Americas
+Ecuador,ECU,Cuenca,CUE,1,8,TIERE,Americas
+Ecuador,ECU,Santo Domingo,TNS,1,6,TIERE,Americas
+Ecuador,ECU,Manta,MEC,1,3,TIERE,Americas
+Ecuador,ECU,Portoviejo,PTJ,1,4,TIERE,Americas
+Ecuador,ECU,Machala,MCH,1,4,TIERE,Americas
+Ecuador,ECU,Eloy Alfaro,DAU,1,2,TIERE,Americas
+Ecuador,ECU,Loja,LOH,1,3,TIERE,Americas
+Ecuador,ECU,Esmeraldas,ESM,1,3,TIERE,Americas
+Ecuador,ECU,Ibarra,IBB,1,3,TIERE,Americas
+Ecuador,ECU,Ambato,ATF,1,3,TIERE,Americas
+Ecuador,ECU,Riobamba,RIO,1,2,TIERE,Americas
+Ecuador,ECU,Latacunga,LTX,1,2,TIERE,Americas
+Ecuador,ECU,Tulcán,TUA,1,1,TIERE,Americas
+Ecuador,ECU,Quevedo,UIO,1,2,TIERE,Americas
+Ecuador,ECU,Milagro,MIL,1,3,TIERE,Americas
+Ecuador,ECU,Babahoyo,BHA,1,2,TIERE,Americas
+Ecuador,ECU,Nueva Loja,LGQ,1,1,TIERE,Americas
+Ecuador,ECU,Azogues,AZO,1,1,TIERE,Americas
+Angola,AGO,Luanda,LAD,1,65,TIERE,MEA
+Angola,AGO,Huambo,NOV,1,7,TIERE,MEA
+Angola,AGO,Lobito,LOB,1,5,TIERE,MEA
+Angola,AGO,Benguela,BGA,1,4,TIERE,MEA
+Angola,AGO,Kuito,SVP,1,2,TIERE,MEA
+Angola,AGO,Lubango,SDD,1,5,TIERE,MEA
+Angola,AGO,Malanje,MEG,1,3,TIERE,MEA
+Angola,AGO,Namibe,MSZ,1,2,TIERE,MEA
+Angola,AGO,Soyo,SOY,1,1,TIERE,MEA
+Angola,AGO,Cabinda,CAB,1,5,TIERE,MEA
+Angola,AGO,Uige,UIG,1,2,TIERE,MEA
+Angola,AGO,Saurimo,VHC,1,1,TIERE,MEA
+Angola,AGO,Menongue,SPP,1,1,TIERE,MEA
+Angola,AGO,Ndalatando,NDA,1,1,TIERE,MEA
+Angola,AGO,Lucapa,LBZ,1,1,TIERE,MEA
+Angola,AGO,Cazombo,CAO,1,1,TIERE,MEA
+Angola,AGO,Sumbe,NDD,1,2,TIERE,MEA
+Angola,AGO,Dundo,DRC,1,1,TIERE,MEA
+Angola,AGO,Longonjo,LON,1,1,TIERE,MEA
+Angola,AGO,Xangongo,XGN,1,1,TIERE,MEA
+Kenya,KEN,Nairobi,NBI,1,45,TIERE,MEA
+Kenya,KEN,Mombasa,MBA,1,13,TIERE,MEA
+Kenya,KEN,Kisumu,KIS,1,7,TIERE,MEA
+Kenya,KEN,Nakuru,NUU,1,6,TIERE,MEA
+Kenya,KEN,Eldoret,EDL,1,5,TIERE,MEA
+Kenya,KEN,Ruiru,RIU,1,5,TIERE,MEA
+Kenya,KEN,Kikuyu,KIK,1,4,TIERE,MEA
+Kenya,KEN,Machakos,MKS,1,3,TIERE,MEA
+Kenya,KEN,Malindi,MYD,1,2,TIERE,MEA
+Kenya,KEN,Thika,TKA,1,3,TIERE,MEA
+Kenya,KEN,Meru,MRU,1,2,TIERE,MEA
+Kenya,KEN,Kisii,KIS,1,2,TIERE,MEA
+Kenya,KEN,Kitale,KTL,1,2,TIERE,MEA
+Kenya,KEN,Garissa,GAS,1,2,TIERE,MEA
+Kenya,KEN,Nyeri,NYE,1,2,TIERE,MEA
+Kenya,KEN,Kericho,KER,1,2,TIERE,MEA
+Kenya,KEN,Embu,EMU,1,2,TIERE,MEA
+Kenya,KEN,Naivasha,NAI,1,2,TIERE,MEA
+Kenya,KEN,Lamu,LAU,1,1,TIERE,MEA
+Kenya,KEN,Wajir,WJR,1,2,TIERE,MEA
+Oman,OMN,Muscat,MCT,1,51,TIERE,MEA
+Oman,OMN,Sohar,OHS,1,7,TIERE,MEA
+Oman,OMN,Salalah,SLL,1,7,TIERE,MEA
+Oman,OMN,Nizwa,NZW,1,3,TIERE,MEA
+Oman,OMN,Sur,SUV,1,3,TIERE,MEA
+Oman,OMN,Ibri,IBR,1,2,TIERE,MEA
+Oman,OMN,Al Buraymi,RMB,1,2,TIERE,MEA
+Oman,OMN,Khasab,KHS,1,1,TIERE,MEA
+Oman,OMN,Rustaq,RUS,1,2,TIERE,MEA
+Oman,OMN,Al Hamra,AHM,1,1,TIERE,MEA
+Oman,OMN,Bahla,BAH,1,1,TIERE,MEA
+Oman,OMN,Ibra,IBR,1,2,TIERE,MEA
+Oman,OMN,Al Suwaiq,SWQ,1,1,TIERE,MEA
+Oman,OMN,Shinas,SHI,1,1,TIERE,MEA
+Oman,OMN,Izki,IZK,1,2,TIERE,MEA
+Oman,OMN,Al Khaburah,AKB,1,2,TIERE,MEA
+Oman,OMN,Saham,SAH,1,2,TIERE,MEA
+Oman,OMN,Al Khuwair,KHW,1,3,TIERE,MEA
+Oman,OMN,Seeb,SEB,1,13,TIERE,MEA
+Oman,OMN,Bidbid,BID,1,2,TIERE,MEA

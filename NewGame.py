@@ -12,7 +12,7 @@ def End(SHEET, screen, joystick):
         Shot(SHEET, screen, ShotTeam, SweeperScore, ShotPos, Shooter, start_x, init_yv, spin)
         pygame.time.delay(1000)
 
-def Game_HiRes(Home, Away):
+def game_HiRes(Home, Away):
     screen, joystick = startPygame('AAA')
     SHEET = Sheet(Home, Away)
     while SHEET.end < SHEET.numends:
@@ -25,5 +25,19 @@ def Game_HiRes(Home, Away):
         while rezzy is None:
             End(SHEET, screen, joystick)
             rezzy = SHEET.reset(EE = True)
-        return [Home, rezzy[0], rezzy[1], Away]
+        return [Home, rezzy[0], rezzy[1], Away, True]
+    
+
+def game_LoRes(Home, Away):
+    HomeRating = Home.getRating()
+    AwayRating = Away.getRating()
+    diff = .21*(HomeRating - AwayRating)
+    spread = math.floor(np.random.normal(diff, 3))
+    loserScore = round(12*np.random.beta(9, 4))
+    if spread < 0:
+        return [Home, loserScore, loserScore-spread, Away, False]
+    elif spread > 0:
+        return [Home, loserScore+spread, loserScore, Away, False]
+    else:
+        return [Home, loserScore+1, loserScore, Away, True]
     
