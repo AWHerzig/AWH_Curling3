@@ -15,9 +15,11 @@ for teamrownum in range(len(BASECSV)):
     build = Team(BASECSV.loc[teamrownum, 'Team'], BASECSV.loc[teamrownum, 'TeamABR'])
     TEAMSDF.loc[build] = [BASECSV.loc[teamrownum, 'Country'], BASECSV.loc[teamrownum, 'Region'], BASECSV.loc[teamrownum, 'TIER'], BASECSV.loc[teamrownum, 'LeaguePrestige'], 50, max(BASECSV.loc[teamrownum, 'Budget'], 1)]
 TEAMSDF = TEAMSDF.sort_values(['TotalBudget'], ascending=False)
-def Offseason(RosterDF, numloops = 1, increaseYear = True):
+def Offseason(RosterDF, handle = None, numloops = 1, newUserPlayer = None): # nUP = ['Name', 'Country', 'Value']
     for _ in range(numloops):
         print(_)
+        if handle is not None:
+            TEAMSDF.TeamPrestige = [100*(handle.CL['Europe'].teamIn(tm) or handle.CL['Asia'].teamIn(tm) or handle.CL['Americas'].teamIn(tm) or handle.CL['MEA'].teamIn(tm)) for tm in TEAMSDF.index]
         for plyr in RosterDF.index:
             plyr.ageup()
             RosterDF.loc[plyr, 'Rating'] = plyr.getRating()
@@ -30,6 +32,9 @@ def Offseason(RosterDF, numloops = 1, increaseYear = True):
             for ______ in range(int(NumberToMake)):
                 build = Player(names.get_full_name(), country)
                 ROOKIEDF.loc[build] = [build.getRating(), build.age, build.country, build.country]
+        if newUserPlayer is not None:
+            build = Player(newUserPlayer[0], newUserPlayer[1], newUserPlayer[2], controlled=True)
+            ROOKIEDF.loc[build] = [build.getRating(), build.age, build.country, build.country]
         # Get Expiring Contracts
         EXPIREDF = RosterDF[RosterDF.Years==0][['Rating', 'Age', 'Country', 'League']]
         FADF = pd.concat([ROOKIEDF, EXPIREDF]).sort_values(['Rating', 'Age'], ascending=[False, True])
@@ -53,19 +58,22 @@ def Offseason(RosterDF, numloops = 1, increaseYear = True):
                 CurPlayer.name.values['Home Nation']*100*(TFCP.Country == CurPlayer.Country) + \
                 CurPlayer.name.values['Consistent Location']*100*(TFCP.Country == CurPlayer.League)
             TFCP = TFCP.sort_values('Score', ascending=False)
-            
-            Contract = TFCP.iloc[0]
-            Salary = Contract.AAVOffer #if len(TFCP) == 1 else min(Contract.AAVOffer, TFCP.iloc[1].AAVOffer + .1)
-            """
-            
-            if AAAAA <= 5 and _ == 19:
-            #if random.uniform(0, 100) < .1:
-                print('FA DEMO')
-                print(CurPlayer)
-                print(TFCP.head(15))
-                print(Salary)
-            """
-            RosterDF.loc[CurPlayer.name] = Contract.Country, Contract.name, CurPlayer.Country, CurPlayer.Rating, CurPlayer.Age, Contract.YearsOffer, Salary
+            if CurPlayer.name.controlled:
+                ToShow = TFCP[['Country', 'LeaguePrestige', 'TeamPrestige', 'YearsOffer', 'AAVOffer', 'Score']].copy()
+                ToShow['Home Nation'] = ToShow.Country == CurPlayer.Country
+                ToShow['Consistent Location'] = ToShow.Country == CurPlayer.League
+                ToShow.to_csv('Output/UserFAOptions')
+                confirm = False
+                ind = 0
+                while not confirm:
+                    ind = int(input('INPUT ROW NUMBER OF TEAM YOUD LIKE TO SIGN WITH'))
+                    confirm = bool(input(f'You have selected offer from {TFCP.iloc[ind].name}, is this correct? (1-yes, 0-choose again)'))
+                Contract = TFCP.iloc[ind]
+            else:
+                Contract = TFCP.iloc[0]
+                #Salary = Contract.AAVOffer #if len(TFCP) == 1 else min(Contract.AAVOffer, TFCP.iloc[1].AAVOffer + .1)
+                
+            RosterDF.loc[CurPlayer.name] = Contract.Country, Contract.name, CurPlayer.Country, CurPlayer.Rating, CurPlayer.Age, Contract.YearsOffer, Contract.AAVOffer
             FADF.drop(CurPlayer.name, inplace = True)
             NEEDSDF.loc[Contract.name, 'PlayersNeeded'] -= 1
             NEEDSDF.loc[Contract.name, 'AvailableBudget'] -= Contract.AAVOffer
@@ -76,4 +84,3 @@ def Offseason(RosterDF, numloops = 1, increaseYear = True):
         COUNTRYDF.loc[cnty, 'TEAM'].setRoster(RosterDF[RosterDF.Country == cnty].sort_values('Rating', ascending = False).index[:4])
     return RosterDF.sort_values('Rating', ascending = False)
 
-ALLROSTERED = Offseason(ALLROSTERED, numloops=20, increaseYear=False)

@@ -67,20 +67,67 @@ class Sheet:
             return sum(trim_all_none(self.HomeScore)) - sum(trim_all_none(self.AwayScore))
         else:
             return sum(trim_all_none(self.AwayScore)) - sum(trim_all_none(self.HomeScore))
-
+        
 class Player:
-    def __init__(self, name, country, value = None):
+    def __init__(self, name, country, value = None, controlled = False):
         self.name = name if name is not None else names.get_full_name()
         self.age = 1
-        self.controlled = False
+        self.controlled = controlled
         self.country = country
         self.risk = random.randint(1, 100)
         # self.attributes
-        self.yacc = adjustDraw(20, 30)
-        self.xacc = adjustDraw(20, 30)
-        self.curl = adjustDraw(20, 30)
-        self.twowaycurl = np.random.choice([True, False], p=[.1, .9])
-        self.sweep = adjustDraw(20, 30)
+        if self.controlled:
+            screen, joystick = startPygame('PLAYER BUILDING')
+            selections = {
+                'Y-ACC': 0, 'X-ACC': 0, 'SWEEP':0, 'C-ACC':0, '2-WAY': 0
+            }
+            startingbudget = 100
+            finalized = False
+            curind = 0
+            DEADZONE = 0.2
+            AXIS_SENS = 0.4       # movement sensitivity
+            cooldown = 0
+            while not finalized:
+                for event in pygame.event.get():
+                    if event.type == pygame.QUIT:
+                        pygame.display.quit()
+                        return None
+                    # A button confirms
+                    if event.type == pygame.JOYBUTTONDOWN:
+                        if event.button == 0:  # A button
+                            finalized = True
+                left_x = joystick.get_axis(0)
+                if abs(left_x) > DEADZONE and cooldown <= 0:
+                    if curind == 4:
+                        selections[list(selections.keys())[curind]] = 32 if left_x > 0 and 100 - sum(list(selections.values())) >= 32 else 0
+                        cooldown = 50
+                    else:
+                        selections[list(selections.keys())[curind]] += round(left_x) if (left_x > 0 and sum(list(selections.values())) < startingbudget) or (left_x < 0 and selections[list(selections.keys())[curind]] > 0) else 0
+                        cooldown = 10
+
+                
+                left_y = joystick.get_axis(1)
+                if abs(left_y) > DEADZONE and cooldown <= 0:
+                    curind = round(curind + 1*(left_y/abs(left_y))) % 5
+                    cooldown = 50
+                cooldown -= 1
+                screen.fill(black)
+                text(f'{self.name} INITIAL STATS', (screenWidth*.5, screenHeight*.1), 48, screen)
+                text(f'REMAINING BUDGET: {startingbudget - sum(list(selections.values()))}', (screenWidth*.5, screenHeight*.2), 48, screen)
+                for i in range(5):
+                    text(f'{list(selections.keys())[i]}: {list(selections.values())[i]}', (screenWidth*.25, screenHeight*(.3+.1*i)), 48, screen, blue if curind == i else white, spot='midleft')
+                pygame.display.update()
+            self.yacc = selections['Y-ACC']
+            self.xacc = selections['X-ACC']
+            self.curl = selections['C-ACC']
+            self.twowaycurl = selections['2-WAY'] > 0
+            self.sweep = selections['SWEEP']
+        else:
+            self.yacc = adjustDraw(20, 30)
+            self.xacc = adjustDraw(20, 30)
+            self.curl = adjustDraw(20, 30)
+            self.twowaycurl = np.random.choice([True, False], p=[.1, .9])
+            self.sweep = adjustDraw(20, 30)
         # Values
         self.values = {
             'Contract': .4,
@@ -101,41 +148,88 @@ class Player:
     
     def ageup(self):
         self.age += 1
-        if self.age <= 3:
-            self.yacc += adjustDraw(15, 30)
-            self.xacc += adjustDraw(15, 30)
-            self.curl += adjustDraw(15, 30)
-            self.sweep += adjustDraw(15, 30)
-            if random.uniform(0, 100) < 10:
-                self.twowaycurl = True
-        elif self.age <= 5:
-            self.yacc += adjustDraw(10, 25)
-            self.xacc += adjustDraw(10, 25)
-            self.curl += adjustDraw(10, 25)
-            self.sweep += adjustDraw(10, 25)
-            if random.uniform(0, 100) < 20:
-                self.twowaycurl = True
-        elif self.age <= 7:
-            self.yacc += adjustDraw(0, 20)
-            self.xacc += adjustDraw(0, 20)
-            self.curl += adjustDraw(0, 20)
-            self.sweep += adjustDraw(0, 20)
-            if random.uniform(0, 100) < 40:
-                self.twowaycurl = True
-        elif self.age <= 10:
-            self.yacc += adjustDraw(-10, 20)
-            self.xacc += adjustDraw(-10, 20)
-            self.curl += adjustDraw(-10, 20)
-            self.sweep += adjustDraw(-10, 20)
-            if random.uniform(0, 100) < 80:
-                self.twowaycurl = True
+        if self.controlled:
+            screen, joystick = startPygame('PLAYER UPGRADES')
+            selections = {
+                'Y-ACC': self.yacc, 'X-ACC': self.xacc, 'SWEEP':self.sweep, 'C-ACC':self.curl, '2-WAY': 32*self.twowaycurl
+            }
+            startingbudget = round(332*((3*(self.age-1))**-1)+ sum(list(selections.values())))
+            finalized = False
+            curind = 0
+            DEADZONE = 0.2
+            AXIS_SENS = 0.4       # movement sensitivity
+            cooldown = 0
+            while not finalized:
+                for event in pygame.event.get():
+                    if event.type == pygame.QUIT:
+                        pygame.display.quit()
+                        return None
+                    # A button confirms
+                    if event.type == pygame.JOYBUTTONDOWN:
+                        if event.button == 0:  # A button
+                            finalized = True
+                left_x = joystick.get_axis(0)
+                if abs(left_x) > DEADZONE and cooldown <= 0:
+                    if curind == 4:
+                        selections[list(selections.keys())[curind]] = 32 if left_x > 0 and (startingbudget - sum(list(selections.values())) >= 32 or selections[list(selections.keys())[curind]]) == 32 else 0
+                        cooldown = 50
+                    else:
+                        selections[list(selections.keys())[curind]] += round(left_x) if (left_x > 0 and sum(list(selections.values())) < startingbudget and selections[list(selections.keys())[curind]] < 0) or (left_x < 0 and selections[list(selections.keys())[curind]] > 0) else 0
+                        cooldown = 10
+
+                
+                left_y = joystick.get_axis(1)
+                if abs(left_y) > DEADZONE and cooldown <= 0:
+                    curind = round(curind + 1*(left_y/abs(left_y))) % 5
+                    cooldown = 50
+                cooldown -= 1
+                screen.fill(black)
+                text(f'{self.name} UPGRADE STATS', (screenWidth*.5, screenHeight*.1), 48, screen)
+                text(f'REMAINING BUDGET: {startingbudget - sum(list(selections.values()))}', (screenWidth*.5, screenHeight*.2), 48, screen)
+                for i in range(5):
+                    text(f'{list(selections.keys())[i]}: {list(selections.values())[i]}', (screenWidth*.25, screenHeight*(.3+.1*i)), 48, screen, blue if curind == i else white, spot='midleft')
+                pygame.display.update()
+            self.yacc = selections['Y-ACC']
+            self.xacc = selections['X-ACC']
+            self.curl = selections['C-ACC']
+            self.twowaycurl = selections['2-WAY'] > 0
+            self.sweep = selections['SWEEP']
         else:
-            self.yacc += adjustDraw(-20, 20)
-            self.xacc += adjustDraw(-20, 20)
-            self.curl += adjustDraw(-20, 20)
-            self.sweep += adjustDraw(-20, 20)
-            if random.uniform(0, 100) < 105:
-                self.twowaycurl = True
+            if self.age <= 3:
+                self.yacc += adjustDraw(15, 30)
+                self.xacc += adjustDraw(15, 30)
+                self.curl += adjustDraw(15, 30)
+                self.sweep += adjustDraw(15, 30)
+                if random.uniform(0, 100) < 10:
+                    self.twowaycurl = True
+            elif self.age <= 5:
+                self.yacc += adjustDraw(10, 25)
+                self.xacc += adjustDraw(10, 25)
+                self.curl += adjustDraw(10, 25)
+                self.sweep += adjustDraw(10, 25)
+                if random.uniform(0, 100) < 20:
+                    self.twowaycurl = True
+            elif self.age <= 7:
+                self.yacc += adjustDraw(0, 20)
+                self.xacc += adjustDraw(0, 20)
+                self.curl += adjustDraw(0, 20)
+                self.sweep += adjustDraw(0, 20)
+                if random.uniform(0, 100) < 40:
+                    self.twowaycurl = True
+            elif self.age <= 10:
+                self.yacc += adjustDraw(-10, 20)
+                self.xacc += adjustDraw(-10, 20)
+                self.curl += adjustDraw(-10, 20)
+                self.sweep += adjustDraw(-10, 20)
+                if random.uniform(0, 100) < 80:
+                    self.twowaycurl = True
+            else:
+                self.yacc += adjustDraw(-20, 20)
+                self.xacc += adjustDraw(-20, 20)
+                self.curl += adjustDraw(-20, 20)
+                self.sweep += adjustDraw(-20, 20)
+                if random.uniform(0, 100) < 105:
+                    self.twowaycurl = True
         self.yacc = clamp(self.yacc, 0, 100)
         self.xacc = clamp(self.xacc, 0, 100)
         self.curl = clamp(self.curl, 0, 100)
@@ -171,3 +265,6 @@ class Team:
 
     def getRating(self):
         return .25*(self.lead.getRating()+self.second.getRating()+self.third.getRating()+self.skip.getRating())
+    
+    def anyControlled(self):
+        return self.controlled or self.lead.controlled or self.second.controlled or self.third.controlled or self.skip.controlled

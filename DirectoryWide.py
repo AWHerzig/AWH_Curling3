@@ -20,6 +20,7 @@ import matplotlib
 from tabulate import tabulate
 
 pd.set_option('display.float_format', lambda x: '%.2f' % x)
+pd.options.mode.chained_assignment = None
 
 #screenWidth, screenHeight = 1250, 600
 screenWidth, screenHeight = 2500, 1200
@@ -158,7 +159,7 @@ def fill_combinations(df, col1, col2):
     new_df = pd.DataFrame(combinations, columns=[col1, col2])
     return new_df
 
-def bracket(teams, ogteams = None, topL = (50, 25), botR = (screenWidth-50, screenHeight-50), page = True, caption = 'BRACKET'):  # This shit is dope, teams should be seeded. More than 32 really get squeezed.
+def bracket(teams, ogteams = None, topL = (50, 25), botR = (screenWidth-50, screenHeight-50), page = True, caption = 'BRACKET', seeded = True):  # This shit is dope, teams should be seeded. More than 32 really get squeezed.
     surf, joystick = startPygame(caption)
     if page:
         surf.fill(color=black)
@@ -167,7 +168,7 @@ def bracket(teams, ogteams = None, topL = (50, 25), botR = (screenWidth-50, scre
     n = len(teams)
     R = math.ceil(math.log(n, 2)) + 1
     xpr = (maxX - minX) / R
-    bracketRecursive((maxX, .5*(minY+maxY)), 1, R, xpr, minY, maxY, surf, teams, ogteams, 1)
+    bracketRecursive((maxX, .5*(minY+maxY)), 1, R, xpr, minY, maxY, surf, teams, ogteams, 1, seeded=seeded)
     pygame.display.update()
     while page:
         for event in pygame.event.get():
@@ -178,23 +179,24 @@ def bracket(teams, ogteams = None, topL = (50, 25), botR = (screenWidth-50, scre
             if event.type == pygame.QUIT:
                 pygame.quit()
 
-def bracketRecursive(front, r, maxr, xpr, ceil, floor, surf, teams, ogteams, seed):  # ceil in minY, floor is maxY
+def bracketRecursive(front, r, maxr, xpr, ceil, floor, surf, teams, ogteams, seed, seeded = True):  # ceil in minY, floor is maxY
+    #print(seeded)
     back = front[0] - xpr, front[1]
     up = back[0], .5*(back[1] + ceil)
     down = back[0], .5*(floor + back[1])
     pygame.draw.line(surf, white, front, back)
     if r == maxr or 2**r + 1 - seed > len(teams) or allNone(teams[2**r - seed]):
-        if ogteams is None:
-            text(f'#{index_ignore_none(teams, teams[seed-1])+1} {teams[seed-1]}', (.5*(front[0]+back[0]), front[1]-10), 16, surf)
-        else:
+        if seeded:
             text(f'#{index_ignore_none(ogteams, teams[seed-1])+1} {teams[seed-1]}', (.5*(front[0]+back[0]), front[1]-10), 16, surf)
+        else:
+            text(f'{teams[seed-1]}', (.5*(front[0]+back[0]), front[1]-10), 16, surf)
         return
     if r < maxr:
         
         pygame.draw.line(surf, white, back, up)
         pygame.draw.line(surf, white, back, down)
-        bracketRecursive(up, r + 1, maxr, xpr, ceil, front[1], surf, teams, ogteams, seed)
-        bracketRecursive(down, r + 1, maxr, xpr, front[1], floor, surf, teams, ogteams, 2**r + 1 - seed)
+        bracketRecursive(up, r + 1, maxr, xpr, ceil, front[1], surf, teams, ogteams, seed, seeded=seeded)
+        bracketRecursive(down, r + 1, maxr, xpr, front[1], floor, surf, teams, ogteams, 2**r + 1 - seed, seeded=seeded)
 
 def bracketWrap(PlayoffTeams, lg, screen):
     if lg == 'NFL':

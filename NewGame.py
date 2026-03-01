@@ -12,6 +12,12 @@ def End(SHEET, screen, joystick):
         Shot(SHEET, screen, ShotTeam, SweeperScore, ShotPos, Shooter, start_x, init_yv, spin)
         pygame.time.delay(1000)
 
+def gameWrapper(Home, Away):
+    if Home.anyControlled() or Away.anyControlled():
+        return game_HiRes(Home, Away)
+    else:
+        return game_LoRes(Home, Away)
+
 def game_HiRes(Home, Away):
     screen, joystick = startPygame('AAA')
     SHEET = Sheet(Home, Away)
