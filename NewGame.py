@@ -19,7 +19,7 @@ def gameWrapper(Home, Away):
         return game_LoRes(Home, Away)
 
 def game_HiRes(Home, Away):
-    screen, joystick = startPygame('AAA')
+    screen, joystick = startPygame(f'{Home.name} vs {Away.name}')
     SHEET = Sheet(Home, Away)
     while SHEET.end < SHEET.numends:
         End(SHEET, screen, joystick)

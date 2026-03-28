@@ -30,7 +30,7 @@ def Offseason(RosterDF, handle = None, numloops = 1, newUserPlayer = None): # nU
         for country in TEAMSDF.Country.unique():
             NumberToMake = OriginAbsolutes[COUNTRYDF.loc[country, 'TIER']]
             for ______ in range(int(NumberToMake)):
-                build = Player(names.get_full_name(), country)
+                build = Player(name=None, country=country)
                 ROOKIEDF.loc[build] = [build.getRating(), build.age, build.country, build.country]
         if newUserPlayer is not None:
             build = Player(newUserPlayer[0], newUserPlayer[1], newUserPlayer[2], controlled=True)
@@ -48,7 +48,10 @@ def Offseason(RosterDF, handle = None, numloops = 1, newUserPlayer = None): # nU
             AAAAA += 1
             CurPlayer = FADF.iloc[0]
             TFCP = NEEDSDF.copy()
-            TFCP['YearsOffer'] = np.random.choice([2, 3], len(NEEDSDF))
+            if CurPlayer.name.controlled:
+                TFCP['YearsOffer'] = 1
+            else:
+                TFCP['YearsOffer'] = np.random.choice([2, 3], len(NEEDSDF))
             TFCP['AAVOffer'] = TFCP.AvailableBudget*2/(TFCP.PlayersNeeded+1)
             TFCP['ContractScore'] = TFCP.AAVOffer**2*TFCP.YearsOffer
             TFCP.ContractScore = 100*TFCP.ContractScore/np.max(TFCP.ContractScore)

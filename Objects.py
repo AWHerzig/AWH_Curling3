@@ -68,15 +68,88 @@ class Sheet:
         else:
             return sum(trim_all_none(self.AwayScore)) - sum(trim_all_none(self.HomeScore))
         
+locales = {
+    "United States": "en_US",
+    "China": "zh_CN",
+    "Germany": "de_DE",
+    "Japan": "ja_JP",
+    "India": "hi_IN",
+    "United Kingdom": "en_GB",
+    "France": "fr_FR",
+    "Italy": "it_IT",
+    "Brazil": "pt_BR",
+    "Canada": "en_CA",
+    "Russia": "ru_RU",
+    "South Korea": "ko_KR",
+    "Australia": "en_AU",
+    "Mexico": "es_MX",
+    "Spain": "es",
+    "Indonesia": "id_ID",
+    "Netherlands": "nl_NL",
+    "Saudi Arabia": "ar",
+    "Turkey": "tr_TR",
+    "Switzerland": "de_CH",
+    "Argentina": "es",
+    "Poland": "pl_PL",
+    "Sweden": "sv_SE",
+    "Belgium": "fr_BE",
+    "Thailand": "th_TH",
+    "Ireland": "en_IE",
+    "Norway": "no_NO",
+    "Israel": "he_IL",
+    "Austria": "de_AT",
+    "United Arab Emirates": "ar",
+    "Singapore": "zh_TW",
+    "Nigeria": "en_NG",       # West African English, closest available
+    "Philippines": "fil_PH",
+    "Malaysia": "zh_TW",      # similar regional English
+    "Denmark": "da_DK",
+    "South Africa": "en_GB",
+    "Bangladesh": "hi_IN",    # closest South Asian locale
+    "Egypt": "ar",
+    "Vietnam": "vi_VN",
+    "Hong Kong": "zh_TW",
+    "Pakistan": "hi_IN",      # closest South Asian locale
+    "Chile": "es",
+    "Finland": "fi_FI",
+    "Romania": "ro_RO",
+    "Czech Republic": "cs_CZ",
+    "New Zealand": "en_NZ",
+    "Peru": "es",
+    "Portugal": "pt_PT",
+    "Kazakhstan": "ru_RU",    # Russian widely spoken, similar naming conventions
+    "Greece": "el_GR",
+    "Colombia": "es",
+    "Algeria": "ar",
+    "Iraq": "ar",
+    "Hungary": "hu_HU",
+    "Qatar": "ar",
+    "Ukraine": "uk_UA",
+    "Ethiopia": "en_NG",      # Amharic locale
+    "Morocco": "ar",
+    "Slovakia": "sk_SK",
+    "Kuwait": "ar",
+    "Ecuador": "es",
+    "Angola": "pt_PT",        # Portuguese-speaking
+    "Kenya": "en_NG",         # Swahili locale
+    "Oman": "ar",
+}
+        
 class Player:
     def __init__(self, name, country, value = None, controlled = False):
-        self.name = name if name is not None else names.get_full_name()
+        self.name = name if name is not None else Faker(locales.get(country, 'en_US')).name_male()
         self.age = 1
         self.controlled = controlled
         self.country = country
         self.risk = random.randint(1, 100)
         # self.attributes
         if self.controlled:
+            self.yacc = 100
+            self.xacc = 100
+            self.curl = 100
+            self.twowaycurl = True
+            self.sweep = 100
+            """
             screen, joystick = startPygame('PLAYER BUILDING')
             selections = {
                 'Y-ACC': 0, 'X-ACC': 0, 'SWEEP':0, 'C-ACC':0, '2-WAY': 0
@@ -122,6 +195,7 @@ class Player:
             self.curl = selections['C-ACC']
             self.twowaycurl = selections['2-WAY'] > 0
             self.sweep = selections['SWEEP']
+            """
         else:
             self.yacc = adjustDraw(20, 30)
             self.xacc = adjustDraw(20, 30)
@@ -149,6 +223,8 @@ class Player:
     def ageup(self):
         self.age += 1
         if self.controlled:
+            pass
+            """
             screen, joystick = startPygame('PLAYER UPGRADES')
             selections = {
                 'Y-ACC': self.yacc, 'X-ACC': self.xacc, 'SWEEP':self.sweep, 'C-ACC':self.curl, '2-WAY': 32*self.twowaycurl
@@ -194,6 +270,7 @@ class Player:
             self.curl = selections['C-ACC']
             self.twowaycurl = selections['2-WAY'] > 0
             self.sweep = selections['SWEEP']
+            """
         else:
             if self.age <= 3:
                 self.yacc += adjustDraw(15, 30)
@@ -254,7 +331,8 @@ class Team:
         x['ShooterRating'] = [.33*(plyr.yacc+plyr.xacc+plyr.curl)+5*plyr.twowaycurl for plyr in x.index]
         x['sweep'] = [plyr.sweep for plyr in x.index]
         x['DIFF'] = x.ShooterRating - x.sweep
-        x['Composite'] = x.DIFF+.5*x.ShooterRating
+        x['User'] = [plyr.controlled for plyr in x.index]
+        x['Composite'] = x.DIFF+.5*x.ShooterRating+1000*x.User
         x.sort_values('Composite', inplace = True)
         x['Help'] = [0, 0, 1, 2]
         x.sort_values(['Help', 'ShooterRating'], inplace=True)
@@ -262,6 +340,10 @@ class Team:
         self.second = x.index[1]
         self.third = x.index[2]
         self.skip = x.index[3]
+        if self.anyControlled():
+            print(self.name)
+            print(x)
+
 
     def getRating(self):
         return .25*(self.lead.getRating()+self.second.getRating()+self.third.getRating()+self.skip.getRating())

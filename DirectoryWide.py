@@ -13,6 +13,7 @@ import subprocess
 import collections
 import seaborn as sns
 import matplotlib.pyplot as plt
+from faker import Faker
 
 sys.path.append('c:\\users\\leojo\\appdata\\local\\packages\\pythonsoftwarefoundation.python.3.13_qbz5n2kfra8p0\\localcache\\local-packages\\python313\\site-packages')
 sys.path.append('c:\\Users\\leojo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts')
@@ -470,3 +471,4 @@ def create_scatterplot(df, x_col, y_col, color_col=None):
   plt.yticks(np.arange(0, 100 + 1, 10))
   plt.grid(True)
   plt.show()
+

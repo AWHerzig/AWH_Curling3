@@ -579,15 +579,21 @@ class HANDLER:
         rosterdf = Offseason(rosterdf, self, numloops=1)
         return rosterdf
 
-PickleFile = None
+PickleFile = 'REAL2_8Mar26_3'
 if PickleFile is not None:
     with open(f'Pickles/{PickleFile}.pkl', 'rb') as f:
         data = pickle.load(f)
         ALLROSTERED, GLOBALHANDLER = data['Roster'], data['handle']
-        for tm in TEAMSDF.index:
-            tm.setRoster(ALLROSTERED[ALLROSTERED.Team == tm].index)
+        ALLROSTERED['TMNAME'] = [tm.name for tm in ALLROSTERED.Team]
+        for ind in range(len(TEAMSDF)):
+            TM, CNT = TEAMSDF.index[ind], TEAMSDF.Country.iloc[ind]
+            plyrs = ALLROSTERED.loc[(ALLROSTERED.TMNAME == TM.name) & (ALLROSTERED.League == CNT)].index
+            ALLROSTERED.loc[plyrs, 'Team'] = TM
+            TM.setRoster(plyrs)
         for cnty in COUNTRYDF.index:
             COUNTRYDF.loc[cnty, 'TEAM'].setRoster(ALLROSTERED[ALLROSTERED.Country == cnty].sort_values('Rating', ascending = False).index[:4])
+        ALLROSTERED.drop('TMNAME', inplace = True, axis = 1)
 else:
     ALLROSTERED = Offseason(ALLROSTERED, numloops=20)
     GLOBALHANDLER = HANDLER()
+    ALLROSTERED = Offseason(ALLROSTERED, GLOBALHANDLER, 1, ['Aidan Herzig',  'United States', 'Team Prestige'])

@@ -1,0 +1,171 @@
+,YEAR,COMPETITION,WINNER
+0,1,Asia CL Quals Path 1,Xi'an
+1,1,Asia CL Quals Path 2,Pune
+2,1,Asia CL Quals Path 3,Dalian
+3,1,Asia CL Quals Path 4,Brisbane
+4,1,Asia CL Quals Path 5,Jakarta
+5,1,Asia CL Quals Path 6,Suwon
+6,1,Asia CL Quals Path 7,Wellington
+7,1,Asia CL Quals Path 8,Hong Kong
+8,1,Europe CL Quals Path 1,Vienna
+9,1,Europe CL Quals Path 2,Vila Nova de Gaia
+10,1,Europe CL Quals Path 3,Rotterdam
+11,1,Europe CL Quals Path 4,Prague
+12,1,Europe CL Quals Path 5,Nantes
+13,1,Europe CL Quals Path 6,Norrkoping
+14,1,Europe CL Quals Path 7,Izmir
+15,1,WCQ Europe STAGE 1 GROUP 1,Germany
+16,1,WCQ Europe STAGE 1 GROUP 2,United Kingdom
+17,1,WCQ Europe STAGE 1 GROUP 3,Czech Republic
+18,1,WCQ Europe STAGE 1 GROUP 4,France
+19,1,WCQ MEA STAGE 1 GROUP 1,United Arab Emirates
+20,1,WCQ MEA STAGE 1 GROUP 2,Nigeria
+21,1,WCQ MEA STAGE 1 GROUP 3,Israel
+22,1,WCQ Americas,United States
+23,1,MEA CL GROUP 1,Kuwait City
+24,1,MEA CL GROUP 2,Durban
+25,1,MEA CL GROUP 3,Abuja
+26,1,MEA CL GROUP 4,Al Ain
+27,1,Algeria League Play,Oran
+28,1,Angola League Play,Luanda
+29,1,Argentina League Play,La Plata
+30,1,Australia League Play,Newcastle
+31,1,Austria League Play,Graz
+32,1,Bangladesh League Play,Dhaka
+33,1,Belgium League Play,Namur
+34,1,Brazil League Play,Goiania
+35,1,Canada League Play,Toronto
+36,1,Chile League Play,Santiago
+37,1,China League Play,Tianjin
+38,1,Colombia League Play,Bogota
+39,1,Czech Republic League Play,Prague
+40,1,Denmark League Play,Copenhagen
+41,1,Ecuador League Play,Guayaquil
+42,1,Egypt League Play,Alexandria
+43,1,Ethiopia League Play,Addis Ababa
+44,1,Finland League Play,Vantaa
+45,1,France League Play,Saint-Etienne
+46,1,Germany League Play,Hamburg
+47,1,Greece League Play,Thessaloniki
+48,1,Hong Kong League Play,Hong Kong
+49,1,Hungary League Play,Budapest
+50,1,India League Play,Bangalore
+51,1,Indonesia League Play,Bandung
+52,1,Iraq League Play,Baghdad
+53,1,Ireland League Play,Dublin
+54,1,Israel League Play,Ashdod
+55,1,Italy League Play,Rome
+56,1,Japan League Play,Sapporo
+57,1,Kazakhstan League Play,Astana
+58,1,Kenya League Play,Nairobi
+59,1,Kuwait League Play,Kuwait City
+60,1,Malaysia League Play,Kuala Lumpur
+61,1,Mexico League Play,Juarez
+62,1,Morocco League Play,Casablanca
+63,1,Netherlands League Play,Rotterdam
+64,1,New Zealand League Play,Auckland
+65,1,Nigeria League Play,Abuja
+66,1,Norway League Play,Oslo
+67,1,Oman League Play,Seeb
+68,1,Pakistan League Play,Karachi
+69,1,Peru League Play,Lima
+70,1,Philippines League Play,Davao
+71,1,Poland League Play,Warsaw
+72,1,Portugal League Play,Vila Nova de Gaia
+73,1,Qatar League Play,Doha
+74,1,Romania League Play,Bucharest
+75,1,Russia League Play,Moscow
+76,1,Saudi Arabia League Play,Riyadh
+77,1,Singapore League Play,Singapore
+78,1,Slovakia League Play,Bratislava
+79,1,South Africa League Play,Pretoria
+80,1,South Korea League Play,Suwon
+81,1,Spain League Play,La Coruna
+82,1,Sweden League Play,Uppsala
+83,1,Switzerland League Play,Bern
+84,1,Thailand League Play,Bangkok
+85,1,Turkey League Play,Istanbul
+86,1,Ukraine League Play,Kyiv
+87,1,United Arab Emirates League Play,Sharjah
+88,1,United Kingdom League Play,Leicester
+89,1,United States League Play,Chicago
+90,1,Vietnam League Play,Ho Chi Minh City
+91,1,WCQ Europe STAGE 2 GROUP 1,United Kingdom
+92,1,WCQ Europe STAGE 2 GROUP 2,Germany
+93,1,WCQ Asia STAGE 2,Japan
+94,1,WCQ MEA STAGE 2,United Arab Emirates
+95,1,WCQ Europe PLAY-IN,Italy
+96,1,WCQ Asia PLAY-IN,India
+97,1,WCQ Americas Playoffs,Chile
+98,1,WCQ MEA FINAL,United Arab Emirates
+99,1,Europe CL Knockouts,Nantes
+100,1,Asia CL,Chengdu
+101,1,Americas CL Finals,Chicago
+102,1,MEA CL Finals,Durban
+103,1,Algeria Playoffs,Algiers
+104,1,Angola Playoffs,Luanda
+105,1,Argentina Playoffs,Cordoba
+106,1,Australia Playoffs,Sydney
+107,1,Austria Playoffs,Graz
+108,1,Bangladesh Playoffs,Dhaka
+109,1,Belgium Playoffs,Charleroi
+110,1,Brazil Playoffs,Fortaleza
+111,1,Canada Playoffs,Toronto
+112,1,Chile Playoffs,Santiago
+113,1,China Playoffs,Chengdu
+114,1,Colombia Playoffs,Medellín
+115,1,Czech Republic Playoffs,Prague
+116,1,Denmark Playoffs,Copenhagen
+117,1,Ecuador Playoffs,Quito
+118,1,Egypt Playoffs,Alexandria
+119,1,Ethiopia Playoffs,Bahir Dar
+120,1,Finland Playoffs,Vantaa
+121,1,France Playoffs,Strasbourg
+122,1,Germany Playoffs,Duisburg
+123,1,Greece Playoffs,Thessaloniki
+124,1,Hong Kong Playoffs,Tuen Mun
+125,1,Hungary Playoffs,Budapest
+126,1,India Playoffs,Delhi
+127,1,Indonesia Playoffs,Bandung
+128,1,Iraq Playoffs,Mosul
+129,1,Ireland Playoffs,Cork
+130,1,Israel Playoffs,Netanya
+131,1,Italy Playoffs,Taranto
+132,1,Japan Playoffs,Nagoya
+133,1,Kazakhstan Playoffs,Almaty
+134,1,Kenya Playoffs,Nairobi
+135,1,Kuwait Playoffs,Hawalli
+136,1,Malaysia Playoffs,Subang Jaya
+137,1,Mexico Playoffs,Juarez
+138,1,Morocco Playoffs,Casablanca
+139,1,Netherlands Playoffs,Rotterdam
+140,1,New Zealand Playoffs,Wellington
+141,1,Nigeria Playoffs,Lagos
+142,1,Norway Playoffs,Oslo
+143,1,Oman Playoffs,Muscat
+144,1,Pakistan Playoffs,Karachi
+145,1,Peru Playoffs,Lima
+146,1,Philippines Playoffs,Davao
+147,1,Poland Playoffs,Torun
+148,1,Portugal Playoffs,Amadora
+149,1,Qatar Playoffs,Al Rayyan
+150,1,Romania Playoffs,Bucharest
+151,1,Russia Playoffs,Moscow
+152,1,Saudi Arabia Playoffs,Mecca
+153,1,Singapore Playoffs,Singapore
+154,1,Slovakia Playoffs,Bratislava
+155,1,South Africa Playoffs,Durban
+156,1,South Korea Playoffs,Incheon
+157,1,Spain Playoffs,Murcia
+158,1,Sweden Playoffs,Lund
+159,1,Switzerland Playoffs,Bern
+160,1,Thailand Playoffs,Nonthaburi
+161,1,Turkey Playoffs,Istanbul
+162,1,Ukraine Playoffs,Kyiv
+163,1,United Arab Emirates Playoffs,Dubai
+164,1,United Kingdom Playoffs,London
+165,1,United States Playoffs,New York
+166,1,Vietnam Playoffs,Haiphong
+167,1,CWC GROUP STAGE,Chengdu
+168,1,CWC FINAL,Chicago
+169,1,WORLD CUP KNOCKOUTS,United States
